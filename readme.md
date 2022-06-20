@@ -23,5 +23,5 @@ The **APPCH Corpus** (**A**pplication **P**rivacy **P**olicies in **Ch**inese) i
 
 
 
-The dataset is made available for research, teaching, and scholarship purposes only. You can fine raw corpus in "spider" and labeled corpus in "annotations".
+The dataset is made available for research, teaching, and scholarship purposes only. You can find raw corpus in "spider" and labeled corpus in "annotations".
 
