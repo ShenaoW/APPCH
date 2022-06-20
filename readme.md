@@ -7,9 +7,9 @@ The **APPCH Corpus** (**A**pplication **P**rivacy **P**olicies in **Ch**inese) i
 | CONTACTS         | READ_CONTACTS、WRITE_CONTACTS、GET_ACCOUNTS                  | CON   |
 | LOCATION         | ACCESS_FINE_LOCATION、ACCESS_COARSE_LOCATION                 | LOC   |
 | MICROPHONE       | RECORD_AUDIO                                                 | MIC   |
-| PHONE            | READ_PHONE_STATE、CALL_PHONE、READ_CALL_LOG、WRITE_CALL_LOG<br />ADD_VOICEMAIL、USE_SIP、PROCESS_OUTGOING_CALLS | PHO   |
+| PHONE            | READ_PHONE_STATE、CALL_PHONE、READ_CALL_LOG、<br/>WRITE_CALL_LOG、ADD_VOICEMAIL、USE_SIP、<br/>PROCESS_OUTGOING_CALLS | PHO   |
 | SENSORS          | BODY_SENSORS                                                 | SEN   |
-| SMS              | SEND_SMS、RECEIVE_SMS、READ_SMS、RECEIVE_WAP_PUSH、RECEIVE_MMS | SMS   |
+| SMS              | SEND_SMS、RECEIVE_SMS、READ_SMS、<br/>RECEIVE_WAP_PUSH、RECEIVE_MMS | SMS   |
 | STORAGE          | READ_EXTERNAL_STORAGE、WRITE_EXTERNAL_STORAGE                | STO   |
 
 - In manual annotation sets, each privacy policy was read and annotated by three annotators from Cyber Engneering School. By manual annotation, we got **98 labeled policies** and a dictionary of **678 data practice phrases**.
