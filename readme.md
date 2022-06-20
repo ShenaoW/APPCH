@@ -26,5 +26,5 @@ The **APPCH Corpus** (**A**pplication **P**rivacy **P**olicies in **Ch**inese) i
 
 The dataset is made available for research, teaching, and scholarship purposes only. You can find raw corpus in "spider" and labeled corpus in "annotations".
 
-Special thanks to: [YEDDA] https://github.com/jiesutd/YEDDA
+Special thanks to: [YEDDA]:https://github.com/jiesutd/YEDDA
 
