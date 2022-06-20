@@ -1,0 +1,255 @@
+
+
+
+
+呼噜猫舍隐私声明
+
+
+呼噜猫舍应用隐私政策
+开发者名称:大连左右科技有限公司
+呼噜猫舍应用是由大连左右科技有限公司（以下简称“左右科技公司”）为您提供的一款睡眠记录服务产品
+左右科技公司十分尊重您的个人信息和数据，并会尽全力保护您的个人信息和数据的安全可靠。
+本政策仅适用于呼噜猫舍应用收集和存储的用户信息和数据。
+请在使用呼噜猫舍应用前，务必仔细阅读并了解和同意《呼噜猫舍应用的隐私政策》。
+该政策规定了您在使用呼噜猫舍应用时我们将如何收集、使用、披露、处理和保护您提供给我们的信息。
+如果我们需要您提供某些信息用于在使用该产品时验证您的身份、以及向我们的第三方服务供应商连接服务时，我们会严格遵守该隐私政策来使用这些信息。
+如果您已经开始使用呼噜猫舍应用，就表示您已经阅读、许可并接受该隐私政策中所描述的所有条款，以及我们今后随时做出的任何变更。
+另外，您需要承诺在您开始使用本产品时已经是成年人，如果您是未成年人，需要您的监护人同意您使用本产品并同意相关的服务条款和隐私政策。
+（1）呼噜猫舍应用怎样收集并使用您的信息（包括个人信息）
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息
+其中属于个人敏感信息的包括个人[@生物识别信息#敏感权限类型 CAMERA*]（例如指纹、面部、声纹）、身份证件号码、银行账号、财产信息、交易信息、[@行踪轨迹#敏感权限类型 LOCATION*]（例如居住和办公地址）等
+我们只会以该声明中所列出的目的，来收集和使用您的信息：
+1.数据统计，数据分析服务
+我们的产品集成华为分析SDK，华为分析SDK需要手机您的[@设备Mac地址#敏感权限类型 PHONE*]，[@唯一设备识别码#敏感权限类型 PHONE*]（[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@ICCID#敏感权限类型 PHONE*]、[@GAID#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]，具体字段因软[@硬件版本#敏感权限类型 PHONE*]不同而存在差异）并通过
+[@地理位置#敏感权限类型 LOCATION*]校准报表数据准确性，提供基础反作弊能力。
+
+2.广告展示服务
+我们的产品集成穿山甲Gromore聚合SDK，优量汇SDK，提供开屏广告服务，需要读取您的[@设备唯一识别码#敏感权限类型 PHONE*]（[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@ICCID#敏感权限类型 PHONE*]、[@GAID#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]，具体字段因软[@硬件版本#敏感权限类型 PHONE*]不同而存在差异）联网状态信息，
+[@地理位置#敏感权限类型 LOCATION*]，用于分析您使用我们的服务情况，优化广告投放。
+
+3.消息推送服务
+我们因实现消息推送功能的需要，会使用小米，华为，vivo，oppo手机厂商的第三方PUSHSDK。您使用小米，华为，vivo，oppo上述手机时，PushSDK需要收集[@唯一设备标识符#敏感权限类型 PHONE*]，[@设备运行进程#敏感权限类型 PHONE*]信息，应用程序列表信息，
+并可能会收集您的[@手机型号#敏感权限类型 PHONE*]，[@系统类型#敏感权限类型 PHONE*]，[@系统版本#敏感权限类型 PHONE*]，联网相关信息，以确保您能正常收到消息推送，以及卸载客户端之后，不会再收到消息推送。
+
+4.崩溃，故障信息统计服务
+我们的产品集成华为崩溃SDK，需要读取您的[@设备标识符#敏感权限类型 PHONE*]，wifi地址，[@运营商信息#敏感权限类型 PHONE*]，用于提供崩溃日志上报。
+
+5.性能分析服务
+我们的产品集成华为性能分析SDK，需要读取您的[@AAID#敏感权限类型 PHONE*]，应用包名，应用版本号，[@网络类型#敏感权限类型 PHONE*]，Android版本号，[@设备型号#敏感权限类型 PHONE*]，产品品牌，[@存储空间#敏感权限类型 STORAGE*]状态，内存使用状态，屏幕方向，屏幕尺寸，语言，是否ROOT
+采集本应用运行期间的性能数据（包括启动耗时、加载耗时、网络请求耗时、ANR等），用于基于应用版本、设备类型、[@设备型号#敏感权限类型 PHONE*]等维度下的统计分析，并基于应用内[@设备标识符#敏感权限类型 PHONE*]去重统计某些性能问题影响到的设备规模，帮助优化应用性能，持续提升用户体验。
+
+6.Android版本基于系统权限的功能服务
+(1)写入和[@读取文件#敏感权限类型 STORAGE*]：我们需要如下权限（android.permission.[@WRITE_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]和android.permission.[@READ_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]）您在呼噜猫舍内使用记录睡眠功能时，呼噜猫舍会请求获取[@存储空间权限#敏感权限类型 STORAGE*]用于保存睡眠文件
+(2)允许程序访问：我们需要如下权限（android.permission.GET_TASKS）该权限用于小米SDK的消息推送服务
+(3)[@获取手机状态#敏感权限类型 PHONE*]：我们需要如下权限（android.permission.[@READ_PHONE_STATE#敏感权限类型 PHONE*]）该权限用于华为分析SDK和华为崩溃SDK获取用户手机信息，以便上报数据分析
+(4)加入电池优化白名单：我们需要如下权限（android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS）该权限用于保障呼噜猫舍后台运行稳定性
+(5)[@获取粗略定位#敏感权限类型 LOCATION*]：我们需要如下权限（android.permission.[@ACCESS_COARSE_LOCATION#敏感权限类型 LOCATION*]）该权限用于华为SDK的数据分析服务
+(6)建立前台服务：我们需要如下权限（android.permission.FOREGROUND_SERVICE）该权限用于音频服务，闹钟服务，记录睡眠
+(7)安装App：我们需要如下权限（android.permission.REQUEST_INSTALL_PACKAGES）该权限用于App更新
+(8)获取网络状态权限：我们需要如下权限（android.permission.ACCESS_NETWORK_STATE）该权限用于检测当前网络连接是否有效
+(9)获取网络访问权限：我们需要如下权限（android.permission.INTERNET）该权限用于通过网络上报应用性能数据到服务器
+7.呼噜猫舍所使用的第三方SDK相关信息
+7-1华为SDK
+7.1.1华为分析服务
+使用目的：收集和统计分析使用本产品用户的信息
+收集信息：[@设备MAC地址#敏感权限类型 PHONE*]，[@设备标识符#敏感权限类型 PHONE*]（如[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@ICCID#敏感权限类型 PHONE*]、[@GAID#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]，具体字段因软[@硬件版本#敏感权限类型 PHONE*]不同而存在差异）网络信息，[@运营商信息#敏感权限类型 PHONE*]
+官网地址：华为分析服务
+7.1.2华为崩溃分析服务
+使用目的：收集该应用产生的崩溃
+收集信息：[@设备MAC地址#敏感权限类型 PHONE*]，[@设备标识符#敏感权限类型 PHONE*]（如[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@ICCID#敏感权限类型 PHONE*]、[@GAID#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]，具体字段因软[@硬件版本#敏感权限类型 PHONE*]不同而存在差异）网络信息，[@运营商信息#敏感权限类型 PHONE*]，用户使用该产品过程中发生的崩溃日志
+官网地址：华为崩溃分析服务
+7.1.3华为推送服务
+使用目的：推送消息给用户
+收集信息：[@设备MAC地址#敏感权限类型 PHONE*]，[@设备标识符#敏感权限类型 PHONE*]（如[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@ICCID#敏感权限类型 PHONE*]、[@GAID#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]，具体字段因软[@硬件版本#敏感权限类型 PHONE*]不同而存在差异）网络信息，[@运营商信息#敏感权限类型 PHONE*]
+官网地址：华为推送服务
+7.1.4华为性能分析
+使用目的：采集本应用运行期间的性能数据
+收集信息：[@AAID#敏感权限类型 PHONE*]、应用包名、应用版本号，[@网络类型#敏感权限类型 PHONE*]，Android版本号、[@设备型号#敏感权限类型 PHONE*]、产品品牌、[@存储空间#敏感权限类型 STORAGE*]状态、内存使用状态、屏幕方向、屏幕尺寸、语言、是否Root
+官网地址：华为性能管理
+7-2穿山甲GromoreSDK
+使用SDK名称：穿山甲GromoreSDK，穿山甲广告SDK，优量汇广告SDK，百度广告SDK
+使用目的：向开发者提供帮助调整广告变现策略的服务
+服务类型：广告变现服务
+收集信息：[@设备品牌#敏感权限类型 PHONE*]、型号、[@操作系统版本#敏感权限类型 PHONE*]信息、[@设备标识符#敏感权限类型 PHONE*]（如[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@ICCID#敏感权限类型 PHONE*]、[@GAID#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]，具体字段因软[@硬件版本#敏感权限类型 PHONE*]不同而存在差异）软件安装列表等
+基础信息应用信息：开发者应用名、应用包名、版本号等信息
+其他信息：[@运营商信息#敏感权限类型 PHONE*]、设备时区、[@设备地理位置#敏感权限类型 LOCATION*]、[@网络设备硬件地址#敏感权限类型 PHONE*]（[@MAC地址#敏感权限类型 PHONE*]）、[@IP 地址#敏感权限类型 LOCATION*]、[@WLAN接入点#敏感权限类型 LOCATION*]（如[@SSID#敏感权限类型 PHONE*]，[@BSSID#敏感权限类型 PHONE*]）、蓝牙（Bluetooth）、基站、软件版本号、[@网络接入方式#敏感权限类型 PHONE*]、类型、状态、[@网络质量数据#敏感权限类型 PHONE*]、操作、使用、服务日志。"
+隐私权政策链接：穿山甲聚合SDK隐私政策
+隐私权政策链接：穿山甲平台隐私政策
+隐私权政策链接：优量汇SDK个人信息保护规则
+7-3番茄小说SDK
+使用SDK名称：番茄小说SDK
+使用目的：小说内容输出合作
+服务类型：小说内容提供
+收集信息：[@硬件型号#敏感权限类型 PHONE*]、[@设备品牌#敏感权限类型 PHONE*]、型号、[@操作系统版本号#敏感权限类型 PHONE*]、系统设置、系统属性、屏幕分辨率、[@IMEI#敏感权限类型 PHONE*]、[@AndroidID#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@IDFA#敏感权限类型 PHONE*]、[@IDFV#敏感权限类型 PHONE*]、[@IMSI#敏感权限类型 PHONE*]、[@MEID#敏感权限类型 PHONE*]、应用版本、应用包名、[@WLAN接入点#敏感权限类型 LOCATION*]、蓝牙、软件版本号、[@网络接入方式#敏感权限类型 PHONE*]、类型、状态、[@网络质量数据#敏感权限类型 PHONE*]、操作、使用、服务日志。
+隐私权政策链接：番茄小说SDK隐私政策
+7-4vivo推送SDK
+使用SDK名称：vpushsdk
+使用目的：在vivo品牌手机上实现系统级推送
+服务类型：推送服务
+隐私权政策链接：vivo推送平台服务协议
+7-5oppo推送SDK
+使用SDK名称：oppopushsdk
+使用目的：在oppo品牌手机上实现系统级推送
+服务类型：推送服务
+隐私权政策链接：OPPO消息推送服务开发者协议
+7-6xiaomi推送SDK
+使用SDK名称：xiaomipushsdk
+使用目的：在小米品牌手机上实现系统级推送
+服务类型：推送服务
+收集信息：[@OAID#敏感权限类型 PHONE*]，Hashed[@Android ID#敏感权限类型 PHONE*]，RegID，应用基本信息（包括应用包名、版本号和运行状态)，消息内容，[@设备相关信息#敏感权限类型 PHONE*]（[@设备厂商#敏感权限类型 PHONE*]、[@设备型号#敏感权限类型 PHONE*]、设备内存、[@操作系统版本#敏感权限类型 PHONE*]、小米推送SDK版本、设备归属地)，通知栏设置（是否屏蔽通知栏、是否设置锁屏弹出消息等），事件消息（包含消息创建事件、下发事件、到达事件、点击事件）
+协议链接：小米推送技术服务协议
+协议链接：小米推送技术服务数据保护附录
+协议链接：个人数据处理说明
+协议链接：小米推送隐私政策
+（2）保留政策与数据存储
+我们会在符合法律法规要求，以及实现信息收集目的的必要期限内，保存上述收集的您的个人信息。超过上述期限后，我们将不会再保留个人信息或对个人信息进行匿名化
+2-1.数据存储地点
+我们在本产品和服务中所收集和产生的个人信息，将存储在中华人民共和国境内。
+2-2.数据存储期限
+我们仅为实现上述目的所需要的时间来保留您的个人信息，并在超出保留时间后删除或匿名化处理您的个人信息，但法律法规另有要求的除外。
+在呼噜猫舍应用中，您的个人数据具体留存时间如下：
+为了持续优化和改进用户体验，我们会采集假名化后的[@设备信息#敏感权限类型 PHONE*]，数据的存储期跟随友盟数据分析平台要求时间存储
+另外，如果我们的产品或服务发生了停止运营的情况时，我们将以推送通知、公告等形式告知您，并在合理的期限内删除您的个人信息或进行匿名化处理。
+（3）我们请求哪些权限以及我们为什么请求这些权限
+查看网络连接权限：旨在于保证呼噜猫舍可以正常使用
+完全的网络访问权限：旨在于友盟SDK上报信息和发送推送通知给您
+开机启动权限：旨在于保证闹钟功能的正常使用
+运行前台服务权限：旨在于保证音频播放功能正常使用
+（4）优先顺序
+本隐私政策针对呼噜猫舍应用的应用软件以及其提供的相关服务，如果本隐私政策与左右科技公司隐私政策之间存在不一致，以本隐私政策为准；若本隐私政策未包含（约定）的相关内容，则以左右科技公司隐私政策中包含（约定）的为准。
+（5）联系我们
+如果您对本隐私政策有任何疑问、意见或建议，或者对我们收集、使用或披露您的个人信息有任何问题，请通过邮件与我们联系，邮件地址为：babymoment@funnysir.com
+（6）免责
+由于您将设备交由他人导致个人信息泄漏
+由于黑客行为，计算机病毒入侵
+以上呼噜猫舍不承担任何责任
+（7）更新说明
+左右科技公司保留随时更新本声明的权利，当声明发生修改时，我们会通过弹窗或通知的方式告知您变更后的声明。
+如您继续使用我们的服务，即视为您同意我们的变更后的隐私政策。
+我们才会按照更新的声明收集、使用、存储您的个人信息。
+本声明自更新之日起生效
+发布时间：2021年9月7日
+生效时间：2021年9月7日
+更新时间：2022年3月29日
+大连左右科技有限公司
+SnoringApplicationPrivacyPolicy
+Developername:DalianLeftRightTechnology
+TheSnoringapplicationisasleeprecordingserviceproductprovidedbyDalianLeftRightTechnology(hereinafterreferredtoas"LeftRightTechnology")foryou
+LeftRightTechnologyrespectsyourpersonalinformationanddata,andwilldoitsbesttoprotectthesafetyandreliabilityofyourpersonalinformationanddata.
+ThispolicyonlyappliestouserinformationanddatacollectedandstoredbytheSnoringapp.
+Pleasereadcarefully,understandandagreetothe"PrivacyPolicyoftheSnoringApp"beforeusingtheSnoringapp.
+Thispolicystipulateshowwewillcollect,use,disclose,processandprotecttheinformationyouprovidetouswhenyouusetheSnoringapp.
+Ifweneedyoutoprovidecertaininformationtoverifyyouridentitywhenusingtheproductandconnecttoourthird-partyserviceproviders,wewillstrictlyabidebythisprivacypolicytousethisinformation.
+IfyouhavestartedusingtheSnoringapplication,itmeansthatyouhaveread,approvedandacceptedallthetermsdescribedinthisprivacypolicy,aswellasanychangeswemaymakeatanytimeinthefuture.
+Inaddition,youneedtopromisethatyouarealreadyanadultwhenyoustartusingthisapplication.Ifyouareaminor,youneedyourguardiantoagreetoyouruseofthisapplicationandagreetotherelevanttermsofserviceandprivacypolicy.
+(1)HowdoestheSnoringappcollectanduseyourinformation(includingpersonalinformation)
+Personalinformationreferstovariousinformationrecordedelectronicallyorinotherwaysthatcanidentifyaspecificnaturalpersonaloneorincombinationwithotherinformationorreflecttheactivitiesofaspecifichumanbeing
+Personalsensitiveinformationincludespersonalbiometricinformation(suchasfingerprints,face,voiceprint),IDnumber,bankaccountnumber,propertyinformation,transactioninformation,whereabouts(suchasresidentialandofficeaddresses),etc.
+Wewillonlycollectanduseyourinformationforthepurposeslistedinthestatement:
+1.Datastatistics,dataanalysisservices
+OurproductsareintegratedwithHuaweianalysisSDK.HuaweianalysisSDKrequiresyourdevice[@MAC#敏感权限类型 PHONE*]addressanduniquedeviceidentificationcode([@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IMSI#敏感权限类型 PHONE*],[@iccid#敏感权限类型 PHONE*],gaid,meid,idfv,[@IDFA#敏感权限类型 PHONE*],andthespecificfieldsvaryaccordingtothesoftwareandhardwareversions)andpasses
+Geographiclocationcalibrationreportdataaccuracy,providingbasicanticheatingability.
+2.Advertisingdisplayservice
+OurproductsintegratepangolingromoreaggregationSDKandyoulianghuiSDKtoprovideopenscreenadvertisingservices.Weneedtoreadthenetworkingstatusinformationofyourdevice'suniqueidentificationcode([@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IMSI#敏感权限类型 PHONE*],[@iccid#敏感权限类型 PHONE*],gaid,meid,idfv,[@IDFA#敏感权限类型 PHONE*],andthespecificfieldsvarywithdifferentsoftwareandhardwareversions),
+Geographicallocationisusedtoanalyzeyouruseofourservicesandoptimizeadvertising.
+3.Messagepushservice
+Duetotheneedtorealizethemessagepushfunction,wewillusethethird-partypushSDKofXiaomi,Huawei,vivoandoppomobilephonemanufacturers.WhenyouuseXiaomi,Huawei,vivoandoppomobilephones,thepushSDKneedstocollectuniquedeviceidentifiers,devicerunningprocessinformationandapplicationlistinformation,
+Andmaycollectyourmobilephonemodel,systemtype,systemversionandnetworkingrelatedinformationtoensurethatyoucannormallyreceivemessagepush,andwillnotreceivemessagepushafteruninstallingtheclient.
+4.Crash,faultinformationstatisticsservice
+OurproductintegratestheHuaweicrashSDK.Youneedtoreadyourdeviceidentifier,WiFiaddressandoperatorinformationtoprovidecrashlogreporting.
+5.Performanceanalysisservices
+OurproductsareintegratedwiththeHuaweiperformanceanalysisSDK.Youneedtoreadyour[@AAID#敏感权限类型 PHONE*],applicationpackagename,applicationversionnumber,networktype,Androidversionnumber,devicemodel,productbrand,storagespacestatus,memoryusagestatus,screendirection,screensize,languageandroot
+Collecttheperformancedataduringtheoperationoftheapplication(includingstartuptime,loadingtime,networkrequesttime,anr,etc.)forstatisticalanalysisbasedonthedimensionsofapplicationversion,devicetypeanddevicemodel,andrecountthedevicescaleaffectedbysomeperformanceproblemsbasedonthedeviceidentifierintheapplication,soastohelpoptimizetheapplicationperformanceandcontinuouslyimprovetheuserexperience.
+6.Androidversionfunctionservicebasedonsystempermission
+(1)Writeandreadfiles:weneedthefollowingpermissions(android.permission.write_external_storageandandroid.permission.read_external_storage)whenyouusetherecordingsleepfunctioninthesnoringcathouse,thesnoringcathousewillrequesttoobtainthepermissionofstoragespaceforsavingsleepfiles
+(2)Allowprogramaccess:weneedthefollowingpermissions(Android.Permission.Get_tasks),whichareusedforthemessagepushserviceofXiaomiSDK
+(3)Obtainmobilephonestatus:weneedthefollowingpermission(Android.Permission.Read_phone_state).ThispermissionisusedforHuaweianalysisSDKandHuaweicrashSDKtoobtainusermobilephoneinformationinordertoreportdataanalysis
+(4)AddtothewhitelistofbatteryOptimization:weneedthefollowingpermissions(Android.Permission.Request_ignore_battery_optimizations),whichareusedtoensurethestabilityofbackgroundoperationofsnoringcathouse
+(5)Getaroughlocation:weneedthefollowingpermissions(Android.Permission.Access_court_location),whichareusedforthedataanalysisserviceofHuaweiSDK
+(6)Establishfrontdeskservice:weneedthefollowingpermission(Android.Permission.Foreground_service),whichisusedforaudioservice,alarmclockserviceandrecordingsleep
+(7)Installapp:weneedthefollowingpermissions(Android.Permission.Request_install_packages),whichareusedforappupdates
+(8)Obtainnetworkstatuspermission:weneedthefollowingpermission(Android.Permission.Access_network_state).Thispermissionisusedtodetectwhetherthecurrentnetworkconnectionisvalid
+(9)Obtainnetworkaccesspermission:weneedthefollowingpermission(Android.Permission.Internet),whichisusedtoreportapplicationperformancedatatotheserverthroughthenetwork
+7.Informationaboutthethird-partySDKusedinthesnoringcathouse
+7-1HuaweiSDK
+7.1.1Huaweianalysisservice
+Purposeofuse:collectandstatisticallyanalyzetheinformationofusersusingthisproduct
+Informationcollected:device[@MAC#敏感权限类型 PHONE*]address,deviceidentifier(suchas[@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IMSI#敏感权限类型 PHONE*],[@iccid#敏感权限类型 PHONE*],gaid,meid,idfv,[@IDFA#敏感权限类型 PHONE*],specificfieldsvaryduetodifferentsoftwareandhardwareversions),networkinformation,andoperatorinformation
+Officialwebsiteaddress:<ahref=“https://developer.huawei.com/consumer/cn/hms/huawei-analyticskit">Huaweianalysisservices
+7.1.2Huaweicrashanalysisservice
+Purpose:tocollectthecrashesgeneratedbythisapplication
+Collectinformation:device[@MAC#敏感权限类型 PHONE*]address,deviceidentifier(suchas[@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IMSI#敏感权限类型 PHONE*],[@iccid#敏感权限类型 PHONE*],gaid,meid,idfv,[@IDFA#敏感权限类型 PHONE*],specificfieldsvaryduetodifferentsoftwareandhardwareversions),networkinformation,operatorinformation,andcrashlogduringuseruseoftheproduct
+Officialwebsiteaddress:<ahref=“https://developer.huawei.com/consumer/cn/agconnect/crash">Huaweicrashanalysisservice
+7.1.3Huaweipushservice
+Purpose:topushmessagestousers
+Informationcollected:device[@MAC#敏感权限类型 PHONE*]address,deviceidentifier(suchas[@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IMSI#敏感权限类型 PHONE*],[@iccid#敏感权限类型 PHONE*],gaid,meid,idfv,[@IDFA#敏感权限类型 PHONE*],specificfieldsvaryduetodifferentsoftwareandhardwareversions),networkinformation,andoperatorinformation
+Officialwebsiteaddress:<ahref=“https://developer.huawei.com/consumer/cn/hms/huawei-pushkit">Huaweipushservice
+7.1.4Huaweiperformanceanalysis
+Purpose:tocollectperformancedataduringtheoperationoftheapplication
+Collectinformation:[@AAID#敏感权限类型 PHONE*],applicationpackagename,applicationversionnumber,networktype,Androidversionnumber,devicemodel,productbrand,storagespacestatus,memoryusagestatus,screendirection,screensize,language,whetherroot
+Officialwebsiteaddress:<ahref=“https://developer.huawei.com/consumer/cn/agconnect/apm">Huaweiperformancemanagement
+7-2pangolingromoreSDK
+SDKnames:pangolingromoreSDK,pangolinadvertisingSDK,youlianghuiadvertisingSDK,baiduadvertisingSDK
+Purpose:toprovideservicestodeveloperstohelpadjustadvertisingrealizationstrategies
+Servicetype:advertisingrealizationservice
+Informationcollected:equipmentbrand,model,operatingsystemversioninformation,equipmentidentifier(suchas[@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IMSI#敏感权限类型 PHONE*],[@iccid#敏感权限类型 PHONE*],gaid,meid,idfv,[@IDFA#敏感权限类型 PHONE*],specificfieldsvaryduetodifferentsoftwareandhardwareversions),softwareinstallationlist,etc
+Basicinformationapplicationinformation:developerapplicationname,applicationpackagename,versionnumberandotherinformation
+Otherinformation:operatorinformation,equipmenttimezone,equipmentgeographicallocation,networkequipmenthardwareaddress([@MAC#敏感权限类型 PHONE*]address),IPaddress,WLANaccesspoint(suchas[@SSID#敏感权限类型 PHONE*],[@BSSID#敏感权限类型 PHONE*]),Bluetooth,basestation,softwareversionnumber,networkaccessmode,type,status,networkqualitydata,operation,useandservicelog."
+PrivacyPolicy:<ahref=“https://www.csjplatform.com/supportcenter/5879#1gykpolxnzog0">pangolinaggregationSDKprivacypolicy
+Privacypolicylink:<ahref=“https://www.csjplatform.com/privacy/partner">pangolinplatformprivacypolicy
+Privacypolicylink:<ahref=“https://e.qq.com/dev/help_detail.html?cid=2005&pid=5983">personalinformationprotectionrulesofyoulianghuiSDK
+7-3tomatonovelSDK
+SDKName:tomatonovelSDK
+Purpose:novelcontentoutputcooperation
+Servicetype:novelcontentprovision
+Collectinformation:hardwaremodel,equipmentbrand,model,operatingsystemversionnumber,systemsettings,systemattributes,screenresolution,[@IMEI#敏感权限类型 PHONE*],androidid,[@oaid#敏感权限类型 PHONE*],[@IDFA#敏感权限类型 PHONE*],idfv,[@IMSI#敏感权限类型 PHONE*],meid,applicationversion,applicationpackagename,WLANaccesspoint,Bluetooth,softwareversionnumber,networkaccessmode,type,status,networkqualitydata,operation,useandservicelog
+Privacypolicylink:<ahref=“https://www.csjplatform.com/terms/novelsdk-privacy">PrivacyPolicy
+7-4vivopushSDK
+UseSDKName:vpushSDK
+Purpose:torealizesystemlevelpushonvivobrandmobilephones
+Servicetype:PushService
+Privacypolicylink:<ahref=“https://dev.vivo.com.cn/documentCenter/doc/366">vivopushplatformserviceagreement
+7-5oppopushSDK
+UseSDKName:oppopushSDK
+Purpose:torealizesystemlevelpushonoppobrandmobilephones
+Servicetype:PushService
+Privacypolicylink:<ahref=“https://open.oppomobile.com/wiki/doc#id=10194">oppomessagepushservicedeveloperagreement
+7-6XiaomipushSDK
+SDKName:XiaomipushSDK
+Purpose:torealizesystemlevelpushonXiaomibrandmobilephones
+Servicetype:PushService
+Collectinformation:[@oaid#敏感权限类型 PHONE*],hashed[@Android ID#敏感权限类型 PHONE*],regid,basicapplicationinformation(includingapplicationpackagename,versionnumberandrunningstatus),messagecontent,devicerelatedinformation(devicemanufacturer,devicemodel,devicememory,operatingsystemversion,XiaomipushSDKversion,devicehome),notificationbarsetting(whethertoshieldthenotificationbar,whethertosetthelockscreenpop-upmessage,etc.),Eventmessage(includingmessagecreationevent,releaseevent,arrivaleventandclickevent)
+Agreementlink:<ahref=“https://dev.mi.com/console/doc/detail?pId=860">Xiaomipushtechnologyserviceagreement
+Agreementlink:<ahref=“https://dev.mi.com/console/doc/detail?pId=2617">Xiaomipushtechnicalservicedataprotectionappendix
+Agreementlink:<ahref=“https://dev.mi.com/console/doc/detail?pId=2618">personaldataprocessinginstructions
+Agreementlink:<ahref=“https://dev.mi.com/console/doc/detail?pId=1822">Xiaomipushprivacypolicy
+(2)Retentionpolicyanddatastorage
+Wewillstoreyourpersonalinformationcollectedabovewithinthenecessaryperiodtomeettherequirementsoflawsandregulationsandtoachievethepurposeofinformationcollection.Aftertheperiodabove,wewillnolongerretainoranonymizepersonalinformation
+2-1.Datastoragelocation
+ThepersonalinformationwecollectandgenerateinthisproductandservicewillbestoredinthePeople'sRepublicofChina.
+2-2.Datastorageperiod
+Weonlyretainyourpersonalinformationforthetimerequiredtoachievetheabove-mentionedpurposes,anddeleteoranonymizeyourpersonalinformationaftertheretentiontimeexpires,unlessotherwiserequiredbylawsandregulations.
+IntheSnoringapplication,thespecificretentiontimeofyourpersonaldataisasfollows:
+Inordertocontinuouslyoptimizeandimprovetheuserexperience,wewillcollectpseudonymizeddeviceinformation.ThestorageperiodofthedatafollowsthetimerequiredbytheUmengdataanalysisplatform.
+Inaddition,ifourproductsorservicesceasetooperate,wewillnotifyyouintheformofpushnotifications,announcements,etc.,anddeleteyourpersonalinformationoranonymizethemwithinareasonableperiodoftime.
+(3)Whatpermissionsdowerequestandwhywerequestthesepermissions
+Checknetworkconnectionpermissions:designedtoensurethattheSnoringappisfunctioningnormally
+Completenetworkaccessrights:AimtoreportinformationandsendpushnotificationstoyouintheUmengSDK
+Startuppermission:designedtoensuretheusabilityofthealarmclockfunction
+Thepermissiontoruntheforegroundservice:aimstoensuretheusabilityoftheaudioplaybackfunction
+(4)Priorityorder
+ThisprivacypolicyisaimedattheapplicationsoftwareoftheSnoringapplicationandtherelatedservicesprovidedbyit.IfthereisanyinconsistencybetweenthisprivacypolicyandtheprivacypolicyoftheLeftRightTechnology,thisprivacypolicyshallprevail;ifthisprivacypolicydoesnotcontain(agreement)relatedcontent,thenthe(agreement)containedintheprivacypolicyoftheLeftRightTechnologyshallprevail..
+(5)Contactus
+Ifyouhaveanyquestions,commentsorsuggestionsaboutthisprivacypolicy,orifyouhaveanyquestionsaboutourcollection,useordisclosureofyourpersonalinformation,pleasecontactusviaemailat:babymoment@funnysir.com
+(6)Disclaimer
+Leakageofpersonalinformationduetoyourhandingoverthedevicetoothers
+Duetohacking,computervirusintrusion
+TheaboveSnoringdoesnotbearanyresponsibility
+(7)Updateinstructions
+LeftRightTechnologyreservestherighttoupdatethisstatementatanytime.Whenthestatementismodified,wewillnotifyyouofthechangedstatementthroughapop-upwindowornotification.
+Ifyoucontinuetouseourservices,youaredeemedtoagreetoourrevisedprivacypolicy.
+Wewillcollect,use,andstoreyourpersonalinformationinaccordancewiththeupdatedstatement.
+Thisstatementiseffectivefromthedateofrenewal
+Lastupdatedate:September7,2021
+DalianLeftRightTechnology
+

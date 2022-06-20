@@ -1,0 +1,590 @@
+
+
+
+
+
+
+《羊驼PTE隐私政策》
+
+
+
+
+    《羊驼PTE隐私政策》
+    发布日期：2021年08月19日
+    生效日期：2021年08月19日
+    引言 
+
+  欢迎您使用羊驼PTE，羊驼PTE及旗下网站和软件（以下简称“羊驼PTE”或“我们”）由湖南小驼羊教育科技有限公司负责管理。羊驼PTE对每一位用户的隐私权采取高度尊重且保护的态度，为给您提供更准确、有个性化的服务和更安全的互联网环境，我们依据《中华人民共和国网络安全法》、《信息安全技术个人信息安规范》（GB/T35273-2017）以及其他相关法律法规和技术规范，将“用户隐私”相关内容以本《隐私政策》的形式进行发布。
+  本政策适用于我们的所有产品及服务，本政策与您所使用的我们的产品或服务息息相关，您在下载、安装、启动、浏览、注册、登录、使用羊驼PTE的产品或服务时，我们将按照本政策的约定处理和保护您的个人信息。
+  您在使用羊驼PTE的产品或服务时，羊驼PTE可能会收集和使用您的相关信息。为此，希望通过本《隐私政策》向您说明，羊驼PTE如何取得、使用、分享、保存和管理这些信息。请在使用或继续使用我们的各项产品与服务前，仔细阅读并充分理解本政策（尤其是加粗提示的内容），并在需要时，按照本政策的指引，作出适当的选择。
+  您使用或继续使用羊驼PTE服务，都表示您同意我们按照本《隐私政策》收集、使用、储存和分享您的信息。
+  本《隐私政策》将帮助您了解以下内容：
+目录
+第一章 如何收集您的个人信息
+第二章 如何使用您的个人信息
+第三章 如何分享、转让或披露您的的个人信息
+第四章 如何使用Cookie和同类技术
+第五章 如何保护您的个人信息
+第六章 如何保存您的个人信息
+第七章 如何管理、查看或删除您的个人信息
+第八章 本政策如何更新
+第九章 投诉及建议
+第十章 其他
+第一章 如何收集您的个人信息
+定义：
+  根据GB/T35273《信息安全技术个人信息安全规范》附录A（资料性附录）-个人信息示例-表A.1，个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息， 如姓名、出生日期、身份证件号码、个人生物识别信息、住址、通信通讯联系方式、通信记录和内容、账号密码、财产信息、征信信息、行踪轨迹、住宿信息、健康生理信息、交易信息等。
+  根据GB/T35273《个人信息安全规范》中附录B（资料性附录）-个人敏感信息判定-表B.1，个人敏感信息是指一旦泄露、非法提供或滥用可能危害人身和财产安全，极易导致个人名誉、身心健康受到损害或歧视性待遇等的个人信息， 如个人财产信息、个人健康生理信息、个人生物识别信息、个人身份信息、网络身份标识信息及其他信息。
+一.我们将通过以下途径收集和获得您的信息：
+1、您提供的信息。例如：
+（1）您在注册羊驼PTE服务的帐号或使用羊驼PTE服务时，向我们提供的信息；
+（2）您通过羊驼PTE服务向其他方提供的共享信息，以及您使用羊驼PTE服务时所储存的信息。
+2、其他方分享的您的信息。亦即其他方使用羊驼PTE服务时所提供有关您的共享信息。
+3、我们获取的您的信息。您在使用羊驼PTE服务时，我们收集、汇总、记录的信息，例如日志信息、位置信息、设备信息等。
+二、我们会出于以下目的，收集和使用您以下类型的信息：
+1、帮助您完成注册及登录
+（1）为便于我们为您提供服务，您需要提供基本注册或登录信息，包括手机号码、电子邮箱地址，并创建您的账号、用户名和密码。在部分单项服务中，如果您仅需使用浏览、搜索等基本服务，您不需要注册成为羊驼PTE用户及提供上述信息。
+（2）在部分单项服务注册及登录过程中，如果您提供其他额外信息（例如您的昵称、性别、籍贯、出生年月日、头像、兴趣爱好），将有助于我们给您提供个性化的推荐和更优的服务体验，但如果您不提供这些信息，并不会影响您使用羊驼PTE服务的基本功能。（3）此外，在符合羊驼PTE单项服务的服务协议约定条件及国家相关法律法规规定的情况下，我们也提供注册账号的注销，您可以登录羊驼PTE联系我们处理。
+2、向您提供商品或服务
+  我们所收集和使用的信息是为您提供羊驼PTE服务的必要条件，如缺少相关信息，我们将无法为您提供羊驼PTE服务的核心内容，例如：
+（1）您在使用羊驼PTE服务时、上传和/或发布信息以及进行相关行为（例如发布跟贴、回复跟贴、顶贴、喜欢文章、发布讲讲、分享、收藏、打赏）时，我们将收集您上传、发布或形成的信息，并有权展示您的昵称、头像和发布内容。
+（2）在部分服务项目中，为便于向您交付商品或服务，您至少需提供收货人个人身份信息、姓名、收货地址、邮政编码、收货人、联系电话、支付状态信息。如果您拒绝提供此类信息，我们将无法完成相关交付服务。如您通过羊驼PTE服务为其他人订购商品或服务，您需要提供该实际订购人的前述信息。向我们提供该实际订购人的前述信息之前，您需确保您已经取得其授权同意。
+（3）为展示您账户的订单信息，我们会收集您在使用羊驼PTE服务过程中产生的订单信息用于向您展示及便于您对订单进行管理；
+（4）当您与我们联系时，我们可能会保存您的通信/通话记录和内容或您留下的联系方式等信息，以便与您联系或帮助您解决问题，或记录相关问题的处理方案及结果。
+（5）为确认交易状态及为您提供售后与争议解决服务，我们会通过您基于交易所选择的交易对象、支付机构、物流公司等收集与交易进度相关的您的交易、支付、物流信息，或将您的交易信息共享给上述服务提供者。
+（6）为向您提供更契合您需求的页面展示和推荐个性化内容、进行用户画像、了解产品适配性、识别账号异常状态，我们可能会收集关于您使用的服务以及使用方式的信息并将这些信息进行关联，这些信息包括：
+①日志信息：当您使用我们的服务时，我们可能会自动收集您对我们服务的详细使用情况，作为有关网络日志保存。例如您的登录账号、搜索查询内容、IP地址、浏览器的类型、电信运营商、网络环境、使用的语言、访问日期和时间及您访问的网页浏览记录、Push打开记录、停留时长、刷新记录、发布记录、关注、订阅、收藏及分享。
+②设备信息：我们可能会根据您在软件安装及使用中授予的具体权限，接收并记录您所使用的设备相关信息（例如IMEI、MAC、Serial、SIM卡IMSI识别码、设备机型、操作系统及版本、客户端版本、设备分辨率、包名、设备设置、进程及软件列表、唯一设备标识符、软硬件特征信息）、设备所在位置相关信息（例如IP 地址、GPS位置以及能够提供相关信息的WLAN接入点、蓝牙和基站传感器信息）。
+  请注意，单独的设备信息、日志信息是无法识别特定自然人身份的信息。如果我们将这类非个人信息与其他信息结合用于识别特定自然人身份，或者将其与个人信息结合使用，则在结合使用期间，这类非个人信息将被视为个人信息，除取得您授权或法律法规另有规定外，我们会将该类个人信息做匿名化、去标识化处理。
+（7）我们通过间接方式收集到的您的信息
+  我们可能从关联方、第三方合作伙伴获取您授权共享的相关信息。例如，我们可能从第三方获取您授权共享的账户信息（头像、昵称）并在您同意本《隐私政策》后将您的第三方账户与您的羊驼PTE服务账户绑定，使您可以通过第三方账户直接登录并使用我们的产品与/或服务。我们将在符合相关法律法规规定，并依据与关联方或第三方合作伙伴的约定、确信其提供的信息来源合法的前提下，收集并使用您的这些信息。
+（8）基于上述您向我们提供的信息、我们可能收集的信息及我们通过间接方式收集到的您的信息，我们可能会基于上述一项或几项信息的结合，进行推荐算法建模、程序化广告推荐算法建模、用户行为分析及用户画像，以便向您提供更契合您需求的页面展示和推荐个性化内容。
+3、向您推送消息
+（1）为您展示和推送商品或服务。我们可能使用您的信息（例如您的浏览及搜索记录、设备信息、位置信息、订单信息），用于提取您的浏览、搜索偏好、行为习惯、位置信息相关特征，并基于特征标签通过电子邮件、短信或其他方式向您发送营销信息，提供或推广我们或第三方的如下商品和服务：
+①我们的商品和服务，包括但不限于：即时通讯服务、网上媒体服务、互动娱乐服务、社交网络服务、支付服务、互联网搜索服务、位置和地图服务、应用软件和服务、数据管理软件和服务、网上广告服务、互联网金融及其他社交媒体、娱乐、、电子商务、资讯及通讯软件和服务；
+②第三方商品和服务，包括但不限于：互联网服务、食物和餐饮、体育、音乐、电影、电视、现场表演和其他艺术和娱乐、书册、杂志和其他刊物、服装和配饰、珠宝、化妆品、个人健康和卫生、电子、收藏品、家用器皿、电器、家居装饰和摆设、宠物、汽车、酒店、交通和旅游、银行、保险及金融服务、积分和奖励计划，以及我们认为可能与您相关的其他商品和服务。
+（2）向您发出通知。我们可能在必需时（例如当我们由于系统维护而暂停某一单项服务、变更、终止提供某一单项服务时）向您发出与服务有关的通知。
+  如您不希望继续接收我们推送的消息，您可要求我们停止推送，例如：根据短信退订指引要求我们停止发送推广短信，或在移动端设备中进行设置，不再接收我们推送的消息；但我们依法律规定或单项服务的服务协议约定发送消息的情形除外。
+4、为您提供安全保障
+  为提高您使用我们及合作伙伴提供服务的安全性，保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险，更准确地识别违反法律法规或羊驼PTE服务相关协议规则的情况，我们可能会收集、使用或整合您的账户信息、交易信息、设备信息、日志信息以及我们关联公司、合作伙伴取得您授权或依据法律共享的信息，来综合判断您账户及交易风险、进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施。
+5、改进我们的服务
+  我们可能将通过某一项羊驼PTE服务所收集的信息，用于我们的其他服务。例如，在您使用某一项羊驼PTE服务时所收集的您的信息，可能在另一项羊驼PTE服务中用于向您提供特定内容或向您展示与您相关的、而非普遍推送的信息；我们可能让您参与有关羊驼PTE服务的调查，帮助我们改善现有服务或设计新服务；同时，我们可能将您的信息用于软件更新。
+  您了解并同意，在收集您的信息后，我们将通过技术手段对数据进行去标识化处理，去标识化处理的信息将无法识别您的身份，在此情况下我们有权使用已经去标识化的信息，对用户数据库进行分析并予以商业化的利用。
+6、其他用途
+  请您注意，如果我们要将您的信息用于本《隐私政策》中未载明的其他用途或额外收集未提及的其他信息，我们会另行事先请您同意。一旦您同意，该等额外用途将视为本《隐私政策》的一部分，该等额外信息也将适用本《隐私政策》。
+7、征得授权同意的例外
+  根据相关法律法规规定，以下情形中收集您的信息无需征得您的授权同意：
+（1）与国家安全、国防安全有关的；
+（2）与公共安全、公共卫生、重大公共利益有关的；
+（3）与犯罪侦查、起诉、审判和判决执行等有关的；
+（4）出于维护信息主体或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；
+（5）所收集的信息是您自行向社会公众公开的；
+（6）从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道；
+（7）根据您的要求签订合同所必需的；
+（8）用于维护羊驼PTE服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；
+（9）为合法的新闻报道所必需的；
+（10）学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的信息进行去标识化处理的；
+（11）法律法规规定的其他情形。
+8、您理解并同意，部分单项服务可能需要您在您的设备中开启特定的访问权限（例如您的位置信息 、摄像头、相册、麦克风、通讯录及/或日历），以实现这些权限所涉及信息的收集和使用。当您需要关闭该功能时，大多数移动设备都会支持您的这项需求，具体方法请参考或联系您移动设备的服务商或生产商。请您注意，您开启任一权限即代表您授权我们可以收集和使用相关信息来为您提供对应服务，您一旦关闭任一权限即代表您取消了授权，我们将不再基于对应权限继续收集和使用相关信息，也无法为您提供该权限所对应的服务。但是，您关闭权限的决定不会影响此前基于您的授权所进行的信息收集及使用。
+9、有关敏感信息的提示
+  以上由您提供或我们收集您的信息中，可能包含您的个人敏感信息，例如银行账号、交易和消费记录、虚拟财产信息、系统账号、邮箱地址及其有关的密码、电话号码、网页浏览记录、位置信息。请您谨慎并留意个人敏感信息，您同意您的个人敏感信息我们可以按本《隐私政策》所述的目的和方式来处理。
+  (1)获取用户摄像头的权限，为了方便用户上传图片或者拍照，更换头像或者发布动态是获取该权限。
+  (2)获取麦克风权限，为了方便用户进行录音提交练习评测数据，方便老师进行评价反馈。
+第二章 如何使用您的个人信息
+  在收集您的个人信息后，羊驼PTE将根据如下规则使用您的个人信息：
+一、会根据本《隐私政策》的约定并为实现羊驼PTE的产品或服务功能对所收集的个人信息进行使用。
+二、请您注意，对于您在使用羊驼PTE的产品或服务时所提供的所有个人信息，除非您删除或通过相关设置拒绝我们收集，否则您将在使用产品或服务期间、账号注销前持续授权我们使用。 但，在您注销账号时，羊驼PTE将停止使用并删除您的个人信息。
+三、羊驼PTE会对旗下产品或服务使用情况进行统计，并可能会与公众或第三方共享这些统计信息， 以展示羊驼PTE产品或服务的整体使用趋势。但这些统计信息不会包含您的任何身份识别信息。
+四、当羊驼PTE要将您的个人信息用于本政策未载明的其它用途时，或将基于特定目的收集而来的信息用于其他目的时，羊驼PTE会主动事先征求您的明示同意。
+第三章 如何分享、转让或披露您的的个人信息
+一、分享
+除以下情形外，未经您同意，我们不会与羊驼PTE之外的任何第三方分享您的信息：
+1、向您提供我们的服务。我们可能向合作伙伴及其他第三方分享您的信息，以实现您需要的核心功能或提供您需要的服务，例如：向物流服务商提供对应的订单信息；
+2、维护和改善我们的服务。我们可能向合作伙伴及其他第三方分享您的信息，以帮助我们为您提供更有针对性、更完善的服务，例如：代表我们发出电子邮件或推送通知的通讯服务提供商等；
+3、实现本《隐私政策》第一章“如何收集您的个人信息”部分所述目的；
+4、履行我们在本《隐私政策》或我们与您达成的其他协议中的义务和行使我们的权利；
+5、向委托我们进行推广的合作伙伴等第三方共享，目的是为了使该等委托方了解推广的覆盖面和有效性。比如我们可以告知该委托方有多少人看了他们的推广信息或在看到这些信息后购买了委托方的商品，或者向他们提供不能识别个人身份的统计信息，帮助他们了解其受众或顾客；
+6、在法律法规允许的范围内，为了遵守法律、维护我们及我们的关联方或合作伙伴、您或其他羊驼PTE用户或社会公众利益、财产或安全免遭损害，比如为防止欺诈等违法活动和减少信用风险，我们可能与其他公司和组织交换信息。不过,这并不包括违反本《隐私政策》中所作的承诺而为获利目的出售、出租、共享或以其它方式披露的信息；
+7、应您合法需求，协助处理您与他人的纠纷或争议；
+8、根据与您签署的单项服务协议（包括在线签署的电子协议以及相应的平台规则）或其他的法律文件约定所提供；
+9、基于学术研究而提供；
+10、基于符合法律法规的社会公共利益而提供。
+11、使用SDK名称：友盟SDK;
+  服务类型：统计分析用户行为，为用户更好的提供服务，收集崩溃信息持续优化应用;
+  集个人信息类型：设备信息（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM 卡 IMSI 信息等）;
+  隐私权政策链接：https://www.umeng.com/page/policy;
+  产品集成友盟+SDK及推送通道SDK（如小米、华为、oppo、vivo、魅族等），推送通道SDK需要收集采集设备标识符（IMEI/MAC/Android ID/IDFA/OpenUDID/GUID/SIM 卡 IMSI 信息等），用于唯一标识设备，以便向用户设备推送消息。采集地理位置甄别推送通道，提高消息推送的区域覆盖率。
+  我们仅会出于合法、正当、必要、特定、明确的目的共享您的信息。对我们与之共享信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的说明、本《隐私政策》以及其他任何相关的保密和安全措施来处理信息。
+二、转让
+1、随着我们业务的持续发展，我们有可能进行合并、收购、资产转让或类似的交易，而您的信息有可能作为此类交易的一部分而被转移。我们会要求新的持有您信息的公司、组织继续受本《隐私政策》的约束，否则,我们将要求该公司、组织重新向您征求授权同意。
+2、在获得您的明确同意后，我们会向其他方转让您的信息。
+三、披露
+我们仅会在以下情况下，且采取符合业界标准的安全防护措施的前提下，才会披露您的信息：
+1、根据您的需求，在您明确同意的披露方式下披露您所指定的信息；
+2、根据法律、法规的要求、强制性的行政执法或司法要求所必须提供您信息的情况下，我们可能会依据所要求的信息类型和披露方式披露您的信息。在符合法律法规的前提下，当我们收到上述披露信息的请求时，我们会要求接收方必须出具与之相应的法律文件，如传票或调查函。我们坚信，对于要求我们提供的信息，应该在法律允许的范围内尽可能保持透明。我们对所有的请求都进行了慎重的审查，以确保其具备合法依据，且仅限于执法部门因特定调查目的且有合法权利获取的数据。
+四、分享、转让、披露信息时事先征得授权同意的例外
+以下情形中，分享、转让、披露您的信息无需事先征得您的授权同意：
+1、与国家安全、国防安全有关的；
+2、与公共安全、公共卫生、重大公共利益有关的；
+3、与犯罪侦查、起诉、审判和判决执行等司法或行政执法有关的；
+4、出于维护您或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+5、您自行向社会公众公开的信息；
+6、从合法公开披露的信息中收集信息的，如合法的新闻报道、政府信息公开等渠道。
+  根据法律规定，共享、转让经去标识化处理的信息，且确保数据接收方无法复原并重新识别信息主体的，不属于信息的对外共享、转让及公开披露行为，对此类数据的保存及处理将无需另行向您通知并征得您的同意。
+第四章 如何使用Cookie和同类技术
+一、为了更好地向您提供产品或服务，羊驼PTE使用了若干自动数据收集工具，目前包括Flash Cookies和内嵌Web链接。借助这些技术，羊驼PTE能够实时跟踪您的学习进度，并了解您的偏好信息， 从而为您提供更优质、更个性化的用户体验。羊驼PTE不会将上述技术用于本政策所述目的之外的任何用途。
+二、请您理解，羊驼PTE的某些服务只能通过使用上述技术才可得到实现。如您的设备或相关程序允许，您可以通过改变设置，或通过访问提供商的网页等合适的方式，来关闭或删除上述技术。但这一举动可能会影响您使用羊驼PTE产品或服务。
+第五章 如何保护您的个人信息
+一、羊驼PTE非常重视个人信息安全，并会采取一切合理可行的措施，持续保护您的个人信息，以防其他人在未经授权的情况下访问、篡改或披露羊驼PTE收集的您的个人信息：
+1、羊驼PTE已采用符合行业标准的安全防护措施来保护您的个人信息，防止数据遭到未经授权的访问、公开披露、使用、修改、损坏或丢失。 我们会采取一切合理可行的措施，保护您的个人信息。例如，在您的移动设备与羊驼PTE产品或服务之间交换数据时进行SSL加密保护；我们会使用受信赖的保护机制防止数据遭到恶意攻击。
+2、羊驼PTE仅允许有必要知晓的人员访问相关个人信息，并为此设置了严格的访问权限控制和监控机制。羊驼PTE同时要求可能接触到您个人信息的所有人员履行相应的保密义务。如果未能履行这些义务，可能会被追究法律责任或被终止与羊驼PTE的相应法律关系。
+3、保护用户个人信息是羊驼PTE的一项基本原则，羊驼PTE将会采取合理的措施保护用户的个人信息。除法律法规规定的情形外，未经用户许可羊驼PTE不会向第三方公开、透露用户个人信息。羊驼PTE对相关信息采用专业加密存储与传输方式，保障用户个人信息的安全。
+4、你在注册帐号或使用本服务的过程中，需要提供一些必要的信息，例如：为向你提供帐号注册服务或进行用户身份识别，需要你填写手机号码等。若国家法律法规或政策有特殊规定的，你需要提供真实的身份信息。若你提供的信息不完整，则无法使用本服务或在使用过程中受到限制。
+5、一般情况下，你可随时浏览、修改自己提交的信息，但出于安全性和身份识别（如号码申诉服务）的考虑，你可能无法修改注册时提供的初始注册信息及其他验证信息。
+6、羊驼PTE将运用各种安全技术和程序建立完善的管理制度来保护你的个人信息，以免遭受未经授权的访问、使用或披露。
+7、未经你的同意，羊驼PTE不会向羊驼PTE以外的任何公司、组织和个人披露你的个人信息，但法律法规另有规定的除外。
+二、羊驼PTE会采取一切合理可行的措施，确保未收集无关的信息。
+三、请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便我们竭尽所能加强安全措施， 但也不可能始终保证信息百分之百的绝对安全。您需要了解和知悉，您接入羊驼PTE的产品或服务所用的系统和通讯网络，有可能因我们可控范围外的其他因素而出现问题，在此情形下，我们会依法尽力协助解决。
+四、如不幸发生信息安全事故，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议等。我们同时将及时将事件相关情况以邮件、信函、电话、 推送通知等适合的方式告知您；难以逐一告知信息主体时，我们会采取合理、有效的方式发布公告。同时，我们还将按照监管部门要求，主动上报信息安全事件的处置情况。
+第六章 如何保存您的个人信息
+一、保存期限
+1、 在用户使用羊驼PTE产品或服务期间，羊驼PTE会持续保存用户的个人信息。
+2、羊驼PTE承诺始终按照法律的规定在合理必要期限内存储您个人信息，对于日志信息、记录备份等信息为您注销账号后180天 （但根据法律规定有最短保存期限要求的，则我们会保存法律要求的最短期限）；交易信息为交易完成日起三年或您注销账号后180天（以较长者为准）。 在超出上述期限后，我们会对您的相关信息进行删除或匿名化处理。
+二、保存地域
+1、您的个人信息将全部被存储于中华人民共和国境内。
+2、目前我们不存在向境外提供个人信息的场景。
+第七章 管理、查看或删除您的个人信息
+  羊驼PTE非常尊重您对自己的个人信息所享有的权利。我们保障您对个人信息所享有的访问、更正、删除、管理等权利。
+一、访问和更正您的个人信息
+1、除法律法规另有规定之外，您有权行使数据访问权。当您发现我们处理关于您的个人信息有错误或者您有其他修改、补充需求时，您也有权要求我们或自行予以更正。您行使数据访问和更正权的方式包括但不限于：
+（1）如果您希望访问或修改您在羊驼PTE产品或服务中的账号信息，包括头像、昵称、性别、生日等， 您可以通过访问我们的产品或服务进行操作（可通过点击“我”，进入个人主页后，点击“编辑”功能后进行操作）。
+（2）如羊驼PTE的产品或服务中提供发表话题、参与讨论、留言等功能并使得您有机会通过这些服务公开或提供的个人信息的， 则羊驼PTE在提供前述服务的同时会提供相应的功能确保您可以再次访问或删除您在前述服务过程中公开或提供的个人信息。
+2、您有权知悉通过羊驼PTE获得您的个人信息的第三方的身份或类型。您可以通过本政策第一章及相关章节了解第三方的身份或类型。
+二、删除您的个人信息及撤回已同意的授权
+1、在以下情形中，您可以向羊驼PTE提出删除个人信息的请求：
+（1）如果羊驼PTE处理个人信息的行为违反相关的法律法规；
+（2）如果羊驼PTE收集、使用您的个人信息，却未征得您的同意；
+（3）如果羊驼PTE处理个人信息的行为违反了与您的约定或法律的规定；
+（4）如果您不再使用羊驼PTE的产品或服务，或者您注销了相关账号；
+（5）如果羊驼PTE不再为您提供产品或服务。
+2、您有权向羊驼PTE撤回您此前作出的有关同意收集、使用您的个人信息的授权。当您撤回同意后，我们将不再处理您的相关个人信息。但您撤回同意的决定，不会影响此前基于您的授权而开展的个人信息处理活动。
+3、您可以通过删除相关个人信息的方式撤回您此前就特定个人信息而对我们作出的同意授权。
+三、注销账号
+1、您有权随时注销您在羊驼PTE产品或服务中注册的账号。为保障账号及财产安全，您需要通过客户服务或本《隐私条款》第十章载明的联系方式向羊驼PTE提出您的账号注销请求。羊驼PTE将在与您核实相关信息后对您的请求作出响应。
+2、请您注意，注销羊驼PTE相关产品或服务账号是不可恢复的操作。在注销账号之后，我们将停止为您提供产品或服务，并将删除该账号项下的您的个人信息，除非法律法规另有规定。
+四、约束信息系统自动决策
+  在羊驼PTE仅依据信息系统、算法等在内的非人工自动决策机制做出决定，并且这些决定显著影响您的合法权益的情况下，您有权要求羊驼PTE做出解释，羊驼PTE也将提供适当的救济方式。
+五、获取个人信息副本
+  根据您的请求，羊驼PTE可以向您提供羊驼PTE持有的有关您的个人信息副本（如个人基本资料）。您可以通过客户服务或本《隐私条款》第十章载明的联系方式向我们提出请求。
+六、响应您的上述请求
+1、 如果您对羊驼PTE在以上列明的有关访问、更正、删除您的个人信息，以及撤回同意、注销账号、约束信息系统自动决策方法有任何疑问，您可以通过客户服务或本《隐私政策》第十章载明的联系方式与我们取得联系。
+2、对于您合理的请求，羊驼PTE原则上不收取费用，但对多次重复、超出合理限度的请求，羊驼PTE将视情况收取一定成本费用。对于那些无端重复、需要过多技术手段、给他人合法权益带来风险或者非常不切实际的请求，羊驼PTE可能会予以拒绝。
+3、在以下情形下，我们可能无法响应您的请求：
+（1）与国家安全、国防安全有关的；
+（2）与公共安全、公共卫生、重大公共利益有关的；
+（3）与犯罪侦查、起诉和审判等有关的；
+（4）有证据表明您存在主观恶意或滥用权利的；
+（5）响应您的请求将导致其他个人、组织的合法权益受到严重损害的；
+（6） 涉及商业秘密的。
+七、申诉机制
+1、羊驼PTE已经建立申诉管理机制，包括跟踪流程等。为了保障账号及财产安全，羊驼PTE可能会与您核实相关信息。 羊驼PTE将在收到您的反馈后尽快答复您的请求，最长不超过30天。若您对答复意见不满意，您可以再次通过联系羊驼PTE客户进行申诉。
+第八章 本政策如何更新
+一、如羊驼PTE产品或服务发生以下变化，羊驼PTE将及时对本《隐私政策》进行相应的修订：
+1、羊驼PTE产品或服务所涉业务功能发生变更，导致处理个人信息的目的、类型、使用方式发生变更；
+2、您参与个人信息处理方面的权利及其行使方式发生重大变化；
+3、 羊驼PTE负责处理您的个人信息安全的部门的联络方式发生变更；
+4、发生其他可能影响用户个人信息安全或影响用户隐私权利的变更等。
+二、《隐私政策》修订后羊驼PTE会在羊驼PTE产品或服务相关界面发布最新版本并以弹窗、推送通知等合理的方式告知用户，以便用户及时了解《隐私政策》的最新版本。
+三、未经您的明确同意，羊驼PTE不会削减您基于本《隐私政策》所享有的权利。
+四、如无特殊说明，修订后的《隐私政策》自公布之日起生效。
+第九章 投诉及建议
+  您在使用羊驼PTE产品或服务的过程中，如果对本《隐私政策》有任何的疑义或建议，或您认为您的个人信息没有得到本《隐私政策》规定的保护， 您可以通过以下方式联系我们，我们将真诚地处理您的投诉及建议。
+公司名称：湖南小驼羊教育科技有限公司
+官方客服热线：0731-84826616
+
+第十章 其他
+一、因本政策以及我们处理您个人信息事宜引起的任何争议，您可诉至有管辖权的人民法院。
+二、如果您认为我们的个人信息处理行为损害了您的合法权益，您也可向有关政府部门进行反映。
+三、在羊驼PTE发布本《隐私政策》或向您提供产品或服务均视为本《隐私政策》生效。羊驼PTE停止运营或永久停止提供产品或服务时本《隐私政策》失效。
+  
+
+      《Yangtuo PTE privacy policy》
+
+The introduction
+
+Welcome to use Yangtuo PTE, the website and software of Yangtuo PTE (hereinafter referred to as "Yangtuo PTE" or "we") are managed by hunan Yangtuo education technology co., LTD. Alpaca PTE to each one take the attitude of highly respect and protect user privacy, to provide you with more accurate, with personalized service and a safe Internet environment, we according to the law of the People's Republic of China on the network safety ", "personal information security information security technology standard" (GB/T35273-2017) and other relevant laws and regulations and technical specifications, will be "privacy" relevant content in the form of the "privacy policy".
+
+This policy applies to all our products and services. This policy is closely related to our products or services that you use. When you download, install, launch, browse, register, log in and use Yangtuo PTE's products or services, we will process and protect your personal information in accordance with this policy.
+
+When you use Yangtuo PTE's products or services, the Yangtuo PTE may collect and use information about you. To this end, this privacy policy is intended to explain to you how the Yangtuo PTE acquires, USES, shares, stores and manages this information. Please read and fully understand this policy (especially the bold tips) carefully before using or continuing to use our products and services, and make appropriate choices as required in accordance with the guidelines of this policy.
+
+By using or continuing to use the Yangtuo PTE service, you agree that we will collect, use, store and share your information in accordance with this privacy policy.
+
+This privacy policy will help you understand the following:
+
+directory
+
+Chapter 1 how to collect your personal information
+
+Chapter 2 how to use your personal information
+
+Chapter 3 how to share, transfer or disclose your personal information
+
+Chapter 4 how to use cookies and similar techniques
+
+Chapter 5 how to protect your personal information
+
+Chapter 6 how to save your personal information
+
+Chapter 7 how to manage, view, or delete your personal information
+
+Chapter 8 how to update this policy
+
+Chapter 9 complaints and Suggestions
+
+Chapter x miscellaneous
+
+
+Chapter 1 how to collect your personal information
+
+Definition:
+
+According to GB/T35273 "standard of information security technology of personal information security" appendix A (informative appendices) - personal information example - table a. 1, personal information refers to electronic or other ways to record can be alone or combined with other information to identify specific natural person identity or reflect specific natural person activity of all kinds of information, such as name, date of birth, id card number and personal identification information, contact address, communication, communication, communication records and content, account password, property information, credit information, whereabouts trajectory, accommodation information, healthy physiological information, transaction information, etc.
+
+According to GB/T35273 appendix B in the code for the personal information security (informative appendices) - sensitive personal information to judge - in table b. 1, sensitive personal information refers to once leaks, illegal or abuse may endanger personal and property security, easily lead to personal reputation, damage to physical and mental health, or discriminatory treatment of personal information, such as personal property, personal health information, personal biometric information, personal identity information, network identity information and other information.
+
+Ⅰ.we will collect and obtain your information through the following ways:
+
+1. The information you provided. Such as:
+
+(1) the information you provided to us when you registered an account of Yangtuo PTE service or used the Yangtuo PTE service;
+
+(2) the Shared information provided by you to other parties through the Yangtuo PTE service, and the information stored when you use the Yangtuo PTE service.
+
+2. Your information Shared by other parties. That is, the information Shared about you by other parties using the Yangtuo PTE service.
+
+3. We have obtained your information. When you use the Yangtuo PTE service, we collect, summarize and record information, such as log information, location information, equipment information, etc.
+
+Ⅱ.We will collect and use your following types of information for the following purposes:
+
+1. Help you complete the registration and login
+
+(1) in order for us to provide services for you, you need to provide basic registration or login information, including mobile phone number, email address, and create your account, user name and password. In some individual services, if you only need to use basic services such as browsing and searching, you do not need to register as an Yangtuo PTE user and provide the above information.
+
+(2) in the part of individual service registration and login process, if you provide additional information (such as your nickname, gender, native place, date of birth, head, hobbies), will help us to provide you with personalized recommendations and better service experience, but if you do not provide this information, will not affect your use of Yangtuo PTE service's basic functions.
+
+(3) in addition, in accordance with the conditions agreed in the service agreement of the Yangtuo PTE individual service and the provisions of relevant national laws and regulations, we also provide the logout of the registered account. You can log on to the Yangtuo PTE and contact us to deal with it.
+
+2, to provide you with goods or services
+
+The information we collect and use is a necessary condition for providing you with the Yangtuo PTE service. If there is a lack of relevant information, we will not be able to provide you with the core content of the Yangtuo PTE service, such as:
+
+(1) you are using Yangtuo PTE service, upload and/or release information and related behaviors (such as release heel stick, reply heel stick, top stick, like articles, published about, share, collect, exceptional), we will collect information you upload, post or form, and shall have the right to show your nickname, avatar, and release content.
+
+(2) in some service items, in order to facilitate the delivery of goods or services to you, you should at least provide the consignee's personal identity information, name, delivery address, postal code, consignee, contact number and payment status information. If you refuse to provide such information, we will not be able to complete the relevant delivery service. If you order goods or services for others through the Yangtuo PTE service, you need to provide the aforementioned information about the actual ordering person. Before providing us with the foregoing information about the actual purchaser, you need to ensure that you have obtained its authorization.
+
+(3) in order to display the order information of your account, we will collect the order information generated during your use of Yangtuo PTE service to show you and facilitate your order management;
+
+(4) when you contact us, we may keep your communication/call records and contents or the contact information left by you, so as to contact you or help you to solve the problem, or record the solutions and results of relevant problems.
+
+(5) in order to confirm the transaction status and provide you with after-sales and dispute resolution services, we will collect your transaction, payment and logistics information related to the transaction progress through the trading objects, payment institutions and logistics companies selected by you based on the exchange, or share your transaction information with the above service providers.
+
+(6) in order to provide you with more suitable page display and recommendation of personalized content, conduct user portrait, understand product suitability, and identify account abnormal status, we may collect and correlate information about the service you use and how you use it, including:
+
+(6.1) Log information: when you use our services, we may automatically collect your detailed use of our services as a relevant web log. For example, your login account, search query content, IP address, type of browser, telecom operator, network environment, language, access date and time, and your web browsing history, Push open record, stay time, refresh record, publish record, follow, subscribe, favorite and share.
+
+(6.2) the device information: we may according to your specific permissions granted in the software installation and use of, receive and record information on the equipment you use (such as IMEI, MAC, Serial, SIM card IMSI identification number, equipment type, operating system and version, the client version, resolution, setting the package name, equipment, process equipment and software list, the only device identifier, software and hardware feature information), equipment location information (such as IP addresses, GPS location and provide relevant information of the WLAN access point, bluetooth sensor information and the base station).
+
+Please note that the individual device information, log information, is information that does not identify a specific natural person. If we combine this kind of personal information and other information used to identify a specific natural person identity, or combined with personal information, it is during the period of using, such as the personal information will be treated as personal information, in addition to obtain your authorization or otherwise prescribed by laws and regulations, we do this kind of personal information will be anonymous, to identify processing.
+
+(7) we have collected your information through indirect means
+
+We may obtain relevant information authorized to be Shared by you from related parties and third party partners. For example, we may obtain from a third party the account information (avatar, nickname) that you are authorized to share and bind your third-party account to your Yangtuo PTE service account after you agree to this privacy policy, so that you can directly log in and use our products and/or services through your third-party account. We will collect and use your information in accordance with relevant laws and regulations, and in accordance with the agreement with related parties or third party partners, on the premise that the information provided by them is from legitimate sources.
+
+(8) based on the information you provide us with, we may collect information, and we collected through an indirect way to your information, we may be based on the combination of one or more information, and recommendation algorithm modeling, programming, advertising recommendation algorithm modeling portraits, user and user behavior analysis, in order to provide you with more page display fits your needs and recommend the personalized content.
+
+3. Push the message to you
+
+(1) to display and push goods or services for you. We may use your information (such as you browse and search records, equipment information, location information, order information), used to extract your browsing, search preferences, habits, location information related characteristics, and based on the characteristics of the label via email, SMS or other way to send you marketing information, provide or promote us or a third party of the goods and services as follows:
+
+(1.1)our goods and services, including but not limited to: instant messaging services, online media, interactive entertainment, social network service, payment service, Internet search service, the location and map service, application software and services, data management software and services, online advertising services, Internet financial and other social media, entertainment, and electronic commerce, information and communication software and services;
+
+(1.2) the third party goods and services, including but not limited to: Internet service, food and restaurants, sports, music, movies, television, live performances and other arts and entertainment, book, magazine and other publications, clothing and accessories, jewelry, cosmetics, personal health and hygiene, electronics, collectibles, housewares, appliances, home decoration and ornament, pets, cars, hotel, transportation and tourism, banking, insurance and financial services, integral and incentive plan, and we think that may be associated with your other goods and services.
+
+(2) to give you notice. We may notify you of a service when necessary, such as when we suspend a service, change, or terminate the provision of a service due to system maintenance.
+
+If you do not want to continue to receive the messages pushed by us, you can ask us to stop pushing them. For example, according to the SMS unsubscribe guidelines, you can ask us to stop sending promotional messages, or set it in the mobile device to no longer receive the messages pushed by us. Except when we send a message in accordance with the law or the service agreement of a single service.
+
+4. Provide security for you
+
+In order to improve your use of the partner and provide service security, to protect you or other users or the personal property safety of the public from harm, to better prevent fishing website, fraud, the network vulnerability, computer viruses, network attacks, network intrusion security risks, such as more accurately identify in violation of laws and regulations or Yangtuo PTE service agreement rules, we may collect, use or integrate your account information, transaction information, equipment, logging information and our affiliates, partners, you authorize or Shared information according to law, To comprehensively judge your account and transaction risks, conduct authentication, testing and prevent security incidents, and take necessary records, audit, analysis and disposal measures according to law.
+
+5. Improve our services
+
+We may use the information collected through one of the Yangtuo PTE services for our other services. For example, your information collected when you use one Yangtuo PTE service may be used in another Yangtuo PTE service to provide you with specific content or to show you information that is relevant to you rather than generally pushed; We may involve you in a survey of Yangtuo PTE services to help us improve existing services or design new ones; In the meantime, we may use your information for software updates.
+
+You understand and agree that after collecting your information, we will use technical means to de-identify the data, and the de-identified information will not be able to identify your identity. In this case, we have the right to use the de-identified information to analyze the user database and make commercial use of it.
+
+6. Other USES
+
+Please note that if we wish to use your information for other purposes not specified in this privacy policy or to collect additional information not mentioned in this privacy policy, we will seek your prior consent. Once you agree, such additional use will be treated as part of this privacy policy and such additional information will be subject to this privacy policy.
+
+7. Exceptions with authorized consent
+
+In accordance with the relevant laws and regulations, your authorization is not required to collect your information in the following situations:
+
+(1) those related to the security of the state or national defence;
+
+(2) those related to public security, public health or major public interests;
+
+(3) relating to criminal investigation, prosecution, trial or execution of a judgment;
+
+(4) for the purpose of safeguarding the life, property and other major legitimate rights and interests of the information subject or other individuals, but it is difficult to get your consent;
+
+(5) the information collected is disclosed to the public by yourself;
+
+(6) collecting information from legally disclosed information, such as legal news reports, government information disclosure and other channels;
+
+(7) it is necessary to sign the contract according to your requirements;
+
+(8) it is necessary to maintain the safe and stable operation of Yangtuo PTE service, such as to find and dispose of faults of products or services;
+
+(9) those necessary for legitimate news reporting;
+
+(10) when it is necessary for an academic research institution to carry out statistics or academic research based on the public interest, and when it provides the results of academic research or description to the outside world, it processes the information contained in the results to be de-identified;
+
+(11) other circumstances prescribed by laws and regulations.
+
+8. You understand and agree that some individual services may require you to enable certain access rights (such as your location information, camera, photo album, microphone, address book and/or calendar) on your device to enable the collection and use of the information involved in these rights. When you need to turn off this feature, most mobile devices will support your requirement. Please refer to or contact the service provider or manufacturer of your mobile device for details. Please note that if you turn on any permission, you authorize us to collect and use relevant information to provide you with corresponding services. If you turn off any permission, you cancel the authorization. We will no longer collect and use relevant information based on the corresponding permission, and we will not be able to provide you with the service corresponding to this permission. However, your decision to turn off permissions will not affect the previous collection and use of information based on your authorization.
+
+9. Tips for sensitive information
+
+The above information provided by you or collected by us may contain your sensitive personal information, such as bank account number, transaction and consumption records, virtual property information, system account number, email address and relevant password, telephone number, web browsing history and location information. Please be careful and pay attention to your sensitive personal information. You agree that we may handle your sensitive personal information for the purposes and in the manner described in this privacy policy.
+
+Chapter 2 how to use your personal information
+
+After collecting your personal information, the Yangtuo PTE will use your personal information according to the following rules:
+
+Ⅰ、the personal information collected will be used in accordance with the provisions of this privacy policy and to realize the product or service functions of Yangtuo PTE.
+
+Ⅱ、Please note that you will continue to authorize us to use all the personal information provided by you when using Yangtuo PTE's products or services, unless you delete or refuse to be collected by us through relevant Settings, during the use of the products or services and before the account is cancelled. However, when you log out of your account, Yangtuo PTE will stop using and delete your personal information.
+
+Ⅲ、PTE of Yangtuo will conduct statistics on the usage of its products or services and may share such statistics with the public or third parties to show the overall usage trend of Yangtuo PTE products or services. But these statistics do not contain any information about your identity.
+
+Ⅳ. When PTE of Yangtuo intends to use your personal information for other purposes not specified in this policy, or USES the information collected for a specific purpose, PTE of Yangtuo will proactively seek your express consent in advance.
+
+Chapter 3 how to share, transfer or disclose your personal information
+
+Ⅰ、share,
+
+We will not share your information with any third party other than the Yangtuo PTE without your consent unless:
+
+1．We offer our services to you. We may share your information with our partners and other third parties to realize the core functions you need or provide the services you need, such as: providing the corresponding order information to the logistics service provider;
+
+2. Maintain and improve our services. We may share your information with our partners and other third parties to help us provide you with more targeted and sophisticated services, such as a communications service provider that sends email or push notifications on our behalf;
+
+3. Realize the purpose described in chapter 1 "how to collect your personal information" of this privacy policy;
+
+4. Perform our obligations and exercise our rights under this privacy policy or any other agreement we enter into with you;
+
+5. The purpose of sharing with third parties such as partners who entrust us with promotion is to make them understand the coverage and effectiveness of promotion. For example, we can tell the client how many people have seen their promotional information or bought the client's products after seeing the information, or provide them with non-personally identifiable statistical information to help them understand their audience or customers.
+
+6, within the scope of the laws and regulations allow, in order to comply with the law, maintain, we and our affiliates or partners, you or other Yangtuo PTE users or social public interests, property or safety from damage, such as to prevent fraud and other illegal activities and reduce the credit risk, we can exchange information with other companies and organizations. However, this does not include information that is sold, rented, Shared or otherwise disclosed for profit in violation of the commitments made in this privacy policy;
+
+7. Assist in handling disputes or disputes between you and others according to your legitimate needs;
+
+8. According to the single service agreement signed with you (including the electronic agreement signed online and the rules of the corresponding platform) or other legal documents;
+
+9. Based on academic research;
+
+10. Based on the public interest in accordance with laws and regulations.
+
+We will only share your information for lawful, legitimate, necessary, specific and specific purposes. We will enter into strict confidentiality agreements with companies, organizations and individuals with whom we share information, requiring them to process the information in accordance with our instructions, this privacy policy, and any other relevant confidentiality and security measures.
+
+Ⅱ、The transfer
+
+1. As our business continues to grow, we may enter into mergers, acquisitions, asset transfers or similar transactions, and your information may be transferred as part of such transactions. We will require the new company or organization holding your information to continue to be bound by this privacy policy, otherwise, we will require the company or organization to seek your authorization and consent again.
+
+2. With your express consent, we will transfer your information to other parties.
+
+Ⅲ、Announce
+
+We will only disclose your information if:
+
+1. According to your needs, disclose the information specified by you in a manner that you expressly agree to;
+
+2. We may disclose your information according to the type of information and the way of disclosure required by laws, regulations, mandatory administrative law enforcement or judicial requirements. Subject to compliance with laws and regulations, when we receive a request for such disclosure, we will require the receiving party to issue a corresponding legal document, such as a subpoena or a letter of investigation. We strongly believe that we should be as transparent as possible about the information we are asked to provide as far as the law allows. All requests are carefully reviewed to ensure that they have legitimate grounds and are limited to data that law enforcement has a legitimate right to access for specific investigative purposes.
+
+Ⅳ、The exception of sharing, transferring or disclosing information with prior authorization
+
+Sharing, transferring or disclosing your information does not require prior authorization from you if:
+
+1. Those related to national security and national defense security;
+
+2. those related to public security, public health or major public interests;
+
+3. It is related to criminal investigation, prosecution, trial and execution of judgment or other judicial or administrative law enforcement;
+
+4. For the purpose of safeguarding your or other personal life, property or other major legal rights and interests, but it is difficult to get your consent;
+
+5. Information that you disclose to the public by yourself;
+
+6. Collecting information from legally disclosed information, such as legal news reports, government information disclosure and other channels.
+
+According to the law, the sharing and transfer of the de-identified information and the guarantee that the data recipient cannot recover and re-identify the information subject are not the external sharing, transfer and public disclosure of the information, and the preservation and processing of such data will not be required to inform you and obtain your consent.
+
+Chapter 4 how to use cookies and similar techniques
+
+Ⅰ、To better provide you with a product or service, Yangtuo PTE USES a number of automated data collection tools, currently including Flash Cookies and embedded Web links. With the help of these technologies, the Yangtuo PTE can track your learning progress in real time and learn about your preferences, thus providing you with a better and more personalized user experience. The Yangtuo PTE will not use the above technology for any purpose other than those stated in this policy.
+
+Ⅱ、Please understand that some of the Yangtuo PTE services can only be realized by using the above technologies. If your device or program allows you to do so, you can turn off or remove the technology by changing the Settings, or by visiting the provider's web page in an appropriate manner. But this move may affect your use of Yangtuo PTE products or services.
+
+Chapter 5 how to protect your personal information
+
+Ⅰ、PTE Yangtuo attaches great importance to the security of personal information and will take all reasonable and practicable measures to continuously protect your personal information so as to prevent others from accessing, tampering with or disclosing your personal information collected by PTE Yangtuo without authorization:
+
+1. Alpaca PTE has adopted security measures in line with industry standards to protect your personal information from unauthorized access, public disclosure, use, modification, damage or loss of data. We will take all reasonably practicable measures to protect your personal information. For example, SSL encryption protection when exchanging data between your mobile device and an Yangtuo PTE product or service; We use trusted protection mechanisms to protect our data from malicious attacks.
+
+2. Alpaca PTE only allows access to relevant personal information to those who are necessary to know, and has set up strict access control and monitoring mechanisms for this purpose. Alpaca PTE also requires all persons who may have access to your personal information to comply with the corresponding confidentiality obligations. Failure to meet these obligations may result in legal action or termination of the corresponding legal relationship with PTE of Yangtuo.
+
+3. It is a basic principle of Yangtuo PTE to protect users' personal information. Yangtuo PTE will take reasonable measures to protect users' personal information. Yangtuo PTE will not disclose or disclose the user's personal information to any third party without the user's permission, except in the circumstances prescribed by laws and regulations. Yangtuo PTE USES professional encrypted storage and transmission of relevant information to ensure the security of users' personal information.
+
+4. When you register an account or use the service, you need to provide some necessary information, for example, you need to fill in your mobile phone number in order to provide you with account registration service or carry out user identification. If the national laws and regulations or policies have special provisions, you need to provide real identity information. If the information you provide is incomplete, you may not be able to use the Service or you may be restricted in the process of using the Service.
+
+5. In general, you may browse and modify the information you submit at any time, but for the sake of security and identification (such as number appeal service), you may not be able to modify the initial registration information and other verification information provided during registration.
+
+6. Yangtuo PTE will use a variety of security technologies and procedures to establish a sound management system to protect your personal information from unauthorized access, use or disclosure.
+
+7. Without your consent, Yangtuo PTE will not disclose your personal information to any company, organization or person other than Yangtuo PTE, except as otherwise provided by laws and regulations.
+
+Ⅱ、PTE will take all reasonable and practicable measures to ensure that no irrelevant information is collected.
+
+Ⅲ、Please understand that in the Internet industry, even though we try our best to strengthen security measures, it is impossible to guarantee the absolute security of information all the time due to the limitations of technology and possible malicious means. You need to understand and be aware that the system and communication network you access to Yangtuo PTE's products or services may cause problems due to other factors beyond our control. In this case, we will do our best to help solve the problems according to law.
+
+Ⅳ、In case of any unfortunate information security accident, we will timely inform you of the basic situation and possible impact of the security incident, the measures we have taken or will take to deal with it, and the Suggestions you can take to prevent and reduce risks independently, as required by laws and regulations. At the same time, we will timely inform you of the relevant information by email, letter, phone, push notification and other appropriate ways. When it is difficult to inform the information subject one by one, we will take a reasonable and effective way to issue the announcement. At the same time, we will also take the initiative to report the handling of information security incidents in accordance with the requirements of the regulatory authorities.
+
+Chapter 6 how to save your personal information
+
+Ⅰ、preservation period
+
+1. During the user's use of the Yangtuo PTE product or service, the Yangtuo PTE will continue to save the user's personal information.
+
+2. Alpaca PTE promises to always store your personal information within a reasonable and necessary period in accordance with the law. For log information, record backup and other information, we will keep the shortest period required by law after you log out of your account for 180 days (if there is a minimum period required by law, we will keep the shortest period required by law); The transaction information is 3 years from the transaction completion date or 180 days after your account is cancelled (whichever is the elder). After the above deadline, we will delete or anonymize your information.
+
+Ⅱ、Save the region
+
+1. All your personal information will be stored in the People's Republic of China.
+
+2. At present, we do not provide personal information to foreign countries.
+
+Chapter 7 manage, view or delete your personal information
+
+PTE Yangtuo respects your right to your personal information. We guarantee your rights to access, correct, delete and manage your personal information.
+
+Ⅰ、Access and correct your personal information
+
+1. Unless otherwise provided by laws and regulations, you have the right to exercise data access rights. You also have the right to request us or correct you if you find any errors in our handling of your personal information or if you have any other modification or supplementary requirements. The ways in which you exercise your data access and correction rights include, but are not limited to:
+
+(1) if you wish to access or modify your account information in Yangtuo PTE product or service, including profile picture, nickname, gender, birthday, etc., you can do so by visiting our product or service (click "I" to enter the personal homepage, and click "edit" to do so).
+
+(2) such as Yangtuo PTE products or services provided in the post, participate in discussions, messages, and other functions and gave you the chance to pass these services or providing personal information publicly, the Yangtuo PTE in the provision of the service will provide the corresponding function to ensure that you can access or delete you again in public during the process of the service or the provision of personal information.
+
+2.You have the right to know the identity or type of the third party who obtained your personal information through the Yangtuo PTE. You can learn the identity or type of the third party from chapter 1 of this policy and related chapters.
+
+Ⅱ、 Delete your personal information and revoke the agreed authorization
+
+1. You may request the deletion of your personal information to the Yangtuo PTE in the following circumstances:
+
+(1) if the behavior of Yangtuo PTE handling personal information violates relevant laws and regulations;
+
+(2) if the Yangtuo PTE collects and USES your personal information without your consent;
+
+(3) if the Yangtuo PTE's handling of personal information violates the agreement with you or the legal provisions;
+
+(4) if you no longer use Yangtuo PTE's products or services, or you have logged out of the relevant account;
+
+(5) if the Yangtuo PTE no longer provides products or services for you.
+
+2. You have the right to revoke your previous authorization to collect and use your personal information from Yangtuo PTE. When you withdraw your consent, we will no longer process your personal information. However, your decision to withdraw your consent will not affect your previous personal information processing activities based on your authorization.
+
+3. You may revoke the authorization you previously granted to us for specific personal information by deleting relevant personal information.
+
+Ⅲ、The cancellation of account
+
+1. You have the right to cancel your account registered in the Yangtuo PTE product or service at any time. In order to protect the security of your account and property, you need to make a request to Yangtuo PTE for your account cancellation through customer service or the contact information specified in chapter 10 of this privacy policy. The Yangtuo PTE will respond to your request after verifying the information with you.
+
+2. Please note that it is not recoverable to cancel the account of Yangtuo PTE related products or services. After logging off, we will stop providing products or services to you and will delete your personal information under this account, unless otherwise specified by laws and regulations.
+
+Ⅳ、Constrained information system automatic decision making
+
+In the case that the Yangtuo PTE only makes decisions based on non-artificial automatic decision-making mechanisms such as information systems, algorithms, etc., and these decisions significantly affect your legitimate rights and interests, you have the right to request an explanation from the Yangtuo PTE, and the Yangtuo PTE will also provide appropriate remedies.
+
+Ⅴ、Get a copy of your personal information
+
+Upon your request, the Yangtuo PTE may provide you with a copy of your personal information (such as basic personal information) held by the Yangtuo PTE. You may make a request to us through customer service or the contact information set forth in chapter 10 of this privacy policy.
+
+Ⅵ、Response to your request
+
+1. If you have any questions about the access, correction, deletion of your personal information, withdrawal of consent, account cancellation, and automatic decision method of restricting the information system set out above by Yangtuo PTE, you may contact us through customer service or the contact information set out in chapter 10 of this privacy policy.
+
+2. For your reasonable request, PTE of Yangtuo does not charge fees in principle, but for repeated requests that exceed reasonable limits, PTE of Yangtuo will charge a certain cost according to the circumstances. The Yangtuo PTE may reject requests that are gratuitously repetitive, require too much technology, pose a risk to the legitimate interests of others, or are highly impractical.
+
+3. We may not be able to respond to your request under the following circumstances:
+
+(1) those related to the security of the state or national defence;
+
+(2) those related to public security, public health or major public interests;
+
+(3) those relating to criminal investigation, prosecution or trial;
+
+(4) there is evidence that you have subjective malice or abuse the right;
+
+(5) responding to your request will cause serious damage to the legitimate rights and interests of other individuals and organizations;
+
+(6) involving trade secrets.
+
+Ⅶ、Appeal mechanism
+
+1. Alpaca PTE has established a complaint management mechanism, including the tracking process. In order to ensure the security of your account and property, PTE may check the relevant information with you. The Yangtuo PTE will respond to your request as soon as it receives your feedback, up to 30 days. If you are not satisfied with the response, you can appeal again by contacting the Yangtuo PTE customer.
+
+Chapter 8 how to update this policy
+
+Ⅰ、If the following changes occur to the Yangtuo PTE product or service, the Yangtuo PTE will promptly revise the privacy policy accordingly:
+
+1. Changes in the business functions of Yangtuo PTE products or services lead to changes in the purpose, type and use of the personal information;
+
+2. Your rights to participate in the processing of personal information and the way in which you exercise them have changed significantly;
+
+3. Alpaca PTE is responsible for changing the contact information of your personal information security department;
+
+4. Other changes that may affect the security of users' personal information or the privacy rights of users shall occur.
+
+Ⅱ、After the revision of the privacy policy, the Yangtuo PTE will release the latest version on the interface related to the Yangtuo PTE product or service and inform users in a reasonable way, such as popover and push notification, so that users can timely understand the latest version of the privacy policy.
+
+Ⅲ、Without your express consent, PTE will not diminish your rights under this privacy policy.
+
+Ⅳ、Unless otherwise specified, the revised privacy policy shall take effect as of the date of publication.
+
+Chapter 9 complaints and Suggestions
+
+If you have any doubts or Suggestions about this privacy policy during your use of Yangtuo PTE products or services, or if you believe that your personal information is not protected by this privacy policy, you can contact us through the following ways, and we will sincerely handle your complaints and Suggestions.
+
+Company name: hunan Yangtuo education technology co., LTD
+
+Official customer service hotline: 0731-84826616
+
+
+
+Chapter 10 miscellaneous
+
+Ⅰ、Any dispute arising out of this policy or our handling of your personal information may be referred to the people's court having jurisdiction.
+
+Ⅱ、If you think our personal information processing behavior has harmed your legitimate rights and interests, you may also report to the relevant government departments.
+
+Ⅲ、The release of this privacy policy or the provision of products or services to you by Yangtuo PTE shall be deemed to be effective. This privacy policy becomes invalid when PTE ceases to operate or permanently ceases to provide products or services.
+
+
+
+  
+  
+
+

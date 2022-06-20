@@ -1,0 +1,1 @@
+ShowDoc本网站基于开源版showdoc搭建，仅供私人使用。如需访问showdoc官网，请在搜索引擎里搜索showdoc字样或者直接访问showdoc.com.cn

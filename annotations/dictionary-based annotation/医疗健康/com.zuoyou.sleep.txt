@@ -1,0 +1,255 @@
+
+
+
+
+呼噜猫舍隐私声明
+
+
+呼噜猫舍应用隐私政策
+开发者名称:大连左右科技有限公司
+呼噜猫舍应用是由大连左右科技有限公司（以下简称“左右科技公司”）为您提供的一款睡眠记录服务产品
+左右科技公司十分尊重您的个人信息和数据，并会尽全力保护您的个人信息和数据的安全可靠。
+本政策仅适用于呼噜猫舍应用收集和存储的用户信息和数据。
+请在使用呼噜猫舍应用前，务必仔细阅读并了解和同意《呼噜猫舍应用的隐私政策》。
+该政策规定了您在使用呼噜猫舍应用时我们将如何收集、使用、披露、处理和保护您提供给我们的信息。
+如果我们需要您提供某些信息用于在使用该产品时验证您的身份、以及向我们的第三方服务供应商连接服务时，我们会严格遵守该隐私政策来使用这些信息。
+如果您已经开始使用呼噜猫舍应用，就表示您已经阅读、许可并接受该隐私政策中所描述的所有条款，以及我们今后随时做出的任何变更。
+另外，您需要承诺在您开始使用本产品时已经是成年人，如果您是未成年人，需要您的监护人同意您使用本产品并同意相关的服务条款和隐私政策。
+（1）呼噜猫舍应用怎样收集并使用您的信息（包括个人信息）
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息
+其中属于个人敏感信息的包括个人生物识别信息（例如指纹、面部、声纹）、身份证件号码、银行账号、财产信息、交易信息、行踪轨迹（例如居住和办公地址）等
+我们只会以该声明中所列出的目的，来收集和使用您的信息：
+1.数据统计，数据分析服务
+我们的产品集成华为分析SDK，华为分析SDK需要手机您的设备Mac地址，唯一设备识别码（IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA，具体字段因软硬件版本不同而存在差异）并通过
+地理位置校准报表数据准确性，提供基础反作弊能力。
+
+2.广告展示服务
+我们的产品集成穿山甲Gromore聚合SDK，优量汇SDK，提供开屏广告服务，需要读取您的设备唯一识别码（IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA，具体字段因软硬件版本不同而存在差异）联网状态信息，
+地理位置，用于分析您使用我们的服务情况，优化广告投放。
+
+3.消息推送服务
+我们因实现消息推送功能的需要，会使用小米，华为，vivo，oppo手机厂商的第三方PUSH SDK。您使用小米，华为，vivo，oppo上述手机时，Push SDK需要收集唯一设备标识符，设备运行进程信息，应用程序列表信息，
+并可能会收集您的手机型号，系统类型，系统版本，联网相关信息，以确保您能正常收到消息推送，以及卸载客户端之后，不会再收到消息推送。
+
+4.崩溃，故障信息统计服务
+我们的产品集成华为崩溃SDK，需要读取您的设备标识符，wifi地址，运营商信息，用于提供崩溃日志上报。
+
+5.性能分析服务
+我们的产品集成华为性能分析SDK，需要读取您的AAID，应用包名，应用版本号，网络类型，Android版本号，设备型号，产品品牌，存储空间状态，内存使用状态，屏幕方向，屏幕尺寸，语言，是否ROOT
+采集本应用运行期间的性能数据（包括启动耗时、加载耗时、网络请求耗时、ANR等），用于基于应用版本、设备类型、设备型号等维度下的统计分析，并基于应用内设备标识符去重统计某些性能问题影响到的设备规模，帮助优化应用性能，持续提升用户体验。
+
+6.Android版本基于系统权限的功能服务
+(1) 写入和读取文件：我们需要如下权限（android.permission.WRITE_EXTERNAL_STORAGE 和 android.permission.READ_EXTERNAL_STORAGE）您在呼噜猫舍内使用记录睡眠功能时，呼噜猫舍会请求获取存储空间权限用于保存睡眠文件
+(2) 允许程序访问：我们需要如下权限（android.permission.GET_TASKS）该权限用于小米SDK的消息推送服务
+(3) 获取手机状态：我们需要如下权限（android.permission.READ_PHONE_STATE）该权限用于华为分析SDK和华为崩溃SDK获取用户手机信息，以便上报数据分析
+(4) 加入电池优化白名单：我们需要如下权限（android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS）该权限用于保障呼噜猫舍后台运行稳定性
+(5) 获取粗略定位：我们需要如下权限（android.permission.ACCESS_COARSE_LOCATION）该权限用于华为SDK的数据分析服务
+(6) 建立前台服务：我们需要如下权限（android.permission.FOREGROUND_SERVICE）该权限用于音频服务，闹钟服务，记录睡眠
+(7) 安装App：我们需要如下权限（android.permission.REQUEST_INSTALL_PACKAGES）该权限用于App更新
+(8) 获取网络状态权限：我们需要如下权限（android.permission.ACCESS_NETWORK_STATE）该权限用于检测当前网络连接是否有效
+(9) 获取网络访问权限：我们需要如下权限（android.permission.INTERNET）该权限用于通过网络上报应用性能数据到服务器
+7.呼噜猫舍所使用的第三方SDK相关信息
+7-1 华为SDK
+7.1.1 华为分析服务
+    使用目的：收集和统计分析使用本产品用户的信息
+    收集信息：设备MAC地址，设备标识符（如IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA，具体字段因软硬件版本不同而存在差异）网络信息，运营商信息
+    官网地址：华为分析服务
+7.1.2 华为崩溃分析服务
+    使用目的：收集该应用产生的崩溃
+    收集信息：设备MAC地址，设备标识符（如IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA，具体字段因软硬件版本不同而存在差异）网络信息，运营商信息，用户使用该产品过程中发生的崩溃日志
+    官网地址：华为崩溃分析服务
+7.1.3 华为推送服务
+    使用目的：推送消息给用户
+    收集信息：设备MAC地址，设备标识符（如IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA，具体字段因软硬件版本不同而存在差异）网络信息，运营商信息
+    官网地址：华为推送服务
+7.1.4 华为性能分析
+    使用目的：采集本应用运行期间的性能数据
+    收集信息：AAID、应用包名、应用版本号，网络类型，Android版本号、设备型号、产品品牌、存储空间状态、内存使用状态、屏幕方向、屏幕尺寸、语言、是否Root
+    官网地址：华为性能管理
+7-2 穿山甲Gromore SDK
+使用SDK名称：穿山甲Gromore SDK，穿山甲广告SDK，优量汇广告SDK，百度广告SDK
+使用目的：向开发者提供帮助调整广告变现策略的服务
+服务类型：广告变现服务
+收集信息：设备品牌、型号、操作系统版本信息、设备标识符（如IMEI、AndroidID、OAID、IMSI、ICCID、GAID、MEID、IDFV、IDFA，具体字段因软硬件版本不同而存在差异）软件安装列表等
+    基础信息应用信息：开发者应用名、应用包名、版本号等信息
+    其他信息：运营商信息、设备时区、设备地理位置、网络设备硬件地址（MAC地址）、IP 地址、WLAN接入点（如SSID，BSSID）、蓝牙（Bluetooth）、基站、软件版本号、网络接入方式、类型、状态、网络质量数据、操作、使用、服务日志。"
+隐私权政策链接：穿山甲聚合SDK隐私政策
+隐私权政策链接：穿山甲平台隐私政策
+隐私权政策链接：优量汇 SDK个人信息保护规则
+7-3 番茄小说SDK
+使用SDK名称：番茄小说SDK
+使用目的：小说内容输出合作
+服务类型：小说内容提供
+收集信息：硬件型号、设备品牌、型号、操作系统版本号、系统设置、系统属性、屏幕分辨率、IMEI、AndroidID、OAID、IDFA、IDFV、IMSI、MEID、应用版本、应用包名、WLAN接入点、蓝牙、软件版本号、网络接入方式、类型、状态、网络质量数据、操作、使用、服务日志。
+隐私权政策链接：番茄小说SDK隐私政策
+7-4 vivo推送SDK
+使用SDK名称：vpush sdk
+使用目的：在vivo品牌手机上实现系统级推送
+服务类型：推送服务
+隐私权政策链接：vivo推送平台服务协议
+7-5 oppo推送SDK
+使用SDK名称：oppo push sdk
+使用目的：在oppo品牌手机上实现系统级推送
+服务类型：推送服务
+隐私权政策链接：OPPO消息推送服务开发者协议
+7-6 xiaomi推送SDK
+使用SDK名称：xiaomi push sdk
+使用目的：在小米品牌手机上实现系统级推送
+服务类型：推送服务
+收集信息：OAID，Hashed Android ID，RegID，应用基本信息（包括应用包名、版本号和运行状态)，消息内容，设备相关信息（设备厂商、设备型号、设备内存、操作系统版本、小米推送SDK版本、设备归属地)，通知栏设置（是否屏蔽通知栏、是否设置锁屏弹出消息等），事件消息（包含消息创建事件、下发事件、到达事件、点击事件）
+协议链接：小米推送技术服务协议
+协议链接：小米推送技术服务数据保护附录
+协议链接：个人数据处理说明
+协议链接：小米推送隐私政策
+（2）保留政策与数据存储
+我们会在符合法律法规要求，以及实现信息收集目的的必要期限内，保存上述收集的您的个人信息。超过上述期限后，我们将不会再保留个人信息或对个人信息进行匿名化
+2-1.数据存储地点
+我们在本产品和服务中所收集和产生的个人信息，将存储在中华人民共和国境内。
+2-2.数据存储期限
+我们仅为实现上述目的所需要的时间来保留您的个人信息，并在超出保留时间后删除或匿名化处理您的个人信息，但法律法规另有要求的除外。
+在呼噜猫舍应用中，您的个人数据具体留存时间如下：
+为了持续优化和改进用户体验，我们会采集假名化后的设备信息，数据的存储期跟随友盟数据分析平台要求时间存储
+另外，如果我们的产品或服务发生了停止运营的情况时，我们将以推送通知、公告等形式告知您，并在合理的期限内删除您的个人信息或进行匿名化处理。
+（3）我们请求哪些权限以及我们为什么请求这些权限
+查看网络连接权限：旨在于保证呼噜猫舍可以正常使用
+完全的网络访问权限：旨在于友盟SDK上报信息和发送推送通知给您
+开机启动权限：旨在于保证闹钟功能的正常使用
+运行前台服务权限：旨在于保证音频播放功能正常使用
+（4）优先顺序
+本隐私政策针对呼噜猫舍应用的应用软件以及其提供的相关服务，如果本隐私政策与左右科技公司隐私政策之间存在不一致，以本隐私政策为准；若本隐私政策未包含（约定）的相关内容，则以左右科技公司隐私政策中包含（约定）的为准。
+（5）联系我们
+如果您对本隐私政策有任何疑问、意见或建议，或者对我们收集、使用或披露您的个人信息有任何问题，请通过邮件与我们联系，邮件地址为：babymoment@funnysir.com
+（6）免责
+由于您将设备交由他人导致个人信息泄漏
+由于黑客行为，计算机病毒入侵
+以上呼噜猫舍不承担任何责任
+（7）更新说明
+左右科技公司保留随时更新本声明的权利，当声明发生修改时，我们会通过弹窗或通知的方式告知您变更后的声明。
+如您继续使用我们的服务，即视为您同意我们的变更后的隐私政策。
+我们才会按照更新的声明收集、使用、存储您的个人信息。
+本声明自更新之日起生效
+发布时间：2021 年 9 月 7 日
+生效时间：2021 年 9 月 7 日
+更新时间：2022 年 3 月 29 日
+大连左右科技有限公司
+SnoringApplication Privacy Policy
+Developer name: Dalian Left Right Technology
+The Snoring application is a sleep recording service product provided by Dalian Left Right Technology (hereinafter referred to as "Left Right Technology") for you
+Left Right Technology respects your personal information and data, and will do its best to protect the safety and reliability of your personal information and data. 
+This policy only applies to user information and data collected and stored by the Snoring app. 
+Please read carefully, understand and agree to the "Privacy Policy of the Snoring App" before using the Snoring app. 
+This policy stipulates how we will collect, use, disclose, process and protect the information you provide to us when you use the Snoring app. 
+If we need you to provide certain information to verify your identity when using the product and connect to our third-party service providers, we will strictly abide by this privacy policy to use this information. 
+If you have started using the Snoring application, it means that you have read, approved and accepted all the terms described in this privacy policy, as well as any changes we may make at any time in the future. 
+In addition, you need to promise that you are already an adult when you start using this application. If you are a minor, you need your guardian to agree to your use of this application and agree to the relevant terms of service and privacy policy. 
+(1) How does the Snoring app collect and use your information (including personal information)
+Personal information refers to various information recorded electronically or in other ways that can identify a specific natural person alone or in combination with other information or reflect the activities of a specific human being
+Personal sensitive information includes personal biometric information (such as fingerprints, face, voiceprint), ID number, bank account number, property information, transaction information, whereabouts (such as residential and office addresses), etc.
+We will only collect and use your information for the purposes listed in the statement:
+1. Data statistics, data analysis services
+Our products are integrated with Huawei analysis SDK. Huawei analysis SDK requires your device MAC address and unique device identification code (IMEI, androidid, oaid, IMSI, iccid, gaid, meid, idfv, IDFA, and the specific fields vary according to the software and hardware versions) and passes
+Geographic location calibration report data accuracy, providing basic anti cheating ability.
+2. Advertising display service
+Our products integrate pangolin gromore aggregation SDK and youlianghui SDK to provide open screen advertising services. We need to read the networking status information of your device's unique identification code (IMEI, androidid, oaid, IMSI, iccid, gaid, meid, idfv, IDFA, and the specific fields vary with different software and hardware versions),
+Geographical location is used to analyze your use of our services and optimize advertising.
+3. Message push service
+Due to the need to realize the message push function, we will use the third-party push SDK of Xiaomi, Huawei, vivo and oppo mobile phone manufacturers. When you use Xiaomi, Huawei, vivo and oppo mobile phones, the push SDK needs to collect unique device identifiers, device running process information and application list information,
+And may collect your mobile phone model, system type, system version and networking related information to ensure that you can normally receive message push, and will not receive message push after uninstalling the client.
+4. Crash, fault information statistics service
+Our product integrates the Huawei crash SDK. You need to read your device identifier, WiFi address and operator information to provide crash log reporting.
+5. Performance analysis services
+Our products are integrated with the Huawei performance analysis SDK. You need to read your AAID, application package name, application version number, network type, Android version number, device model, product brand, storage space status, memory usage status, screen direction, screen size, language and root
+Collect the performance data during the operation of the application (including startup time, loading time, network request time, anr, etc.) for statistical analysis based on the dimensions of application version, device type and device model, and re count the device scale affected by some performance problems based on the device identifier in the application, so as to help optimize the application performance and continuously improve the user experience.
+6. Android version function service based on system permission
+(1) Write and read files: we need the following permissions (android.permission.write_external_storage and android.permission.read_external_storage) when you use the recording sleep function in the snoring cat house, the snoring cat house will request to obtain the permission of storage space for saving sleep files
+(2) Allow program access: we need the following permissions (Android. Permission. Get_tasks), which are used for the message push service of Xiaomi SDK
+(3) Obtain mobile phone status: we need the following permission (Android. Permission. Read_phone_state). This permission is used for Huawei analysis SDK and Huawei crash SDK to obtain user mobile phone information in order to report data analysis
+(4) Add to the white list of battery Optimization: we need the following permissions (Android. Permission. Request_ignore_battery_optimizations), which are used to ensure the stability of background operation of snoring cat house
+(5) Get a rough location: we need the following permissions (Android. Permission. Access_court_location), which are used for the data analysis service of Huawei SDK
+(6) Establish front desk service: we need the following permission (Android. Permission. Foreground_service), which is used for audio service, alarm clock service and recording sleep
+(7) Install app: we need the following permissions (Android. Permission. Request_install_packages), which are used for app updates
+(8) Obtain network status permission: we need the following permission (Android. Permission. Access_network_state). This permission is used to detect whether the current network connection is valid
+(9) Obtain network access permission: we need the following permission (Android. Permission. Internet), which is used to report application performance data to the server through the network
+7. Information about the third-party SDK used in the snoring cat house
+7-1 Huawei SDK
+7.1.1 Huawei analysis service
+Purpose of use: collect and statistically analyze the information of users using this product
+Information collected: device MAC address, device identifier (such as IMEI, androidid, oaid, IMSI, iccid, gaid, meid, idfv, IDFA, specific fields vary due to different software and hardware versions), network information, and operator information
+Official website address: < a href=“ https://developer.huawei.com/consumer/cn/hms/huawei-analyticskit "> Huawei analysis services
+7.1.2 Huawei crash analysis service
+Purpose: to collect the crashes generated by this application
+Collect information: device MAC address, device identifier (such as IMEI, androidid, oaid, IMSI, iccid, gaid, meid, idfv, IDFA, specific fields vary due to different software and hardware versions), network information, operator information, and crash log during user use of the product
+Official website address: < a href=“ https://developer.huawei.com/consumer/cn/agconnect/crash "> Huawei crash analysis service
+7.1.3 Huawei push service
+Purpose: to push messages to users
+Information collected: device MAC address, device identifier (such as IMEI, androidid, oaid, IMSI, iccid, gaid, meid, idfv, IDFA, specific fields vary due to different software and hardware versions), network information, and operator information
+Official website address: < a href=“ https://developer.huawei.com/consumer/cn/hms/huawei-pushkit "> Huawei push service
+7.1.4 Huawei performance analysis
+Purpose: to collect performance data during the operation of the application
+Collect information: AAID, application package name, application version number, network type, Android version number, device model, product brand, storage space status, memory usage status, screen direction, screen size, language, whether root
+Official website address: < a href=“ https://developer.huawei.com/consumer/cn/agconnect/apm "> Huawei performance management
+7-2 pangolin gromore SDK
+SDK names: pangolin gromore SDK, pangolin advertising SDK, youlianghui advertising SDK, baidu advertising SDK
+Purpose: to provide services to developers to help adjust advertising realization strategies
+Service type: advertising realization service
+Information collected: equipment brand, model, operating system version information, equipment identifier (such as IMEI, androidid, oaid, IMSI, iccid, gaid, meid, idfv, IDFA, specific fields vary due to different software and hardware versions), software installation list, etc
+    Basic information application information: developer application name, application package name, version number and other information
+    Other information: operator information, equipment time zone, equipment geographical location, network equipment hardware address (MAC address), IP address, WLAN access point (such as SSID, BSSID), Bluetooth, base station, software version number, network access mode, type, status, network quality data, operation, use and service log. "
+Privacy Policy: < a href=“ https://www.csjplatform.com/supportcenter/5879#1gykpolxnzog0 "> pangolin aggregation SDK privacy policy
+Privacy policy link: < a href=“ https://www.csjplatform.com/privacy/partner "> pangolin platform privacy policy
+Privacy policy link: < a href=“ https://e.qq.com/dev/help_detail.html?cid=2005&pid=5983 "> personal information protection rules of youlianghui SDK
+7-3 tomato novel SDK
+SDK Name: tomato novel SDK
+Purpose: novel content output cooperation
+Service type: novel content provision
+Collect information: hardware model, equipment brand, model, operating system version number, system settings, system attributes, screen resolution, IMEI, androidid, oaid, IDFA, idfv, IMSI, meid, application version, application package name, WLAN access point, Bluetooth, software version number, network access mode, type, status, network quality data, operation, use and service log
+Privacy policy link: < a href=“ https://www.csjplatform.com/terms/novelsdk-privacy "> Privacy Policy
+7-4 vivo push SDK
+Use SDK Name: vpush SDK
+Purpose: to realize system level push on vivo brand mobile phones
+Service type: Push Service
+Privacy policy link: < a href=“ https://dev.vivo.com.cn/documentCenter/doc/366 "> vivo push platform service agreement
+7-5 oppo push SDK
+Use SDK Name: oppo push SDK
+Purpose: to realize system level push on oppo brand mobile phones
+Service type: Push Service
+Privacy policy link: < a href=“ https://open.oppomobile.com/wiki/doc#id=10194 "> oppo message push service developer agreement
+7-6 Xiaomi push SDK
+SDK Name: Xiaomi push SDK
+Purpose: to realize system level push on Xiaomi brand mobile phones
+Service type: Push Service
+Collect information: oaid, hashed Android ID, regid, basic application information (including application package name, version number and running status), message content, device related information (device manufacturer, device model, device memory, operating system version, Xiaomi push SDK version, device home), notification bar setting (whether to shield the notification bar, whether to set the lock screen pop-up message, etc.), Event message (including message creation event, release event, arrival event and click event)
+Agreement link: < a href=“ https://dev.mi.com/console/doc/detail?pId=860 "> Xiaomi push technology service agreement
+Agreement link: < a href=“ https://dev.mi.com/console/doc/detail?pId=2617 "> Xiaomi push technical service data protection appendix
+Agreement link: < a href=“ https://dev.mi.com/console/doc/detail?pId=2618 "> personal data processing instructions
+Agreement link: < a href=“ https://dev.mi.com/console/doc/detail?pId=1822 "> Xiaomi push privacy policy
+(2) Retention policy and data storage
+We will store your personal information collected above within the necessary period to meet the requirements of laws and regulations and to achieve the purpose of information collection. After the period above, we will no longer retain or anonymize personal information
+2-1. Data storage location
+The personal information we collect and generate in this product and service will be stored in the People's Republic of China. 
+2-2. Data storage period
+We only retain your personal information for the time required to achieve the above-mentioned purposes, and delete or anonymize your personal information after the retention time expires, unless otherwise required by laws and regulations. 
+In the Snoring application, the specific retention time of your personal data is as follows:
+In order to continuously optimize and improve the user experience, we will collect pseudonymized device information. The storage period of the data follows the time required by the Umeng data analysis platform.
+In addition, if our products or services cease to operate, we will notify you in the form of push notifications, announcements, etc., and delete your personal information or anonymize them within a reasonable period of time. 
+(3) What permissions do we request and why we request these permissions
+Check network connection permissions: designed to ensure that the Snoring app is functioning normally
+Complete network access rights: Aim to report information and send push notifications to you in the Umeng SDK
+Startup permission: designed to ensure the usability of the alarm clock function
+The permission to run the foreground service: aims to ensure the usability of the audio playback function
+(4) Priority order
+This privacy policy is aimed at the application software of the Snoring application and the related services provided by it. If there is any inconsistency between this privacy policy and the privacy policy of the Left Right Technology, this privacy policy shall prevail; if this privacy policy does not contain (agreement) related content, then the (agreement) contained in the privacy policy of the Left Right Technology shall prevail.. 
+(5) Contact us
+If you have any questions, comments or suggestions about this privacy policy, or if you have any questions about our collection, use or disclosure of your personal information, please contact us via email at: babymoment@funnysir.com
+(6) Disclaimer
+Leakage of personal information due to your handing over the device to others
+Due to hacking, computer virus intrusion
+The above Snoring does not bear any responsibility
+(7) Update instructions
+Left Right Technology reserves the right to update this statement at any time. When the statement is modified, we will notify you of the changed statement through a pop-up window or notification. 
+If you continue to use our services, you are deemed to agree to our revised privacy policy. 
+We will collect, use, and store your personal information in accordance with the updated statement. 
+This statement is effective from the date of renewal
+Last update date: September 7, 2021
+Dalian Left Right Technology
+

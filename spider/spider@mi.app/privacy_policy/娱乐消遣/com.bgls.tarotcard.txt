@@ -1,0 +1,536 @@
+
+
+
+
+
+
+
+
+
+
+
+隐私政策
+更新日期 
+（以下简称“我们”）深知个人信息对您的重要性，并会尽全力保护您的个人信息安全可靠。我们致力于维持您对我们的信任，恪守以下原则，保护您的个人信息：权责一致原则、目的明确原则、选择同意原则、最少够用原则、确保安全原则、主体参与原则、公开透明原则等。同时，我们承诺，我们将按业界成熟的安全标准，采取相应的安全保护措施来保护您的个人信息。
+					请在使用我们的产品（以下统称我们的产品或）前，仔细阅读并了解本《隐私政策》。
+您应了解的内容：
+一、我们如何收集和使用您的个人信息
+二、我们如何使用Cookie
+三、我们如何共享、转让、公开披露您的个人信息
+四、我们如何保护您的个人信息
+五、您的权利
+六、我们如何处理儿童的个人信息
+七、您的个人信息如何在全球范围转移
+八、适用法律及管辖
+九、本政策如何更新
+十、我们的联系方式
+十一、附录：权限申请及应用场景
+一、我们如何收集和使用您的个人信息
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息。
+收集个人信息的目的在于向您提供产品或服务，并且保证我们遵守适用的相关法律、法规及其他规范性文件。您有权自行选择是否提供该信息，但多数情况下，如果您不提供，我们可能无法向您提供相应的服务，也无法回应您遇到的问题。
+（一）我们将收集您的哪些信息？
+1.手机号和第三方登录授权信息：帮助您注册账号，成为我们核心用户
+在您使用本产品和服务时，我们建议您注册一个帐号，以更加充分地使用本产品和服务的全部功能；为此，您需要提供手机号码（用于实名认证）并创建密码、昵称。
+在您注册本产品时，您需要根据要求提供的个人注册信息，依据您所选择的注册方式和填写的资料，我们会收集您的手机号或邮箱作为您账户标识信息。如果您选用第三方账号登录，我们会通过合法途径从商业伙伴处取得授权的用户个人数据（比如账号昵称和头像以及ID）
+上传头像照片时，需要使用您的相机权限和存储权限，用于拍摄照片和保存您拍摄的照片。如您希望撤销已授权的相机和存储权限，可前往设置中关闭。
+2、设备信息：向您提供网络安全及运营安全保障
+为保障您的帐号、网络、运营及系统安全，预防钓鱼网站欺诈及木马病毒，在您使用本产品的过程中，我们可能会收集您的设备信息，包括不可变更的设备唯一标识（如IMEI号、AndroidID、IDFA、GUID、OPENUDID、SIM卡IMSI信息）、硬件序列号、MAC地址、
+					IP 地址、位置、登录/退出时间、使用时间、首页和设置菜单的点击位置及点击时间。
+当您使用“”及相关服务时，为了保障软件与服务的正常安全运行，优化服务体验，我们会收集您的硬件型号、操作系统版本号、唯一设备标识符（IMEI等）、网络设备硬件地址（MAC）、IP
+						地址、软件版本号、网络接入方式、类型、状态、网络质量数据、操作日志、服务日志信息。请您了解，这些信息是我们提供服务和保障产品正常安全运行所必须收集的必要信息。
+（二）向您提供其他相关产品功能服务
+为实现以下各项产品功能和/或服务，我们可能需要向您收集相对应的个人信息，若您拒绝提供，则无法使用该等特定服务。
+1）客户服务。当您向提起投诉、进行咨询或申诉时，为了方便与您联系或帮助您解决问题，我们可能需要您提供姓名、手机号码、电子邮件及其他有效的联系方式等个人信息。
+					如您拒绝提供上述信息，我们可能无法向您及时反馈相关处理结果。
+2）维护产品安全及时排除故障。为维护我们服务的正常运行，以及保障您的帐号安全、排查产品故障、改进及优化我们的服务，我们会通过第三方SDK（友盟、华为分析）收集您的EXIF数据、IMEI、设备型号信息及登陆IP地址、操作日志信息。这类信息是为提供服务必须收集的信息，收集后即作去标识化处理，不会用于识别任何特定的用户。
+3）用于分享和调起第三方支付等功能。如您将中内容分享至第三方平台时，我们会读取您的应用列表信息用以判断该第三方平台是否存在从而达成分享目的；如您使用中支付功能时，我们也会读取您的应用列表信息用以判断该第三方支付应用是否存在以完成支付功能。
+
+您提供的上述信息，将在您使用本服务期间持续授权我们使用。在您未使用本服务期间，我们将为您保留，且不会泄漏给任何第三方。
+如您希望彻底删除上述这些信息，请直接在设置中找到注销’按钮，确认后将直接清除您在软件中的所有注册信息。
+上述信息将存储于中国，我司在阿里云购买的服务器和数据盘中，我司已启动了阿里云服务的高科技必要保护工具。未经您的允许，我们不会泄漏给任何第三方，下列情形除外：
+·您明确同意让第三方共享资料
+·只有透露你您的个人信息，才能提供您所要求的产品和服务
+·为保护本网站、会员及社会公众的财产权利或人身权利
+·根据法律法规的规定，向执法机关提供
+·受到黑客攻击导致会员信息泄露的
+·为实现使用目的，其他有必要的情况及法律规定的其他情形
+二、我们如何使用Cookie
+Cookie和同类技术是互联网中的通用常用技术。当您使用“”软件及相关服务时，我们可能会使用相关技术向您的设备发送一个或多个Cookie或匿名标识符，以收集和存储您访问、使用本产品时的信息。我们使用Cookie和同类技术主要为了实现以下功能或服务：
+1.保障产品与服务的安全、高效运转
+我们可能会设置认证与保障安全性的cookie或匿名标识符，使我们确认您是否安全登录服务，或者是否遇到盗用、欺诈等不法行为。这些技术还会帮助我们改进服务效率，提升登录和响应速度。
+2.帮助您获得更轻松的访问体验
+使用此类技术可以帮助您省去重复您填写个人信息、输入搜索内容的步骤和流程（例如：实现一键登录流程）。
+3.APP不会收集个人使用习惯、浏览记录用于定向推送和精准营销
+我们承诺，我们不会将Cookie用于本隐私声明所述目的之外的任何其他用途。
+三、我们如何共享、转让、公开披露您的个人信息
+（一）共享
+我们不会向其他任何公司、组织和个人分享您的个人信息，但以下情况除外：
+1、在获取明确同意的情况下共享：获得您的明确同意后，我们会与其他方共享您的个人信息。
+2、我们可能会根据法律法规规定，或按政府主管部门的强制性要求，对外共享您的个人信息。
+3、与授权合作伙伴共享：仅为实现本隐私权政策中声明的目的，我们的某些服务将由授权合作伙伴提供。我们可能会与合作伙伴共享您的某些个人信息，以提供更好的客户服务和用户体验。例如，我们聘请来提供第三方数据统计和分析服务的公司可能需要采集和访问个人数据以进行数据统计和分析。在这种情况下，这些公司
+					必须遵守我们的数据隐私和安全要求。我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。
+对我们与之共享个人信息的公司、组织和个人，我们会与其签署严格的保密协定，要求他们按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。我们的合作伙伴包括以下类型： 
+（1）广告、分析服务类合作伙伴。我们可能引入这类合作伙伴如Google
+					Ads、穿山甲、小米广告、华为广告、oppo广告、友盟、华为分析、Firebase等，是为了帮助我们统计、评估在线广告的接触效果，除非得到您的许可，否则我们不会分享用于识别您个人身份的信息（指可以识别您身份的信息，例如您的姓名、身份证号、电话或电子邮箱，通过这些信息可以联系到您或识别您的身份）。我们仅会向这些合作伙伴提供有关其广告覆盖面和有效性的信息，而不会提供您的个人身份信息；或者提供难以识别您个人身份的用户画像标签及去标识化或匿名化后的信息，以帮助其在不识别您个人身份的前提下提升广告有效触达率。我们将与之共享部分去标识化化处理的个人信息，这些信息为：硬件型号、操作系统版本号、唯一设备标识符（IMEI等）、网络设备硬件地址（MAC）、IP
+					地址、软件版本号、网络接入方式、类型、状态、网络质量数据、操作日志、服务日志信息）。我们不会将您的个人敏感信息与合作伙伴共享。
+（2）功能、技术类合作伙伴。在应用中我们会引入第三方提供的服务，我们仅可能向他们提供您的硬件型号、操作系统版本号、唯一设备标识符（IMEI等）、网络设备硬件地址（MAC）、IP
+					地址、软件版本号信息，不会共享用于识别您个人身份的信息
+
+
+
+第三方SDK
+使用场景描述
+共享个人信息类型
+隐私政策
+
+
+
+（二）转让
+我们不会将您的个人信息转让给任何公司、组织和个人，但以下情况除外：
+1、在获取明确同意的情况下转让：获得您的明确同意后，我们会向其他方转让您的个人信息；
+2、在涉及合并、收购或破产清算时，如涉及到个人信息转让，我们会在要求新的持有您个人信息的公司、组织继续受此隐私政策的约束，否则我们将要求该公司、组织重新向您征求授权同意。
+（三）公开披露
+我们仅会在以下情况下，公开披露您的个人信息：
+1、获得您明确同意后；
+2、基于法律的披露：在法律、法律程序、诉讼或政府主管部门强制性要求的情况下，我们可能会公开披露您的个人信息。
+四、我们如何保护您的个人信息
+
+					（一）我们已使用符合业界标准的安全防护措施保护您提供的个人信息，防止数据遭到未经授权访问、公开披露、使用、修改、损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。例如，在您的浏览器与“服务”之间交换数据（如信用卡信息）时受SSL
+					加密保护；我们同时对我们网站提供
+					https安全浏览方式；我们会使用加密技术确保数据的保密性；我们会使用受信赖的保护机制防止数据遭到恶意攻击；我们会部署访问控制机制，确保只有授权人员才可访问个人信息；以及我们会举办安全和隐私保护培训课程，加强员工对于保护个人信息重要性的认识。
+（二）我们会采取一切合理可行的措施，确保未收集无关的个人信息。我们只会在达成本政策所述目的所需的期限内保留您的个人信息，除非需要延长保留期或受到法律的允许。
+（三）互联网并非绝对安全的环境，而且电子邮件、即时通讯、及与其他我们用户的交流方式并未加密，我们强烈建议您不要通过此类方式发送个人信息。请使用复杂密码，协助我们保证您的账号安全。
+（四）互联网环境并非百分之百安全，我们将尽力确保或担保您发送给我们的任何信息的安全性。如果我们的物理、技术、或管理防护设施遭到破坏，导致信息被非授权访问、公开披露、篡改、或毁坏，导致您的合法权益受损，我们将承担相应的法律责任。
+（五）在不幸发生个人信息安全事件后，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议、对您的补救措施等。我们将及时将事件相关情况以邮件、信函、电话、推送通知等方式告知您，难以逐一告知个人信息主体时，我们会采取合理、有效的方式发布公告。
+同时，我们还将按照监管部门要求，主动上报个人信息安全事件的处置情况。
+五、您的权利
+按照中国相关的法律、法规、标准，以及其他国家、地区的通行做法，我们保障您对自己的个人信息行使以下权利：
+（一）访问您的个人信息
+您有权访问您的个人信息，法律法规规定的例外情况除外。如果您想行使数据访问权，可以通过以下方式自行访问：
+ 账户信息——如果您希望访问或编辑您的账户中的个人资料信息和支付信息、更改您的密码、添加安全信息或关闭您的账户等，您可以通过访问设置页面执行此类操作。
+如果您无法通过上述链接访问这些个人信息，您可以随时发送电子邮件至。我们将在3个工作日内回复您的访问请求。
+对于您在使用我们的产品或服务过程中产生的其他个人信息，只要我们不需要过多投入，我们会向您提供。如果您想行使数据访问权，请发送电子邮件至【】。
+（二）更正您的个人信息
+当您发现我们处理的关于您的个人信息有错误时，您有权要求我们做出更正。您可以通过“（一）访问您的个人信息”中罗列的方式提出更正申请。
+					如果您无法通过上述链接更正这些个人信息，您可以随时发送电子邮件至。我们将在3个工作日内回复您的更正请求。
+（三）删除您的个人信息
+在以下情形中，您可以向我们提出删除个人信息的请求：
+1、如果我们处理个人信息的行为违反法律法规；
+2、如果我们收集、使用您的个人信息，却未征得您的同意；
+3、如果我们处理个人信息的行为违反了与您的约定；
+4、如果您不再使用我们的产品或服务，或您注销了账号；
+5、如果我们不再为您提供产品或服务。
+若我们决定响应您的删除请求，我们还将同时通知从我们获得您的个人信息的实体，要求其及时删除，除非法律法规另有规定，或这些实体获得您的独立授权。
+当您从我们的服务中删除信息后，我们可能不会立即备份系统中删除相应的信息，但会在备份更新时删除这些信息。
+（四）改变您授权同意的范围
+
+					每个业务功能需要一些基本的个人信息才能得以完成（见本策略“第一部分”）。对于额外收集的个人信息的收集和使用，您可以随时给予或收回您的授权同意。
+				
+您可以通过以下方式自行操作：
+退出登录
+当您收回同意后，我们将不再处理相应的个人信息。但您收回同意的决定，不会影响此前基于您的授权而开展的个人信息处理。
+如果您不想接受我们给您发送的商业广告，您随时可通过以下方式取消：退出登录
+（五）个人信息主体删除账户
+如您希望彻底删除您的账户所有信息，请直接在设置中找到‘注销’按钮，确认后将直接清除您在软件中的所有注册信息。
+				
+（六）个人信息主体获取个人信息副本
+您有权获取您的个人信息副本，您可以通过以下方式自行操作：
+发送电子邮件至
+在技术可行的前提下，例如数据接口匹配，我们还可按您的要求，直接将您的个人信息副本传输给您指定的第三方。
+（七）约束信息系统自动决策
+在某些业务功能中，我们可能仅依据信息系统、算法等在内的非人工自动决策机制做出决定。如果这些决定显著影响您的合法权益，您有权要求我们做出解释，我们也将提供适当的救济方式。
+（八）响应您的上述请求
+为保障安全，您可能需要提供书面请求，或以其他方式证明您的身份。我们可能会先要求您验证自己的身份，然后再处理您的请求。
+我们将在3个工作日内做出答复。如您不满意，还可以通过以下途径投诉：
+发送电子邮件至
+对于您合理的请求，我们原则上不收取费用，但对多次重复、超出合理限度的请求，我们将视情收取一定成本费用。对于那些无端重复、需要过多技术手段（例如，需要开发新系统或从根本上改变现行惯例）、给他人合法权益带来风险或者非常不切实际（例如，涉及备份磁带上存放的信息）的请求，我们可能会予以拒绝。
+在以下情形中，按照法律法规要求，我们将无法响应您的请求：
+1、与国家安全、国防安全有关的；
+2、与公共安全、公共卫生、重大公共利益有关的；
+3、与犯罪侦查、起诉和审判等有关的；
+4、有充分证据表明您存在主观恶意或滥用权利的；
+5、响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的。
+六、我们如何处理儿童的个人信息
+1、我们的产品主要面向成人。如果没有父母或监护人的同意，儿童不应创建自己的个人信息主体帐户。如果您的年龄在14周岁以下，在使用我们的产品或服务前，请您务必在监护人的陪同下阅读本政策，并确保已征得您的监护人明确同意后，再使用我们的服务。
+2、对于经监护人同意使用我们的产品或服务而收集儿童个人信息的情况，我们只会在法律法规允许、监护人明确同意或者保护儿童所必要的情况下使用、共享、转让或披露此信息。
+3、如果您的监护人不同意您按照本政策使用我们的服务或向我们提供个人信息，请您立即终止使用我们的服务并及时通知我们。
+七、您的个人信息如何在全球范围转移
+原则上，我们在中华人民共和国境内收集和产生的个人信息，将存储在中华人民共和国境内。
+由于我们通过遍布全球的资源和服务器提供产品或服务，这意味着，在获得您的授权同意后，您的个人信息可能会被转移到您使用产品或服务所在国家/地区的境外管辖区，或者受到来自这些管辖区的访问。
+此类管辖区可能设有不同的数据保护法，甚至未设立相关法律。在此类情况下，我们会确保您的个人信息得到在中华人民共和国境内足够同等的保护。例如，我们会请求您对跨境转移个人信息的同意，或者在跨境数据转移之前实施数据去标识化等安全举措。
+八、适用法律及管辖
+本个人信息保护政策适用中华人民共和国大陆地区法律。本个人信息保护政策项下争议，由被告住所地法院管辖。
+九、本政策如何更新
+我们的个人信息保护政策可能会根据业务的调整、法律法规或政策的变化而适时变更。未经您明确同意，我们不会削减您按照本个人信息保护政策所应享有的权利。我们会在专门页面上发布对本政策所作的任何变更。对于重大变更，我们会在产品或服务内通过弹窗、推送等方式向您提示。
+					若您不同意修改后的个人信息保护政策，您有权并应立即停止使用我们的产品和或服务。如果您继续使用我们的产品和或服务，则视为您接受我们对本政策相关条款所做的修改。
+					本政策所指的重大变更包括但不限于：
+1）我们处理个人信息的目的、处理个人信息的类型、个人信息的使用方式等发生变化；
+2）您参与个人信息处理方面的权利及其行使方式发生变化；
+3）个人信息安全影响评估报告表明存在风险时。
+十、我们的联系方式
+如果您对本隐私政策有任何疑问、意见或需要投诉和举报您的信息受到损害，通过以下方式与我们联系：
+邮箱：【】；
+十一、附录：权限申请及应用场景
+
+
+
+APP权限
+权限描述
+权限使用场景
+
+
+
+
+
+
+
+Privacy Policy
+Update date 
+ (hereinafter referred to as "we") is fully aware of the
+					importance of personal information to you, and will do our best to protect the safety and reliability of your
+					personal information. We are committed to maintaining your trust in us and abide by the following principles to
+					protect your personal information: principle of consistent rights and responsibilities, principle of clear
+					purpose, principle of choice and consent, principle of least enough, principle of ensuring security, principle of
+					subject participation, principle of openness and transparency, etc. . At the same time, we promise that we will
+					take corresponding security protection measures to protect your personal information in accordance with the mature
+					security standards of the industry.
+					Please read and understand this "Privacy Policy" carefully before using our products 
+					(hereinafter collectively referred to as our products or ). 
+What you should know:
+1. How do we collect and use your personal information
+2. How do we use Cookies
+3. How do we share, transfer, and publicly disclose your personal
+						information
+4. How do we protect your personal information
+5. Your rights
+Six. How do we deal with children’s personal information
+Seven. How to transfer your personal information globally
+8. Applicable law and jurisdiction
+9. How to update this policy
+10. Our contact information
+11. Appendix: Permission Application and Application Scenarios
+1. How do we collect and use your personal information
+Personal information refers to various information recorded electronically or in other ways that
+					can identify a specific natural person alone or in combination with other information or reflect the activities of
+					a specific natural person. 
+The purpose of collecting personal information is to provide you with products and/or services,
+					and to ensure that we comply with applicable laws, regulations and other normative documents. You have the right
+					to choose whether to provide this information, but in most cases, if you do not provide it, we may not be able to
+					provide you with the corresponding services, and we will not be able to respond to your problems. 
+(1) What information will we collect from you? 
+1. Mobile phone number and third-party login authorization information: help you register  account and become our core user
+When you use this product and service, we recommend that you register a 
+					account to use all the functions of this product and service more fully; Therefore, you need to provide a mobile
+					phone number (used for real-name authentication) and create a password and nickname. 
+When you register this product, you need to provide personal registration information according
+					to the requirements of , according to the registration method you choose and the
+					information you fill in, we Your mobile phone number or email will be collected
+					as your account identification information. If you choose to log in with a third-party account, we will obtain
+					authorized user personal data (such as account nickname and avatar and ID) from business partners through legal
+					channels
+When uploading avatar photos, you need to use your camera permissions and storage permissions to
+					take photos and save the photos you take. If you want to revoke the authorized camera and storage permissions, you
+					can turn it off in the settings. 
+2. Device information: provide you with network security and operational security guarantee
+In order to protect your account, network, operation and system security, prevent phishing
+					website fraud and Trojan horse viruses, we may collect your device information during your use of this product,
+					including unchangeable Unique device identification (such as IMEI number, AndroidID, IDFA, GUID, OPENUDID, SIM
+					card IMSI information), hardware serial number, MAC address,
+					IP address, location, login/logout time, usage time, click location and click time of the 
+					homepage and settings menu. 
+When you use "" and related services, in order to ensure
+						the normal and safe operation of the software and services and optimize the service experience, we will collect
+						Your hardware model, operating system version number, unique device identifier (IMEI, etc.), network device
+						hardware address (MAC), IP
+						Address, software version number, network access mode, type, status, network quality data, operation log, service
+						log information. Please understand that this information is necessary information we must collect to provide
+						services and ensure the normal and safe operation of our products. 
+(2) Provide you with other related product functions and services
+In order to achieve the following product functions and/or services, we may need to collect
+					corresponding personal information from you. If you refuse to provide it, you will not be able to use these
+					specific services. 
+1) Customer service. When you file a complaint, consult or appeal to ,
+					in order to contact you or help you solve the problem, we may need you to provide your name, mobile phone number,
+					email and other valid Personal information such as your contact information.
+					If you refuse to provide the above-mentioned information, we may not be able to provide you with timely feedback
+					of the relevant processing results. 
+2) Maintain product safety and troubleshoot in time. In order to maintain the normal operation
+					of our services, and protect your account security, troubleshoot product failures, improve and optimize our
+					services, we will collect your EXIF ​​data, IMEI, and device model information through third-party SDKs (Youmeng,
+					Huawei Analytics) And login IP address, operation log information. This type of information is information that
+					must be collected to provide services. It will be de-identified after it is collected and will not be used to
+					identify any specific user. 
+3) Used to share and mobilize third-party payment functions. If you share the content in  to a third-party platform, we will read your application list information to determine
+					whether the third-party platform exists to achieve the sharing purpose; if you use When the payment function is in
+					, we will also read your application list information to determine whether the
+					third-party payment application exists to complete the payment function. 
+
+The above information you provide will continue to be authorized to us during your use
+						of this service. While you are not using this service, we will keep it for you and will not
+						disclose it to any third party. 
+If you want to completely delete the above information, please directly find the logout button
+					in the settings. After confirmation, all your registration information in the software will be cleared directly.
+				
+The above information will be stored in China. In the servers and data disks purchased by our
+					company from Alibaba Cloud, our company has activated the necessary high-tech protection tools for Alibaba Cloud
+					services. Without your permission, we will not disclose to any third party, except in the following circumstances:
+·You expressly agree to let a third party share information
+·Only by revealing your personal information, can we provide the products and services you
+					request
+·To protect the property rights or personal rights of this website, members and the general
+					public
+·According to laws and regulations, provide to law enforcement agencies
+·Being attacked by hackers which leads to the disclosure of member information
+·In order to achieve the purpose of use, other necessary circumstances and other circumstances
+					stipulated by law
+Two. How do we use cookies
+Cookies and similar technologies are common and commonly used technologies on the Internet. When
+					you use "" software and related services, we may use related technologies to send one
+					or more cookies or anonymous identifiers to your device to collect and store your visits , Information when using
+					this product. We use cookies and similar technologies to achieve the following functions or services:
+1. Ensure the safe and efficient operation of products and services
+We may set cookies or anonymous identifiers for authentication and security, so that we can
+					confirm whether you log in to the service safely, or whether you have encountered illegal acts such as
+					embezzlement or fraud. These technologies will also help us improve the efficiency of our services and increase
+					the speed of login and response. 
+2. Help you get a more relaxed visit experience
+Using this type of technology can help you save yourself from repeating the steps and processes
+					of filling in your personal information and entering search content (for example, to implement a one-click login
+					process). 
+3. APP will not collect personal usage habits and browsing records for targeted push and
+					precision marketing
+We promise that we will not use cookies for any purpose other than those described in this
+					privacy statement. 
+Three. How do we share, transfer, and publicly disclose your personal information
+(1) Sharing
+We will not share your personal information with any other companies, organizations or
+					individuals, except in the following cases:
+1. Sharing with explicit consent: After obtaining your explicit consent, we will share your
+					personal information with other parties. 
+2. We may share your personal information externally in accordance with laws and regulations, or
+					mandatory requirements of government authorities. 
+3. Sharing with authorized partners: Only to achieve the purpose stated in this privacy policy,
+					some of our services will be provided by authorized partners. We may share some of your personal information with
+					our partners to provide better customer service and user experience. For example, companies we hire to provide
+					third-party data statistics and analysis services may need to collect and access personal data for data statistics
+					and analysis. In this case, these companies must comply with our data privacy and security requirements. We will
+					only share your personal information for legal, legitimate, necessary, specific and clear purposes, and will only
+					share personal information necessary to provide services. 
+For companies, organizations and individuals with whom we share personal information, we will
+					sign strict confidentiality agreements with them and require them to follow our instructions, this privacy policy
+					and any other relevant confidentiality and security measures To process personal information. Our partners have no
+					right to use the shared personal information for any other purpose. Our partners include the following types:
+(1) Advertising and analysis service partners. We may introduce such partners such as Google
+					Ads, Pangolin, Xiaomi Ads, Huawei Ads, Oppo Ads, Umeng, Huawei Analytics, Firebase, etc., to help us count and
+					evaluate the effects of online advertising, unless you have your permission. Otherwise, we will not share the
+					information used to identify your personal identity (referring to information that can identify you, such as your
+					name, ID number, phone number, or email address, through which you can be contacted or identified). We will only
+					provide these partners with information about the coverage and effectiveness of their advertising, but will not
+					provide your personally identifiable information; or provide user profile tags that are difficult to identify your
+					personal identity and de-identified or anonymized information. To help them increase the effective reach of ads
+					without identifying your personal identity. We will share some of the personal information processed with
+					de-identification, the information is: hardware model, operating system version number, unique device identifier
+					(IMEI, etc.), network device hardware address (MAC), IP address, software version number , Network access method,
+					type, status, network quality data, operation log, service log information). We will not share your personal
+					sensitive information with our partners. 
+(2) Functional and technical partners. In the application, we will introduce services provided
+					by third parties. We may only provide them with your hardware model, operating system version number, unique
+					device identifier (IMEI, etc.), network device hardware address (MAC), IP address, and software version Number
+					information, and will not share information used to identify your personal identity
+
+
+
+Third Party SDK
+Use scenario description
+Types of shared personal information
+Privacy Policy
+
+
+
+(2) Transfer
+We will not transfer your personal information to any company, organization or individual,
+					except in the following cases:
+1. Transfer with explicit consent: After obtaining your explicit consent, we will transfer your
+					personal information to other parties;
+2. When it comes to mergers, acquisitions or bankruptcy liquidation, if it involves the transfer
+					of personal information, we will require new companies and organizations that hold your personal information to
+					continue to be bound by this privacy policy. Otherwise, we will ask the company or organization to ask you for
+					authorization again. 
+(3) Public disclosure
+We will only publicly disclose your personal information under the following circumstances:
+1. After obtaining your explicit consent;
+2. Disclosure based on law: We may publicly disclose your personal information when required by
+					law, legal procedures, litigation, or government authorities. 
+4. How do we protect your personal information
+(1) We have used industry-standard security protection measures to protect the personal
+					information you provide to prevent unauthorized access, public disclosure, use, modification, damage or loss of
+					data. We will take all reasonable and feasible measures to protect your personal information. For example, the
+					exchange of data (such as credit card information) between your browser and the "service" is protected by SSL
+					encryption; we also provide https secure browsing for our website; we will use encryption technology to ensure the
+					confidentiality of data; we will Use trusted protection mechanisms to prevent malicious attacks on data; we will
+					deploy access control mechanisms to ensure that only authorized personnel can access personal information; and we
+					will organize security and privacy protection training courses to strengthen employees’ importance of protecting
+					personal information understanding. 
+(2) We will take all reasonable and feasible measures to ensure that irrelevant personal
+					information is not collected. We will only retain your personal information for the period required to achieve the
+					purpose stated in the policy, unless it is necessary to extend the retention period or is permitted by law. 
+(3) The Internet is not an absolutely secure environment, and emails, instant messaging, and
+					communication with other our users are not encrypted. We strongly recommend that you do not send personal
+					information through such methods. Please use a complex password to help us ensure the security of your account.
+				
+(4) The Internet environment is not 100% secure. We will do our best to ensure or guarantee the
+					security of any information you send to us. If our physical, technical, or management protection facilities are
+					damaged, resulting in unauthorized access, public disclosure, tampering, or destruction of information, resulting
+					in damage to your legitimate rights and interests, we will bear the corresponding legal responsibility. 
+(5) After a personal information security incident unfortunately occurs, we will promptly inform
+					you in accordance with the requirements of laws and regulations: the basic situation and possible impact of the
+					security incident, and what we have taken or will take Disposal measures, suggestions that you can independently
+					prevent and reduce risks, remedial measures for you, etc. We will promptly inform you of the relevant situation of
+					the incident by email, letter, telephone, push notification, etc. If it is difficult to inform the subject of
+					personal information one by one, we will adopt a reasonable and effective way to issue an announcement. 
+At the same time, we will also proactively report the handling of personal information security
+					incidents in accordance with regulatory requirements. 
+5. Your rights
+In accordance with relevant Chinese laws, regulations, and standards, as well as common
+					practices in other countries and regions, we guarantee that you exercise the following rights with respect to your
+					personal information:
+(1) Access your personal information
+You have the right to access your personal information, except for exceptions provided by laws
+					and regulations. If you want to exercise the right of data access, you can access it yourself in the following
+					ways:
+ Account information-If you want to access or edit the profile information and payment
+					information in your account, change your password, add security information, or close your account, you can access
+					the settings The page performs such operations. 
+If you cannot access this personal information through the above link, you can send an email to
+					 at any time. We will respond to your access request within 3 working days. 
+As long as we don’t need to invest too much, we will provide you with other personal information
+					generated during your use of our products or services. If you want to exercise data access rights, please send an
+					email to []. 
+(2) Correct your personal information
+When you find that the personal information we process about you is wrong, you have the right to
+					ask us to make corrections. You can apply for correction through the methods listed in "(1) Access to your
+					personal information". If you are unable to correct this personal information through the above link, you can send
+					an email to  at any time. We will respond to your correction request within 3
+					working days. 
+(3) Delete your personal information
+In the following situations, you can request us to delete personal information:
+1. If our handling of personal information violates laws and regulations;
+2. If we collect and use your personal information without your consent;
+3. If our handling of personal information violates our agreement with you;
+4. If you no longer use our products or services, or you log out of your account;
+5. If we no longer provide you with products or services. 
+If we decide to respond to your deletion request, we will also notify the entities that have
+					obtained your personal information from us and ask them to delete them in a timely manner, unless otherwise
+					required by laws and regulations, or these entities have obtained your Independent authorization. 
+When you delete information from our service, we may not delete the corresponding information
+					from the backup system immediately, but we will delete the information when the backup is updated. 
+(4) Change the scope of your authorization and consent
+
+					Each business function requires some basic personal information to be completed (see "Part 1" of this strategy).
+					For the collection and use of additional personal information, you can give or withdraw your authorization and
+					consent at any time.
+				
+You can do it yourself in the following ways:
+Sign out
+When you withdraw your consent, we will no longer process the corresponding personal
+					information. However, your decision to withdraw your consent will not affect the previous processing of personal
+					information based on your authorization. 
+If you don’t want to accept the commercial advertisements we send you, you can cancel at any
+					time by the following method: Logout
+(5) Personal information subject deletes account
+If you want to completely delete all your account information, please directly find the ‘logout’
+					button in the settings. After confirmation, all your registration information in the software will be cleared
+					directly.
+				
+(6) The subject of personal information obtains a copy of personal information
+You have the right to obtain a copy of your personal information. You can do this yourself in
+					the following ways:
+Send an email to 
+On the premise of technically feasible, such as data interface matching, we can also directly
+					transmit a copy of your personal information to a third party designated by you at your request. 
+(7) Automatic decision-making of constraint information system
+In some business functions, we may only make decisions based on non-manual automatic
+					decision-making mechanisms including information systems and algorithms. If these decisions significantly affect
+					your legal rights, you have the right to ask us for an explanation, and we will also provide appropriate remedies.
+				
+(eight) respond to your above request
+For security, you may need to provide a written request or prove your identity in other ways. We
+					may ask you to verify your identity before processing your request. 
+We will respond within 3 business days. If you are not satisfied, you can also complain through
+					the following channels:
+Send an email to 
+For your reasonable request, we do not charge fees in principle, but for repeated requests that
+					exceed reasonable limits, we will charge a certain cost depending on the circumstances. For those that are
+					unreasonably repeated, require too many technical means (for example, the need to develop new systems or
+					fundamentally change existing practices), bring risks to the legitimate rights and interests of others, or are
+					very impractical (for example, involving information stored on backup tapes) Request, we may refuse. 
+In the following situations, we will not be able to respond to your request in accordance with
+					laws and regulations:
+1. Related to national security and national defense security;
+2. Related to public safety, public health, and major public interests;
+3. Related to criminal investigation, prosecution and trial;
+4. There is sufficient evidence to show that you have subjective malice or abuse of rights;
+5. Responding to your request will cause serious damage to the legitimate rights and interests
+					of you or other individuals or organizations. 
+Six. How do we deal with children’s personal information
+1. Our products are mainly for adults. Without the consent of their parents or guardians,
+					children should not create their own personal information subject account. If you are under 14 years of age,
+					before using our products and/or services, please read this policy with your guardian and ensure that you have
+					obtained your guardian's explicit consent before using our services. 
+2. In the case of collecting children’s personal information by using our products or services
+					with the consent of the guardian, we will only use and share it when permitted by laws and regulations, the
+					guardian’s explicit consent, or necessary to protect children , Transfer or disclose this information. 
+3. If your guardian does not agree with you to use our services or provide us with personal
+					information in accordance with this policy, please immediately terminate the use of our services and notify us in
+					time. 
+Seven. How to transfer your personal information globally
+In principle, the personal information we collect and generate within the territory of the
+					People’s Republic of China will be stored in the territory of the People’s Republic of China. 
+Because we provide products or services through resources and servers all over the world, this
+					means that after obtaining your authorization and consent, your personal information may be transferred to the
+					country where you use the product or service / Regions outside jurisdictions, or are accessed from these
+					jurisdictions. 
+Such jurisdictions may have different data protection laws, or even no relevant laws. In such
+					cases, we will ensure that your personal information is sufficiently and equally protected within the territory of
+					the People's Republic of China. For example, we will request your consent for the cross-border transfer of
+					personal information, or implement security measures such as data de-identification before cross-border data
+					transfer. 
+8. Applicable law and jurisdiction
+This personal information protection policy applies to the laws of the People’s Republic of
+					China Mainland. Disputes under this personal information protection policy shall be under the jurisdiction of the
+					court of the defendant's domicile. 
+Nine. How to update this policy
+Our personal information protection policy may be changed in due course according to business
+					adjustments, changes in laws, regulations, or policies. Without your explicit consent, we will not reduce your
+					rights in accordance with this personal information protection policy. We will post any changes to this policy on
+					a dedicated page. For major changes, we will prompt you through pop-ups, pushes, etc. in the product or service.
+					If you do not agree to the revised personal information protection policy, you have the right and should
+					immediately stop using our products and/or services. If you continue to use our products and/or services, it is
+					deemed that you have accepted the amendments we made to the relevant terms of this policy. Significant changes
+					referred to in this policy include but are not limited to:
+1) The purpose of processing personal information, the types of personal information processed,
+					and the way in which personal information is used have changed;
+2) Your right to participate in the processing of personal information and how to exercise it
+					has changed;
+3) When the personal information security impact assessment report shows that there is a risk.
+				
+Ten. Our contact information
+If you have any questions, comments about this privacy policy, or need to complain and report
+					that your information has been compromised, please contact us in the following ways:
+Email: [];
+11. Appendix: Permission Application and Application Scenarios
+
+
+
+APP permissions
+Permission description
+Permission usage scenarios
+
+
+
+
+
+
+
+
+

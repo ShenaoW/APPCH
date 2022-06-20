@@ -1,0 +1,387 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+隐私政策
+请拨冗了解我们的私隐措施，如有任何疑问，请联络我们。
+我们的承诺
+本隐私政策列明深圳市易连物联网有限公司 ( 简称「易连物联网」、「我们」或「本公司」) 在您使用本公司产品和服务以及本公司移动装置提供的应用程序套件时，对收集、使用、披露、处理和保护您向我们提供任何资料的方式的规定。请按此浏览上述应用程序行表。若在您使用易连物联网产品及服务时，我们要求您提供可识别您身份的某些数据，我们将仅按照本隐私政策及 /或本公司为用户提供的条款及条件使用相关数据。
+隐私政策旨在保护您的利益，您对本公司收集及使用个人资料的做法能全面了解，并相信您始终掌握提供予
+				易连物联网的个人资料决定权，至关重要。
+在本隐私政策中，「个人资料」指可用于识别个人身份的数据本身或与其他个人资料结合的数据。此类个人资料包括您的姓名、地址、电话号码及电邮地址。
+使用
+				易连物联网的产品及服务，即视为您已阅读、理解并接受本隐私政策中列明的所有条款，包括我们可能不时作出的任何变更。我们致力于遵守适用的法律，包括您当地的数据保护法律以保障您的个人资料私隐、保密性及安全性。我们亦致力于确保所有员工及代理履行这些义务。
+最后，我们希望为所有客户竭力做到最好。若您对本隐私政策中概括的数据处理措施有任何疑虑，请发送邮件至
+				app@elinkthings.com 联络我们的数据保护专员，以解决您的具体问题。我们十分乐意直接处理问题。
+我们收集哪些数据，并会如何使用此类数据？
+收集的数据类型
+为要向您提供服务，我们将要求您提供向您提供服务所必需的个人资料。若您未能提供个人资料，我们可能无法向您提供我们的产品或服务。
+我们可能会收集以下类型的数据 (可能是或不是个人资料 )：
+关于您的资料：我们可能会收集和使用邮箱帐号、头像、个人签名、昵称、性别、时区、语言及地区数据。
+
+记录数据：当您使用
+				Elink同步数据时，我们会记录个人资料，包括但不限于刷牙记录(刷牙时间、刷牙均匀、刷牙范围等)。
+手机信息：当您使用                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
+				Elink时，我们需要取得您的手机 操作系统版本及移动手机品牌型号。
+网络使用数据：我们可能会收集与
+				Elink特定功能相关的网络类型、网络讯号等。
+位置数据：当您使用基于位置的程序服务或功能时，我们可能会收集您的位置数据。
+日志信息：当您浏览
+				Elink服务器时，我们的服务器将自动记录若干记录数据，包括但不限于： IP地址、浏览器类型、浏览器语言、参考源页面、操作系统、时间戳和点击流数据。
+设备信息：当您使用
+				Elink连接某个硬件装置时，包括但不限于该装置的唯一标识符、固体版本及大概地理位置的数据 (非个人资料) 将被传送至服务器。上述数据收集亦可能适用于您的更新系统或软件、恢复原厂设定等。
+调试信息：当您选择上载调试信息 协助我们分析问题时，您的调试信息将被传送至服务器。
+我们会如何使用个人资料
+收集个人资料旨在向您提供服务及/或产品，我们亦受适用的法律规定要符合法规。您谨此同意本公司出于本隐私政策列明之目的向附属公司 (通讯、社交媒体、科技及云端业务)、第三方服务供货商 (定义见下文) 处理及披露个人资料。
+我们可能会就以下目的使用您的个人资料：
+此处提供更多关于我们如何使用您的数据 (可能包括个人资料 ) 的详情。
+设立账户。在我们的网站或通过我们的 移动装置建立帐户时，收集到的个人资料会用于建立个人帐户以及用户数据页面。
+提供Elink服务。装置数据将向用户显示与之相关的数据。
+确定手机是否受支持。 手机信息将用于判断您的手机能否使用
+				Elink
+提供网络相关服务。我们会运用网络类型、网络讯号等提示用户在不同网络环境中下载更新版本。
+优化服务。我们会使用记录数据提高服务质量。
+提供设备管理。 此类数据提供对绑定的设备进行管理。
+提高软件稳定性。收集故障记录，用于分析软件质量，从而提供更好的服务。
+直接市场推广
+我们可能会就
+				易连物联网公司和业务合作伙伴 (提供网络、 移动应用程序以及云端产品及服务) 的产品及服务，使用您的姓名、电话号码、电邮地址、以及您提供市场推广材料。为提供更出色的体验，我们可能会根据您的购物记录、网站浏览记录、生日、年龄、性别和位置，推荐上述产品、服务和活动。根据当地数据保护法，只有得到您的同意或您不表示反对 ( 可能需要独立予以同意) 时，我们方能使用您的个人资料。您有权拒绝我们使用您的个人资料进行直接市场推广。若您不希望再收到某些类型的电邮通讯，则可通过 每份通讯底部附上的取消订阅连结退出。我们不会将您的个人资料交予我们的业务合作伙伴，让其用于直接市场推广。
+我们与谁共享您的信息？
+我们不向第三方出售任何个人资料。
+为了向您提供您要求的产品或服务，我们可能向第三方披露您的个人资料 (如下所述 )。
+本节列出可能向其披露之第三方服务供货商及附属公司。在本节所述之所有情况下，我们向您保证
+				易连物联网仅会在您同意的情况下共享您的个人资料。请了解当
+				易连物联网在本节描述的任何情况下与第三方服务供货商共享您的个人资料时，
+				易连物联网将通过 合约规定第三方遵守适用之当地数据保护法律的措施及义务。
+				易连物联网将以合约确保任何第三方服务供货商遵守您所在的司法管辖区适用之私隐标准。
+与本集团及第三方服务供货商共享信息
+为使业务能顺利运作，从而为您提供本公司产品及服务的全部功能，我们可能不时向其他
+				易连物联网附属公司 ( 通讯、社交媒体、科技或云端业务)，或向我们的邮件服务商、送货服务供货商、电讯公司、数据中心、数据存放设施、客户服务供货商，广告及市场推广服务供货商以及
+				易连物联网代表的第三方服务供货商披露您的个人资料。此类第三方服务供货商将代表
+				易连物联网或因上述一个或多个目的处理您的个人资料。当在我们的装置上使用某些 移动应用程序时，我们或会与第三方共享您的 IP 地址，以便为您提供所要求的部分服务。若您不希望我们共享这些数据，请 通过
+				app@elinkthings.com 联络我们。
+与其他人共享数据
+当适用法律要求时，
+				易连物联网可能在未经您进一步同意的情况下披露您的个人资料。
+无需经同意的资料
+我们可能出于商业目的以汇总形式与第三方共享匿名数据及统计数据，例如与我们网站的广告商共享使用我们服务的整体趋势，如购买某些产品或进行某些交易的特定人群中的客户数量。
+为免生疑虑，
+				易连物联网可能在未经同意的情况下，于当地数据保护法律明确规定的范围内并仅在此范围内收集、使用或披露您的个人资料。此类披露可能由于必须保护我们的权利、确保您及他人的安全及遵守当地政府的要求，以协助调查非法活动而起。
+安全保护措施
+
+易连物联网的安全措施
+我们致力确保您的个人资料安全。为防止未经授权的存取、披露或其他类似风险，我们制定了合理的实体方式、电子及管理程序以保障及保护我们从您的移动装置及
+				易连物联网网站所收集的信息。我们将尽一切合理努力保障您的个人资料安全。
+您的所有个人资料均存储于由受控装置保护的安全服务器上。我们会根据重要性及敏感度将您的资料分类，并确保您的个人资料具有最高安全级别。我们保证存取相关数据以向您提供本公司产品及服务的员工及第三方服务供货商，受严格的合约保密义务限制。若该等人士不履行此类义务，将可能受到处罚或被终止合约。我们对云端型数据存储亦有特殊访问控制。总括而言，我们会定期审查数据收集、存储及处理措施，包括实体安全措施，以防止任何未经授权存取及使用。
+我们将采取一切可行之步骤来保障您的个人资料。然而，您应明白使用互联网并非绝对安全，为此我们无法保证通过互联网从您获得或向您转移的任何个人资料之安全性或完整性。
+您可以采取哪些措施
+您个人的部分，为保障您的个人资料安全，请勿向任何人透露您的登入密码或帐户数据，除非此人经过您的正式授权。
+
+易连物联网不对由于您无法保密个人资料，而导致第三方存取您的个人资料所造成的安全漏洞负责。尽管存在上述规定，若任何其他互联网用户未经授权使用您的账户，或出现任何其他违反安全的行为，请立即告知我们。
+您的协助有助于我们保护您的个人资料私隐。
+保留政策
+只要为收集资料所需，或根据适用法律要求或允许，个人资料将被保留。一旦本公司合理地认为收集个人资料的目的不再适合保留个人资料，包括不再需要该等个人资料以解决法律纠纷，应用于我们的协议或达到我们的业务目标等情况，我们将停止保留个人资料，或移除该等个人资料可能与特定个人相关联的途径。
+使用您设备上的其他功能
+我们的应用程序或需要使用您装置的部分功能，如将电邮加至联络人信息、短讯存储及Wi-Fi 网络状态以及其他功能。该等数据将用于允许应用程序在您的装置上执行，并允许您与应用程序互动。您随时均可 通过在装置层面关闭该等权限，或通过
+				app@elinkthings.com 联络我们，以取消您的权限。
+您的资料由您掌控！
+控制设定
+
+易连物联网了解私隐疑虑因人而异。因此，
+				易连物联网为您提供选择以限制收集、使用、披露或处理您的个人资料及控制您私隐设定的方法，并提供示例：
+切换开/关用户数据上传至云端功能；
+登入及注销账户。
+若您之前出于上述目的同意我们使用您的个人资料，您可随时通过邮寄或寄送电邮至
+				app@elinkthings.com，要求改变您的选择。
+存取、更新、修正或删除您的个人资料
+您有权要求存取及 /或修正我们持有之关于您的任何其他个人资料。当您更新个人资料时，我们将需要验证您的身份方可继续处理您的要求。我们获得足够的数据以处理您存取或修正个人资料的要求后，将在您适用之数据保护法律规定的任何时限内处理并响应您的要求。
+我们通常免费提供此类服务，但保留为您的数据存取要求收取合理费用的权利。
+若您要求存取我们所持有属于您的个人资料，或您认为我们持有您的任何数据不正确或不完整，或您认为我们持有您的任何数据不适当或过多，请尽快邮寄或 通过下方的电邮地址联络我们。电邮：
+				app@elinkthings.com。
+存取您的
+				易连物联网账户管理中心完成撤销操作。我们将从您提出要求起的合理时间内处理，此后根据您的要求不再收集、使用及 /或披露您的个人资料。
+请知悉，撤销同意可能会导致法律后果。我们会根据您的撤销同意程度处理您的个人资料，这可能代表您将无法使用
+				易连物联网的产品及服务。
+在您所在司法管辖区之外转移个人资料
+我们可能需要在您所在司法管辖区之外将个人资料转移至我们的附属公司 ( 通讯、社交媒体、科技及云端业务) 或第三方服务供货商。对于此类转移，我们将按照适用法律进行。具体而言，我们将采取适当的保障措施，并确保所有转移均按照您适用的当地数据保护法律之要求。
+其他事项
+未成年人
+我们认为父母应负上监督子女使用我们的产品及服务的责任。然而，我们的政策不会要求未成年人提供个人资料；或向该类别人士发送任何推广数据。
+
+易连物联网并不意图亦不打算接收来自未成年人的任何个人资料。若父母或监护人有理由相信，未成年人未经其事先同意而向
+				易连物联网提供个人资料，请联络我们，以确保该等个人资料被删除，以及该未成年人取消订阅任何适用的
+				易连物联网服务。
+优先级
+若您已同意我们适用的用户协议，在此类用户协议与本隐私政策不一致的情况下，将以用户协议为准。
+隐私政策的更新
+我们会定期审核隐私政策，并可能更新本隐私政策，以反映我们信息处理措施的变更。若我们对隐私政策作出重大更改，我们将通过电邮 (发送至您账户中指定的电邮地址) 通知您，或在所有
+				易连物联网网站或通过我们的移动 装置发布该等更改，以便您了解我们收集的数据以及使用方式。我们隐私政策变更应自通知或网站通告的日期生效。我们鼓励您定期检视此页面，以了解私隐措施的最新信息。您在网站、手提电话及/或任何其他装置上继续使用产品及服务，即被视为接受更新的隐私政策。在收集您更多个人资料之前，或我们希望就新的使用目的或披露您的个人资料时，我们将重新征求您的同意。
+我是否必须同意任何第三方条款及条件？
+我们的隐私政策不适用于第三方提供的产品及服务。
+				易连物联网产品及服务可能包括第三方产品、服务及第三方网站的连结。当您使用此类产品或服务时，第三方亦可能会收集您的资料。为此，我们强烈建议您花时间阅读该第三方的隐私政策，如同对本公司隐私政策的关注一样。我们不负责及无法控制第三方如何使用其向您收集的个人资料。我们的隐私政策不适用于从我们服务连结的其他网站。
+社交媒体 ( 功能) 及 WIDGET
+我们的网站包含社交媒体功能，如 Facebook Like 按钮及 Widget，如分享本内容的按钮或我们网站上执行的交互式迷你程序。该等功能可能收集您的 IP 地址，您在我们网站浏览的页面，并可能设定一个 Cookie 以便该功能正常操作。社交媒体功能及 Widget 乃由第三方托管或直接在我们网站托管。您与这些功能的互动受提供相关功能的公司隐私政策所约束。
+若您对本隐私政策有任何意见或问题，或对
+				易连物联网收集、使用或披露您的个人资料有任何相关问题，请通过以下邮件联系我们的数据保护专员，并请注明「隐私政策」：
+Email:
+				app@elinkthings.com
+
+感谢您了解我们的隐私政策！
+
+
+
+隱私政策
+請撥冗瞭解我們的私隱措施，如有任何疑問，請聯絡我們。
+我們的承諾
+本隱私政策列明
+				深圳市易連物聯網有限公司 ( 簡稱「
+				易連物聯網」、「我們」或「本公司」) 在您使用本公司產品和服務以及本公司移動裝置提供的應用程式套件時，對收集、使用、披露、處理和保護您向我們提供任何資料的方式的規定。請按此流覽上述應用程式行表。若在您使用
+				易連物聯網產品及服務時，我們要求您提供可識別您身份的某些數據，我們將僅按照本隱私政策及 /或本公司為用戶提供的條款及條件使用相關數據。
+隱私政策旨在保護您的利益，您對本公司收集及使用個人資料的做法能全面瞭解，並相信您始終掌握提供予
+				易連物聯網的個人資料決定權，至關重要。
+在本隱私政策中，「個人資料」指可用於識別個人身份的數據本身或與其他個人資料結合的數據。此類個人資料包括您的姓名、地址、電話號碼及電郵地址。
+使用
+				易連物聯網的產品及服務，即視為您已閱讀、理解並接受本隱私政策中列明的所有條款，包括我們可能不時作出的任何變更。我們致力於遵守適用的法律，包括您當地的數據保護法律以保障您的個人資料私隱、保密性及安全性。我們亦致力於確保所有員工及代理履行這些義務。
+最後，我們希望為所有客戶竭力做到最好。若您對本隱私政策中概括的數據處理措施有任何疑慮，請發送郵件至 app@elinkthings.com 聯絡我們的數據保護專員，以解決您的具體問題。我們十分樂意直接處理問題。
+我們收集哪些數據，並會如何使用此類數據？
+收集的數據類型
+為要向您提供服務，我們將要求您提供向您提供服務所必需的個人資料。若您未能提供個人資料，我們可能無法向您提供我們的產品或服務。
+我們可能會收集以下類型的數據 (可能是或不是個人資料 )：
+關於您的資料：我們可能會收集和使用郵箱帳號、頭像、個人簽名、昵稱、性別、時區、語言及地區數據。
+
+記錄數據：當您使用Elink同步數據時，我們會記錄個人資料，包括但不限於刷牙記錄(刷牙時間、刷牙均勻、刷牙範圍等)。
+手機資訊：當您使用Elink時，我們需要取得您的手機 操作系統版本及移動手機品牌型號。
+網路使用數據：我們可能會收集與Elink特定功能相關的網路類型、網路訊號等。
+位置數據：當您使用基於位置的程式服務或功能時，我們可能會收集您的位置數據。
+日誌資訊：當您流覽Elink伺服器時，我們的伺服器將自動記錄若干記錄數據，包括但不限於： IP地址、流覽器類型、流覽器語言、參考源頁面、操作系統、時間戳和點擊流數據。
+設備資訊：當您使用Elink連接某個硬體裝置時，包括但不限於該裝置的唯一識別字、固體版本及大概地理位置的數據 (非個人資料) 將被傳送至伺服器。上述數據收集亦可能適用於您的更新系統或軟體、恢復原廠設定等。
+調試資訊：當您選擇上載調試資訊 協助我們分析問題時，您的調試資訊將被傳送至伺服器。
+我們會如何使用個人資料
+收集個人資料旨在向您提供服務及/或產品，我們亦受適用的法律規定要符合法規。您謹此同意本公司出於本隱私政策列明之目的向附屬公司 (通訊、社交媒體、科技及雲端業務)、第三方服務供貨商 (定義見下文) 處理及披露個人資料。
+我們可能會就以下目的使用您的個人資料：
+此處提供更多關於我們如何使用您的數據 (可能包括個人資料 ) 的詳情。
+設立帳戶。在我們的網站或通過我們的 移動裝置建立帳戶時，收集到的個人資料會用於建立個人帳戶以及用戶數據頁面。
+提供Elink服務。裝置數據將向用戶顯示與之相關的數據。
+確定手機是否受支持。 手機資訊將用於判斷您的手機能否使用Elink。
+提供網路相關服務。我們會運用網路類型、網路訊號等提示用戶在不同網路環境中下載更新版本。
+優化服務。我們會使用記錄數據提高服務品質。
+提供設備管理。 此類數據提供對綁定的設備進行管理。
+提高軟體穩定性。收集故障記錄，用於分析軟體品質，從而提供更好的服務。
+直接市場推廣
+我們可能會就易連物聯網公司和業務合作夥伴 (提供網路、 移動應用程式以及雲端產品及服務) 的產品及服務，使用您的姓名、電話號碼、電郵地址、以及您提供市場推廣材料。為提供更出色的體驗，我們可能會根據您的購物記錄、網站流覽記錄、生日、年齡、性別和位置，推薦上述產品、服務和活動。根據當地數據保護法，只有得到您的同意或您不表示反對 ( 可能需要獨立予以同意) 時，我們方能使用您的個人資料。您有權拒絕我們使用您的個人資料進行直接市場推廣。若您不希望再收到某些類型的電郵通訊，則可通過 每份通訊底部附上的取消訂閱連結退出。我們不會將您的個人資料交予我們的業務合作夥伴，讓其用於直接市場推廣。
+我們與誰共用您的資訊？
+我們不向第三方出售任何個人資料。
+為了向您提供您要求的產品或服務，我們可能向第三方披露您的個人資料 (如下所述 )。
+本節列出可能向其披露之第三方服務供貨商及附屬公司。在本節所述之所有情況下，我們向您保證
+				易連物聯網僅會在您同意的情況下共用您的個人資料。請瞭解當
+				易連物聯網在本節描述的任何情況下與第三方服務供貨商共用您的個人資料時，
+				易連物聯網將通過 合約規定第三方遵守適用之當地數據保護法律的措施及義務。
+				易連物聯網將以合約確保任何第三方服務供貨商遵守您所在的司法管轄區適用之私隱標準。
+與本集團及第三方服務供貨商共用資訊
+為使業務能順利運作，從而為您提供本公司產品及服務的全部功能，我們可能不時向其他
+				易連物聯網附屬公司 ( 通訊、社交媒體、科技或雲端業務)，或向我們的郵件服務商、送貨服務供貨商、電訊公司、數據中心、數據存放設施、客戶服務供貨商，廣告及市場推廣服務供貨商以及
+				易連物聯網代表的第三方服務供貨商披露您的個人資料。此類第三方服務供貨商將代表
+				易連物聯網或因上述一個或多個目的處理您的個人資料。當在我們的裝置上使用某些 移動應用程式時，我們或會與第三方共用您的 IP 地址，以便為您提供所要求的部分服務。若您不希望我們共用這些數據，請 通過 app@elinkthings.com 聯絡我們。
+與其他人共用數據
+當適用法律要求時，
+				易連物聯網可能在未經您進一步同意的情況下披露您的個人資料。
+無需經同意的資料
+我們可能出於商業目的以匯總形式與第三方共用匿名數據及統計數據，例如與我們網站的廣告商共用使用我們服務的整體趨勢，如購買某些產品或進行某些交易的特定人群中的客戶數量。
+為免生疑慮，
+				易連物聯網可能在未經同意的情況下，於當地數據保護法律明確規定的範圍內並僅在此範圍內收集、使用或披露您的個人資料。此類披露可能由於必須保護我們的權利、確保您及他人的安全及遵守當地政府的要求，以協助調查非法活動而起。
+安全保護措施
+
+易連物聯網的安全措施
+我們致力確保您的個人資料安全。為防止未經授權的存取、披露或其他類似風險，我們制定了合理的實體方式、電子及管理程式以保障及保護我們從您的移動裝置及
+				易連物聯網網站所收集的資訊。我們將盡一切合理努力保障您的個人資料安全。
+您的所有個人資料均存儲於由受控裝置保護的安全伺服器上。我們會根據重要性及敏感度將您的資料分類，並確保您的個人資料具有最高安全級別。我們保證存取相關數據以向您提供本公司產品及服務的員工及第三方服務供貨商，受嚴格的合約保密義務限制。若該等人士不履行此類義務，將可能受到處罰或被終止合約。我們對雲端型數據存儲亦有特殊訪問控制。總括而言，我們會定期審查數據收集、存儲及處理措施，包括實體安全措施，以防止任何未經授權存取及使用。
+我們將採取一切可行之步驟來保障您的個人資料。然而，您應明白使用互聯網並非絕對安全，為此我們無法保證通過互聯網從您獲得或向您轉移的任何個人資料之安全性或完整性。
+您可以採取哪些措施
+您個人的部分，為保障您的個人資料安全，請勿向任何人透露您的登入密碼或帳戶數據，除非此人經過您的正式授權。
+
+易連物聯網不對由於您無法保密個人資料，而導致第三方存取您的個人資料所造成的安全漏洞負責。儘管存在上述規定，若任何其他互聯網用戶未經授權使用您的帳戶，或出現任何其他違反安全的行為，請立即告知我們。
+您的協助有助於我們保護您的個人資料私隱。
+保留政策
+只要為收集資料所需，或根據適用法律要求或允許，個人資料將被保留。一旦本公司合理地認為收集個人資料的目的不再適合保留個人資料，包括不再需要該等個人資料以解決法律糾紛，應用於我們的協議或達到我們的業務目標等情況，我們將停止保留個人資料，或移除該等個人資料可能與特定個人相關聯的途徑。
+使用您設備上的其他功能
+我們的應用程式或需要使用您裝置的部分功能，如將電郵加至聯絡人資訊、短訊存儲及Wi-Fi 網路狀態以及其他功能。該等數據將用於允許應用程式在您的裝置上執行，並允許您與應用程式互動。您隨時均可 通過在裝置層面關閉該等許可權，或通過 app@elinkthings.com 聯絡我們，以取消您的許可權。
+您的資料由您掌控！
+控制設定
+
+易連物聯網瞭解私隱疑慮因人而異。因此，
+				易連物聯網為您提供選擇以限制收集、使用、披露或處理您的個人資料及控制您私隱設定的方法，並提供示例：
+切換開/關用戶數據上傳至雲端功能；
+登入及註銷帳戶。
+若您之前出於上述目的同意我們使用您的個人資料，您可隨時通過郵寄或寄送電郵至 app@elinkthings.com，要求改變您的選擇。
+存取、更新、修正或刪除您的個人資料
+您有權要求存取及 /或修正我們持有之關於您的任何其他個人資料。當您更新個人資料時，我們將需要驗證您的身份方可繼續處理您的要求。我們獲得足夠的數據以處理您存取或修正個人資料的要求後，將在您適用之數據保護法律規定的任何時限內處理並回應您的要求。
+我們通常免費提供此類服務，但保留為您的數據存取要求收取合理費用的權利。
+				若您要求存取我們所持有屬於您的個人資料，或您認為我們持有您的任何數據不正確或不完整，或您認為我們持有您的任何數據不適當或過多，請儘快郵寄或 通過下方的電郵地址聯絡我們。電郵：app@elinkthings.com。
+存取您的
+					易連物聯網帳戶管理中心完成撤銷操作。我們將從您提出要求起的合理時間內處理，此後根據您的要求不再收集、使用及 /或披露您的個人資料。
+請知悉，撤銷同意可能會導致法律後果。我們會根據您的撤銷同意程度處理您的個人資料，這可能代表您將無法使用
+					易連物聯網的產品及服務。
+在您所在司法管轄區之外轉移個人資料
+我們可能需要在您所在司法管轄區之外將個人資料轉移至我們的附屬公司 ( 通訊、社交媒體、科技及雲端業務) 或第三方服務供貨商。對於此類轉移，我們將按照適用法律進行。具體而言，我們將採取適當的保障措施，並確保所有轉移均按照您適用的當地數據保護法律之要求。
+其他事項
+未成年人
+我們認為父母應負上監督子女使用我們的產品及服務的責任。然而，我們的政策不會要求未成年人提供個人資料；或向該類別人士發送任何推廣數據。
+
+易連物聯網並不意圖亦不打算接收來自未成年人的任何個人資料。若父母或監護人有理由相信，未成年人未經其事先同意而向
+					易連物聯網提供個人資料，請聯絡我們，以確保該等個人資料被刪除，以及該未成年人取消訂閱任何適用的
+					易連物聯網服務。
+					優先順序
+若您已同意我們適用的用戶協議，在此類用戶協議與本隱私政策不一致的情況下，將以用戶協議為准。
+隱私政策的更新
+我們會定期審核隱私政策，並可能更新本隱私政策，以反映我們資訊處理措施的變更。若我們對隱私政策作出重大更改，我們將通過電郵 (發送至您帳戶中指定的電郵地址) 通知您，或在所有
+						易連物聯網網站或通過我們的移動 裝置發佈該等更改，以便您瞭解我們收集的數據以及使用方式。我們隱私政策變更應自通知或網站通告的日期生效。我們鼓勵您定期檢視此頁面，以瞭解私隱措施的最新資訊。您在網站、手提電話及/或任何其他裝置上繼續使用產品及服務，即被視為接受更新的隱私政策。在收集您更多個人資料之前，或我們希望就新的使用目的或披露您的個人資料時，我們將重新徵求您的同意。
+						我是否必須同意任何第三方條款及條件？
+我們的隱私政策不適用於第三方提供的產品及服務。
+							易連物聯網產品及服務可能包括第三方產品、服務及第三方網站的連結。當您使用此類產品或服務時，第三方亦可能會收集您的資料。為此，我們強烈建議您花時間閱讀該第三方的隱私政策，如同對本公司隱私政策的關注一樣。我們不負責及無法控制第三方如何使用其向您收集的個人資料。我們的隱私政策不適用於從我們服務連結的其他網站。
+							社交媒體 ( 功能) 及 WIDGET
+我們的網站包含社交媒體功能，如 Facebook Like 按鈕及 Widget，如分享本內容的按鈕或我們網站上執行的互動式迷你程式。該等功能可能收集您的 IP 地址，您在我們網站流覽的頁面，並可能設定一個 Cookie 以便該功能正常操作。社交媒體功能及 Widget 乃由第三方託管或直接在我們網站託管。您與這些功能的互動受提供相關功能的公司隱私政策所約束。
+								若您對本隱私政策有任何意見或問題，或對
+									易連物聯網收集、使用或披露您的個人資料有任何相關問題，請通過以下郵件聯繫我們的數據保護專員，並請注明「隱私政策」：
+Email: app@elinkthings.com
+感謝您瞭解我們的隱私政策！
+
+
+PRIVACY POLICY
+OUR COMMITMENT TO YOU
+This Privacy Policy sets out how  Shenzhen Elink Things Co.,Ltd  ("Elink Things", "we", "our" or "us") collect, use, disclose, process and protect any information that you give us when you use our products and services located at http:// www.Elink Things-usa.com and our Suite of applications that we offer. Should we ask you to provide certain information by which you can be identified when using Elink Things products and services, it will only be used in accordance with this Privacy Policy and/or our terms and conditions for users.
+The Privacy Policy is designed with you in mind, and it is important that you have a comprehensive understanding of our personal information collection and usage practices, as well as full confidence that ultimately, you have control of any personal information provided to
+				Elink Things.
+In this Privacy Policy, "personal information" means information that can be used to identify an individual, either from that information alone or from that information combined with other information about that individual. Such personal information may include your name, address, telephone number and email address.
+By using
+				Elink Things products and services, you are deemed to have read, acknowledged and accepted all the provisions stated here in the Privacy Policy, including any changes we may make from time to time. We are committed to protecting the privacy, confidentiality and security of your personal information by complying with applicable laws, including your local data protection legislation. We are equally committed to ensuring that all our employees and agents uphold these obligations.
+Ultimately, what we want is the best for all our users. Should you have any concerns with our data handling practice as summarised in this Privacy Policy, please contact our Data Protection Officer at
+				app@elinkthings.com to address your specific concerns. We will be happy to address them directly.
+WHAT INFORMATION IS COLLECTED AND HOW DO WE USE IT?
+TYPES OF INFORMATION COLLECTED
+In order to provide our services to you, we will ask you to provide personal information that is necessary to provide those services to you. If you do not provide your personal information, we may not be able to provide you with our products or services.
+We may collect the following types of information (which may or may not be personal information):
+Information about you: We may collect and use features such as email, avatars, personalized signatures, nicknames, gender, time zones, languages, and regions.
+
+Device Record information: When you use 
+				AiBrush  to synchronize device data, personal data is recorded, including but not limited to: Brush record(brush time、Brushing range、Evnness etc.).
+Phone Info: When you use the
+				AiBrush, we need to get your phone operating system and version of the mobile phone brand model only to determine whether
+				AiBrush is supported, and we will not keep this type of information .
+Network Usage Information: We may collect network types, network signals, etc. related to certain features of the
+				AiBrush only when provide corresponding service for you, and we will not keep this type of information.
+Location information: When you use location-based program services or features, we may collect your location information.
+Device Information: When you use
+				AiBrush to connect a hardware device, including but not limited to, the device's unique identifier, firmware version, and approximate geographic location information (non-personal information) will be sent to the server. The collection of the above information may also apply to your update system or software, restore factory settings and so on. 
+Debug log information: We will not collect your debug log information unless when you choose to upload debug logs to help us analyze the problem, your application debug log file will be sent to the server.
+We may also collect other types of information which are not linked to an individual and which is anonymous. For example, using behaviours and information about the problem may be collected when you agree to enter into User Experience Program . Such information is collected in order to improve the services we provide to you,and we will only keep it for one year .
+HOW THE PERSONAL INFORMATION IS USED
+Personal information is collected for providing services and / or products to you, and legal compliance on our part under applicable laws. You hereby consent that we may process and disclose personal information to our affiliated companies (which are in the communications, social media, technology and cloud businesses), Third Party Service Providers (defined below) for the purposes stated in this Privacy Policy.
+We may use your personal information for the following purposes:
+Here are more details on how we use your information (which may include personal information)
+Setting up your Account. Personal information collected when creating a Account on our web sites or through our mobile devices is used for creating the personal Account and profile page for the user.
+Calculate exercise results. Personal body information are used to accurately calculate the exercise result information.
+Providing
+				AiBrush services. Information relating to device information will show the user the information associated with it.
+Providing management devices. This information provides the ability to manage the bundled devices.
+Improve software stability. Collect crash logs for analyzing software quality to provide better service.
+DIRECT MARKETING
+We may use your name, phone number, and email address, to provide marketing materials to you relating to goods and services of
+				Elink Things companies and our business partners which offer network, mobile applications and cloud products and services. To provide better user experience, we may recommend above-mentioned products, services and activities based on information about your purchase history, website browsing history, birthday, age, gender, and location. We will only so use your personal data after we have obtained your consent or indication of no objection in accordance with local data protection laws, which may require separate explicit consent. You have the right to opt out of our proposed use of your personal data for direct marketing. If you no longer wish to receive certain types of email communications you may opt-out by following the unsubscribe link located at the bottom of each communication. We will not transfer your personal data to our business partners for use by our business partners in direct marketing.
+WHO DO WE SHARE YOUR INFORMATION WITH?
+We do not sell any personal information to third parties.
+We may disclose your personal information on occasion to third parties (as described below) in order to provide the products or services that you have requested.
+Disclosure may be made to Third Party Service Providers and affiliated companies listed in this section below. In each case described in this section, you can be assured that
+				Elink Things will only share your personal information in accordance with your consent. You should know that when
+				Elink Things shares your personal information with a Third Party Service Provider under any circumstance described in this section,
+				Elink Things will contractually specify that the third party is subject to practices and obligations to comply with applicable local data protection laws.
+				Elink Things will contractually ensure compliance by any Third Party Service Providers with the privacy standards that apply to them in your home jurisdiction.
+SHARING WITH OUR GROUP AND THIRD PARTY SERVICE PROVIDERS
+In order to conduct business operations smoothly in providing you with the full capabilities of our products and services, we may disclose your personal information from time to time to other
+				Elink Things affiliated companies (in communications, social media, technology or cloud businesses), or our third party service providers which are our mailing houses, delivery service providers, telecommunications companies, data centres, data storage facilities, customer service providers, advertising and marketing service providers, and
+				Elink Things’s representatives. Such Third Party Service Providers would be processing your personal information on
+				Elink Things’s behalf or for one or more of the purposes listed above.If you no longer wish to allow us to share this information, please contact us at
+				app@elinkthings.com.
+SHARING WITH OTHERS
+
+Elink Things may disclose your personal information without further consent when required under applicable law.
+INFORMATION NOT REQUIRING CONSENT
+We may share anonymised information and statistics in aggregate form with third parties for business purposes, for example with advertisers on our website, we may share them trends about the general use of our services, such as the number of customers in certain demographic groups who purchased certain products or who carried out certain transactions.
+For the avoidance of doubt,
+				Elink Things may collect, use or disclose your personal information without your consent if it is and only to the extent it is allowed explicitly under local data protection laws. Such disclosure may be brought about by the necessity to protect our rights, ensure the safety of you and other people, and comply with the requirements of the local government to facilitate the investigations of illegal activities.
+SECURITY SAFEGUARDS
+Elink Things’S SECURITY MEASURES
+We are committed to ensuring that your personal information is secure. In order to prevent unauthorised access, disclosure or other similar risks, we have put in place reasonable physical, electronic and managerial procedures to safeguard and secure the information we collect from your using of
+				Elink Things products and services. We will use all reasonable efforts to safeguard your personal information.
+All your personal information is stored on secure servers that are protected in controlled facilities. We nameify your data based on importance and sensitivity, and ensure that your personal information has the highest security level. We make sure that our employees and Third Party Service Providers who access the information to help provide you with our products and services are subject to strict contractual confidentiality obligations and may be disciplined or terminated if they fail to meet such obligations. We have special access controls for cloud based data storage as well. All in all, we regularly review our information collection, storage and processing practices, including physical security measures, to guard against any unauthorised access and use.
+We will take all practicable steps to safeguard your personal information. However, you should be aware that the use of the Internet is not entirely secure, and for this reason we cannot guarantee the security or integrity of any personal information which is transferred from you or to you via the Internet.
+WHAT YOU CAN DO
+You can play your part in safeguarding your personal information by not disclosing your login password or account information to anybody unless such person is duly authorised by you. 
+
+Elink Things cannot be held responsible for lapses in security caused by third party accesses to your personal information as a result of your failure to keep your personal information private. Notwithstanding the foregoing, you must notify us immediately if there is any unauthorised use of your account by any other Internet user or any other breach of security.
+Your assistance will help us protect the privacy of your personal information.
+RETENTION POLICY
+Personal information will be held for as long as it is necessary to fulfil the purpose for which it was collected, or as required or permitted by applicable laws. We shall cease to retain personal information, or remove the means by which the personal information can be associated with particular individuals, as soon as it is reasonable to assume that the purpose for which that personal information was collected is no longer being served by retention of the personal information, including the cases when the personal information is no longer required for resolving legal disputes, applying our Agreements, or achieving our business goals.
+For clarity, personal body information and Information about you are totally in your control , you can choose when to delete it at your discretion，and we will cease to retain such information. If you have any comments, please send us an email:
+				app@elinkthings.com.
+ACCESSING OTHER FEATURES ON YOUR DEVICE
+Our applications may need access to certain features on your device such as enabling emails to contacts, SMS storage and Wi-Fi network status, as well as other features. This information is used to allow the applications to run on your device and allow you to interact with the applications. At any time you may revoke your permissions by turning these off at the device level or contacting us at
+				app@elinkthings.com.
+YOU HAVE CONTROL OVER YOUR INFORMATION!
+CONTROLLING SETTINGS
+
+Elink Things recognises that privacy concerns differ from person to person. Therefore, we provide examples of ways
+				Elink Things makes available for you to choose to restrict the collection, use, disclosure or processing of your personal information and control your privacy settings:
+Switch on/off user data upload to cloud. 
+Log in and out of the Account.
+You may obtain more details in relation to your device’s security status in the UI Security Centre as well.
+If you have previously agreed to us using your personal information for the abovementioned purposes, you may change your mind at any time by writing or emailing us at
+				app@elinkthings.com.
+ACCESS, UPDATING, CORRECTING OR ERASURE YOUR PERSONAL INFORMATION
+You have the right to request access to and/or correction of any other personal information that we hold about you. When you update your personal information, you will be asked to verify your identity before we proceed with your request. Once we obtain sufficient information to accommodate your request for access to or correction of your personal information, we shall proceed to respond to your request within any timeframe set out under your applicable data protection laws.
+We normally provide such services for free but reserve the right to charge a reasonable fee for your data access request.
+				If you would like to request access to your personal data held by us or if you believe any information we are holding on you is incorrect or incomplete or if you believe any information we are holding on you is inappropriate or excessive, please write to or email us as soon as possible at the email address below. Email: iot@
+					Elink Things-tek.com.
+WITHDRAWAL OF CONSENT
+You may withdraw your consent for the collection, use and/or disclosure of your personal information in our possession or control by submitting a request. This may be done by accessing your Account management centre at account.
+					Elink Things.com/pass/del
+.We will process your request within a reasonable time from when the request was made, and thereafter not collect, use and/or disclose your personal information as per your request.
+Please recognise that your withdrawal of consent could result in certain legal consequences. Depending on the extent of your withdrawal of consent for us to process your personal information, it may mean that you will not be able to enjoy
+					Elink Things’s products and services.
+TRANSFER OF PERSONAL INFORMATION OUTSIDE OF YOUR JURISDICTION
+To the extent that we may need to transfer personal information outside of your jurisdiction, whether to our affiliated companies (which are in the communications, social media, technology and cloud businesses) or Third Party Service Providers, we shall do so in accordance with the applicable laws. In particular, we will ensure that all transfers will be in accordance with requirements under your applicable local data protection laws by putting in place appropriate safeguards.
+MISCELLANEOUS
+MINORS
+We consider it the responsibility of parents to monitor their children’s use of our products and services. Nevertheless, it is our policy not to require personal information from minors or offer to send any promotional materials to persons in that category.
+
+Elink Things does not seek or intend to seek to receive any personal information from minors. Should a parent or guardian have reasons to believe that a minor has provided
+					Elink Things with personal information without their prior consent, please contact us to ensure that the personal information is removed and the minor unsubscribes from any of the applicable
+					Elink Things services.
+ORDER OF PRECEDENCE
+If you have agreed to our applicable User Agreements, in the event of inconsistency between such User Agreements and this Privacy Policy, such User Agreements shall prevail.
+UPDATES TO THE PRIVACY POLICY
+We keep our Privacy Policy under regular review and may update this privacy policy to reflect changes to our information practices. If we make material changes to our Privacy Policy, we will notify you by email (sent to the e-mail address specified in your account) or post the changes on all the
+					Elink Things websites or through our software, so that you may be aware of the information we collect and how we use it. Such changes to our Privacy Policy shall apply from the effective date as set out in the notice or on the website. We encourage you to periodically review this page for the latest information on our privacy practices. Your continued use of products and services on the websites, mobile phones and/or any other device will be taken as acceptance of the updated Privacy Policy. We will seek your fresh consent before we collect more personal information from you or when we wish to use or disclose your personal information for new purposes.
+DO I HAVE TO AGREE TO ANY THIRD PARTY TERMS AND CONDITIONS?
+Our Privacy Policy does not apply to products and services offered by a third party.
+					Elink Things products and services may include third parties’ products, services and links to third parties’ websites. When you use such products or services, they may collect your information too. For this reason, we strongly suggest that you read the third party’s privacy policy as you have taken time to read ours. We are not responsible for and cannot control how third parties use personal information which they collect from you. Our Privacy Policy does not apply to other sites linked from our services.
+SOCIAL MEDIA (FEATURES) AND WIDGETS
+Our websites include social media features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social media features and Widgets are either hosted by a third party or hosted directly on our websites. Your interactions with these Features are governed by the privacy policy of the company providing it.
+SINGLE SIGN-ON
+Depending on your jurisdiction, you may be able to log in to our website using sign-on services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this website to your profile page to share with others within your network.
+CONTACT US
+If you have any comments or questions about this Privacy Policy or any questions relating to
+					Elink Things’s collection, use or disclosure of your personal information, please contact our Data Protection Officer at the E-mail below referencing "Privacy Policy":
+E-mail: app@elinkthings.com
+Thank you for taking the time to understand our Privacy Policy!
+
+

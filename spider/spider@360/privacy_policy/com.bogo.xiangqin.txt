@@ -1,0 +1,545 @@
+
+
+
+隐私条款
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+为了更好的保护您的个人信息，建议您仔细阅读更新后的《用户隐私政策》，尤其是以黑色加粗的条款。如您对本隐私政策条款有任何异议或疑问，您可通过本本政策中第十一条“如何联系我们”中公布的联系方式与我们沟通。
+本用户隐私政策将帮助您了解以下内容：
+一、引言
+二、关于我们
+三、名词解释
+四、我们如何收集和使用您的个人信息
+五、我们如何共享、转让、公开披露个人信息
+六、关于如何使用 Cookie和同类技术
+七、我们如何保护个人信息的安全
+八、您如何管理您的个人信息
+九、我们如何处理未成年人的个人信息
+十、如何存储个人信息
+十一、如何联系我们
+一、引言
+1. 本《用户隐私政策》（下称“本政策”）适用于全部肆块伍产品，包括肆块伍安卓端应用程序、ios端应用程序、肆块伍网站、肆块伍小程序等全部终端（以下合称“肆块伍产品及/或服务）。
+特别提醒：由于肆块伍的产品和服务较多，为您提供的产品和服务内容也有所不同，本隐私政策为肆块伍统一适用的一般性隐私政策条款。针对肆块伍的某些特定产品/服务，肆块伍还将制定特定隐私政策，您应在充分阅读并同意特定隐私政策的全部内容后再使用该特定产品/服务。
+2. 请您在使用肆块伍产品及/或服务前仔细阅读并理解本政策的全部内容，一旦您使用肆块伍产品及/或服务，即表示您同意我们按照本政策使用和处理您的相关信息。
+3. 我们可能会不时依据法律法规或业务调整对本政策进行修订。当本政策发生重大变更，我们会在版本更新后通过在显著位置提示或推送通知、消息等形式向您展示变更后的内容。
+本政策所指的重大变更包括但不限于：我们的服务模式发生重大变化，如处理个人信息的目的、处理的个人信息类型、个人信息的使用方式等；我们在控制权等方面发生重大变化，如并购重组等引起的所有者变更等；个人信息共享、转让或公开披露的主要对象发生变化；您参与个人信息处理方面的权利及其行使方式发生重大变化；我们负责处理个人信息安全的责任部门、联络方式及投诉渠道发生变化时等。
+4. 您需理解，只有在您确认并同意变更后的隐私政策，我们才会依据变更后的隐私政策收集、使用、处理和存储您的个人信息；您有权拒绝同意变更后的隐私政策，但请您知悉，一旦您拒绝同意变更后的隐私政策，可能导致您不能或不能继续完整使用肆块伍产品及/或服务，或者无法达到产品拟达到的服务效果。
+二、关于我们
+1. 肆块伍由幸福赢行（深圳）科技有限公司（注册地址为“深圳市龙华区龙华街道清华社区清龙路6号港之龙科技园商务中心A、B栋B栋8层809 ”，以下简称“我们”或“肆块伍”）及关联方提供产品运营和服务。
+  
+  2. 关联方是指在现在、将来控制幸福赢行（深圳）科技有限公司、受幸福赢行（深圳）科技有限公司控制或与幸福赢行（深圳）科技有限公司处于共同控制下的公司、机构。控制指通过所有权、有投票权的股份、合同、实际运营关联或其他被依法认定的方式直接或间接地拥有影响被控制对象管理/经营的能力。
+三、名词解释
+除非另有约定，本政策中使用到的名词，通常仅具有以下定义：
+  
+  1. 个人信息（出自于《个人信息保护法》）：个人信息是以电子或者其他方式记录的与已识别或者可识别的自然人有关的各种信息，不包括匿名化处理后的信息。本隐私政策中涉及的个人信息包括自然人的基本资料（包括姓名、生日、性别、住址、电话号码、电子邮箱）、个人身份信息（包括身份证件号码）、个人生物识别信息（包括指纹、面部特征）、网络身份标识信息（包括系统账号、IP地址、邮箱地址以及与前述有关的密码、口令、口令保护答案）、个人财产信息（包括银行账号、口令、交易和消费记录、虚拟货币、虚拟交易、兑换码等虚拟财产信息）、个人上网记录（包括网站浏览记录、软件使用记录）、个人常用设备信息（包括硬件序列号、硬件型号、设备MAC地址、操作系统类型、软件列表、唯一设备标识符）、个人位置信息（包括大概地理位置、精确定位信息）。我们实际具体收集的个人信息种类以本政策描述为准。
+  
+  2. 个人敏感信息（出自于《个人信息保护法》）：敏感个人信息是一旦泄露或者非法使用，容易导致自然人的人格尊严受到侵害或者人身、财产安全受到危害的个人信息，包括生物识别、宗教信仰、特定身份、医疗健康、金融账户、行踪轨迹等信息，以及不满十四周岁未成年人的个人信息。本隐私政策中涉及的个人敏感信息包括您的个人财产信息、个人身份信息（包括身份证件号码）、个人生物识别信息、网络身份标识信息、精准定位信息、收货地址。我们实际具体收集的个人敏感信息种类以本政策描述为准。
+ 
+  3. 设备：是指可用于访问我们的产品和/或服务的装置，例如台式计算机、笔记本电脑、平板电脑或智能手机。
+ 
+  4. 唯一设备识别码（专属ID或UUID）：是指由设备制造商编入到设备中的一串字符，可用于以独有方式标识相应设备（如IMEI/android ID/IDFA/OpenUDID/GUID/SIM卡IMSI信息等）。唯一设备识别码有多种用途，其中可在不能使用Cookie（例如在移动应用程序中）时用以提供广告。
+ 
+  5. IP地址：每台上网的设备都会指定一个编号，称为互联网协议(IP)地址。这些编号通常都是根据地理区域指定的。IP 地址通常可用于识别设备连接至互联网时所在的位置。
+  
+  6. SSL：SSL（Secure Socket Layer）又称为安全套接层，是在传输通信协议（TCP/IP）上实现的一种安全协议。SSL支持各种类型的网络，同时提供三种基本的安全服务，均通过使用公开密钥和对称密钥技术以达到信息保密的效果。
+ 
+  7. Cookie：Cookie是包含字符串的小文件，在您登入和使用网站或其他网络内容时发送、存放在您的计算机、移动设备或其他装置内（通常经过加密）。Cookie同类技术是可用于与Cookie类似用途的其他技术，例如：Web Beacon、Proxy、嵌入式脚本等。
+ 
+  8. 账号：当您注册账号并向我们提供一些个人信息，您就可以更好的使用我们的服务。当您访问肆块伍时，系统会利用这些账号信息对您进行身份验证，以防止未经授权的人员访问您的账号。
+ 
+  9. 匿名化：是指通过对个人信息的技术处理，使得个人信息主体无法被识别或者关联，且处理后的信息不能被复原的过程。
+ 
+  10. 去标识化：是指通过对个人信息的技术处理，使其在不借助额外信息的情况下，无法识别或关联个人信息主体的过程。
+ 
+  11. 服务器日志：通常情况下，我们的服务器会自动记录您在访问网站时所发出的网页请求。这些“服务器日志”通常包括您的网络请求、互联网协议地址、浏览器类型、浏览器语言、请求的日期和时间及可以唯一识别您的浏览器的一个或多个Cookie。
+四、我们如何收集和使用您的个人信息
+1. 我们依据法律法规以及遵循以下原则收集和使用您主动提供或由于产品和/或服务需要而产生的个人信息：权责一致原则、目的明确原则、选择同意原则、最小必要原则、确保安全原则、主体参与原则、公开透明原则等。如果我们欲将您的个人信息用于本政策未载明的其它用途，或基于特定目的将收集而来的信息用于其他目的，我们会及时以合理的方式向您告知，并在使用前再次征得您的同意。
+2. 我们收集和使用的您的个人信息及权限类型包括：
+2.1 我们产品与/或服务的核心业务功能所必需的信息：此类信息为产品与/或服务正常运行的必备信息，您须授权我们收集及使用。如您拒绝授权及提供，您将无法正常使用我们的产品与/或服务；
+2.2 附加业务功能可能需要收集的信息：此信息为非核心业务功能所需的信息，您可以选择是否授权我们收集及使用。如您拒绝授权及提供，将导致附加业务功能无法实现或无法达到产品拟达到的效果，但不影响您对核心业务功能的正常使用。
+ 
+  2.3 为保证产品的正常运行，并为您实现更好的产品功能，我们会在您使用特定功能或服务时，向您申请地理位置、摄像头等权限，以上权限均不会默认开启，只有经过您的明示授权才会在实现特定功能或服务时使用，您也可以撤回授权。特别需要指出的是，即使经过您的授权，我们获得了这些敏感权限，也不会在相关功能或服务不需要时而收集您的信息。
+（肆块伍权限申请与使用情况说明）
+3. 我们需要特别提醒您：您理解并同意，我们希望提供给您的产品及/或服务是趋于完善的，所以我们会不断改进我们的产品和服务，因此我们可能会经常推出新的业务功能，届时可能需要收集新的个人信息或变更个人信息使用目的或方式，我们会通过更新本政策、页面提示、弹窗、网站公告等方式另行向您说明该信息收集的目的、内容、使用方式和范围，并在征得您明示同意后收集。
+  
+  4. 通常情况下，我们会在以下场景中收集和使用您的个人信息：
+4.1 账号注册、登录、认证
+ 
+  4.1.1. 账号注册、登陆
+  
+  您在注册及/或登录肆块伍账号时，为帮助您完成注册及/或登录，我们提供了三种登陆方式：
+  
+  4.1.1.1 当您选择“本机号码一键登陆”时，经过您的同意，运营商（中国移动、中国联通、中国电信）基于合作会将您的手机号码发送给我们，便于我们为您提供快捷的登录服务；
+您需理解，手机号码属于您的个人敏感信息，如您拒绝提供可能将导致您无法通过一键登录注册及/或登陆账号并使用相关产品与/或服务功能，但不影响您通过其他方式注册及/或登陆账号，也不影响其他功能的使用；
+4.1.1.2 当您选择“其他手机号码登陆”时，您需要向我们提供该手机号码及您收到的短信验证码，目的是用来验证注册及/或登录肆块伍账号，
+您需理解，手机号码和验证码匹配结果属于您的个人敏感信息，我们收集该类信息是基于法律法规的要求，如您拒绝提供可能将导致您无法注册账号并使用相关产品与/或服务功能；
+请您注意，在使用手机号及验证码进行登录时（含一键登录），我们可能需要将实现登录所必需的信息（如验证码信息）在剪切板中写入与读取。这些信息仅供实现登录相关的目的所使用，不会收集您的隐私信息。
+  
+  4.1.1.3 当您选择第三方账号登陆时（例如微信登陆、苹果账户登陆等），经过您明示授权同意，
+您将授权我们获取您登陆所使用的第三方账号的公开信息（例如头像、昵称、性别及您授权的其他信息），并将该账号与您的肆块伍产品账号及手机号码进行绑定。
+4.1.2
+资料完善
+在您完成产品账号注册后，您可以自行决定是否需要完善您的性别、年龄、昵称、学历、头像、生日、身高、所在地、学校、职业、家乡、个性标签、交友心声等网络身份识别信息。
+其中性别、年龄属于使用肆块伍产品基本功能所必须的信息（我们会基于性别提供性别匹配服务；我们会基于年龄，拒绝向未成年人提供服务），如您拒绝提供，将无法使用我们的产品和功能。对于其他信息，如果您完善信息，将有助于我们为您提供更好的服务和体验（例如获得更好的匹配推荐），但如果您不提供上述信息，将不会影响使用产品的基本功能。
+4.1.3
+实名认证
+在您使用实名认证的功能或相关特定服务所需时，根据相关法律法规，您需要向我们提供您的真实身份信息（真实姓名、身份证号码、电话号码）及面部特征信息以核实您的身份并完成实名认证服务。 这些信息属于个人敏感信息，您可以拒绝提供，如果拒绝提供您将可能无法获得相关服务，但不影响其他产品及/或服务的正常使用；
+4.2 推荐
+ 
+      4.2.1 收集信息类型
+ 
+      为向您更好的推荐异性用户、直播间、广场信息，我们会收集并使用下列信息：
+ 
+          4.2.11 您主动填写并发布的公开信息（例如：征友条件、年龄、学历、性别、职业、收入等）
+ 
+          4.2.1.2 获得您明示同意后的地理位置信息。
+ 
+      地理位置信息：含通过GPS信息、蓝牙等获取到的精确地理位置信息及通过网络位置信息（例如基站、IP及WLAN）获取的大致地理位置信息。
+精确地理位置信息是个人敏感信息，若您拒绝提供，我们将不会根据精确地理位置信息向您推荐信息，且不会影响产品其他功能的正常使用。但我们会在首页（拒绝前为推荐页）。
+4.2.2 使用场景
+ 
+   
+ 
+          4.2.2.1 在肆块伍推荐页向您展示、推荐您附近的异性用户。
+ 
+          4.2.2.2 在广场页按照热度和发布日期向您推荐与您同城的信息动态；
+ 
+          4.2.2.3 在好友脚印里推荐与您相关程度更高的好友。
+ 
+          我们收集、使用上述信息时进行了去标识化处理，数据分析仅对应特定的、无法直接关联用户身份的编码，无法与您的真实身份相关联。如果您不同意授权或拒绝我们获取上述信息，您可以在“我-设置-隐私设置-推荐”进行关闭，关闭后您将无法获得推荐的信息，但不影响您正常使用产品的其他功能。
+ 
+      4.3 内容发布功能
+ 
+          4.3.1 语音交友
+当您主动发布语音内容时(包括语音相亲、语音房间、小队、k歌等功能)时，您需要相应开启麦克风权限、存储权限、位置权限来进行语音直播或连麦。开启手机存储权限是实现这一功能所必需的，目的是存储缓存文件或上传本地文件。
+同时，您也可以随时通过您设备的相关功能设置开启/取消该权限。当您取消该授权后，我们将无法再为您提供上述与之对应的服务。
+在语音直播或连麦过程中，我们将记录您所展现的一切声音并实时对其他用户进行展示。根据国家相应法律法规，我们将实时监测和记录您的语音内容，确保您的直播内容符合法律法规及公序良俗。
+4.3.2 视频直播
+当您使用视频直播功能（包括三方公开直播间、专属直播间、视频交友、视频密恋等）时，您需要相应开启相应的摄像头、麦克风权限，以完成完整的直播、连麦及过程中附带的功能，如果您拒绝开启摄像头和麦克风权限，将无法进行直播或连麦。在直播过程中，我们将记录您所展现的一切动态、静态画面并对其他用户进行实时展示。根据国家相应法律法规，我们将实时监测及记录您的直播画面，确保您的直播内容符合法律法规及公序良俗。
+4.3.3 上传动态、头像、照片
+当您上传头像或照片、发布动态，包括发布文字、图片、语音、短视频时，您需要相应开启摄像头、录音、相册、存储权限。
+同时，您也可以随时通过您设备的相关功能设置开启/取消该权限。当您取消该授权后，我们无法再为您提供上述与之对应的服务。
+您上传的动态照片、文字、短视频、评论、点赞这些信息会存储在我们的服务器中，因为存储是实现这一功能所必需的。
+我们会以加密的方式存储，您也可以随时删除这些信息。除非经您自主选择或遵从相关法律法规要求，我们不会对外提供上述动态信息，或者将其用于该功能以外的其他用途。
+ 
+      4.3.4 请您注意：您使用发布直播、发布直播评论或其他需要进行身份认证的功能或服务时，根据中华人民共和国相关法律法规规定，
+您需要提供真实身份信息或通过“人脸识别”等方式进行实名认证，以验证您的身份。在实名认证的过程中，我们或向我们提供认证服务的第三方认证机构需要您提供真实姓名、手机号码、身份证号码及面部特征值信息。这些信息是个人敏感信息，仅供实名认证及法律法规所规定的用途，未经您明示授权，不会用作其他目的。您可以拒绝提供这些信息，且不影响您正常使用产品的其他功能。
+4.3.4
+特别提示：您公开发布的信息中可能会涉及您或他人的个人信息甚至个人敏感信息，如您在发布动态时选择上传包含个人敏感信息的图片，请您谨慎考虑，是否在使用我们的服务时共享甚至公开分享相关信息。我们建议您不要上传家中未成年人或其他未成年人的照片及其他个人信息。
+4.4 关注好友及好友管理功能
+ 
+          
+我们将收集包括您的关注关系、分享历史在内的服务日志信息用于实现上述功能。如果您拒绝提供将无法使用此功能，但并不影响您正常使用产品与/或服务的其他功能；
+4.4.2 您可以在我们的产品中添加或删除好友，为帮您实现这一功能，我们会创建好友列表信息。好友列表是建立与管理好友关系所必需的必要信息。
+ 
+      4.5 交易功能
+ 
+          4.5.1 购买：当您购买肆块伍会员服务、虚拟礼物（玫瑰）时，需要使用支付功能；届时我们会收集您的第三方支付渠道的信息
+（如支付宝Open ID、微信支付Open ID、Apple pay 订单号、银行卡信息）及身份证信息。 该等信息是个人敏感信息，如果您拒绝提供将无法使用此功能，但不影响您正常使用产品与/或服务的其他功能。
+4.5.2
+提现：当您在肆块伍APP上进行提现时，我们会收集并存储您的姓名、身份证号、支付宝信息（个人敏感信息）。您需要提供准确真实的姓名、身份证号、支付宝信息，否则无法提现成功。您所提供的上述个人提现信息均已进行加密，仅用于提现到账。
+4.6 客户服务
+          
+          4.6.1 您可以向客服发起投诉、申诉或咨询，为了您的账号与系统安全，
+我们需要您提供账号信息，并与您之前的个人信息相匹配予以验证您的用户身份。同时，我们可能还需要您提供您的真实姓名、手机号码、电子邮件及其他联系方式等个人信息，以便于及时地向您反馈投诉、申诉或咨询结果；
+4.6.2
+我们可能还需要收集您与我们沟通的信息（包括文字、图片、音视频、通话记录等形式），以及与您需求相关联的其他必要信息。
+我们收集上述信息是为了调查事实以及帮您解决问题，如您拒绝提供，我们可能无法向您及时反馈投诉、申诉或咨询结果。
+ 
+      4.7 从第三方间接收集的您的个人信息
+          
+          4.7.1 您理解并知悉，您向外部第三方（肆块伍关联公司除外）提供的个人信息，或外部第三方收集的您的个人信息，我们无法获取，更不会使用非常规方式（如：恶意干预对方系列APP数据）擅自以软件程序获得您的个人信息。
+我们可能因业务发展的需要而确实需要从第三方间接收集（如共享等）您的个人信息的，且由我们直接或共同为您提供产品或服务的，我们（或第三方）在收集前会向您明示共享的您个人信息的来源、类型、使用目的、方式和所用于的业务功能、授权同意范围（如果使用方式和范围超出您在第三方原授权范围的，我们会再次征得您的授权同意）；
+4.7.3
+我们将会对上述个人信息将进行安全加固（包括敏感信息报备、敏感信息加密存储、访问权限控制等）。我们会使用不低于我们对自身用户个人信息同等的保护手段与措施对间接获取的个人信息进行保护。
+4.8 向您提供安全保障功能，保证您更安全的使用产品/服务
+ 
+          为向您提供更安全、可信的产品与使用环境，保护您或其他用户或公众的人身及财产安全免遭侵害网络攻击/入侵、网络欺诈、钓鱼网站、网站漏洞、计算机病毒等安全风险，更好的预防及识别违反法律法规及肆块伍平台规则的情况，提供优质、可靠的服务与信息，我们会收集关于您使用的产品或服务以及使用方式的信息并将这些信息进行关联或整合，这些信息包括：
+ 
+          4.8.1
+设备信息：
+我们会根据您在软件安装及使用中授予的具体权限，
+接收并记录您所使用的设备型号、操作系统版本、设备识别码（包括IMEI/Android ID/Device_ID/IDFV/OAID/SN ID/MEID、SIM卡手机号、IMSI）、网络设备硬件地址、MAC等软硬件特征信息、设备应用安装列表、设备所在位置相关信息（如IP 地址、WLAN接入点、蓝牙、基站、地理位置信息）。需要您注意，这些信息是我们提供服务和保障产品正常运行所收集的基本信息；
+请您知悉，为了帮助我们进行bug分析、反黑产等安全保护工作，保障您正常使用本产品与/或服务、改进和优化我们的产品体验、保障您的账号安全，在您将本产品切换至后台或者处于静默状态时，我们会收集您的设备信息（包括androidId、wifiMac、wifi地址、wifi名称、mac、meid、imei或oaid、brand、系统版本、经纬度信息）。
+4.8.2
+日志信息：当您使用我们的网站或客户端提供的产品或服务时，我们会自动收集您对我们产品或服务的详细使用情况，作为有关网络日志保存。（例如您的搜索查询内容、IP地址、浏览器的类型、电信运营商等）；
+4.8.3
+需要您注意，单独的设备信息、日志信息等是无法识别特定自然人身份的信息，故单独的设备信息、日志信息非本政策所指“个人信息”。如果我们将这类非个人信息与其他信息结合用于识别特定自然人身份，或者将其与个人信息结合使用，则在结合使用期间，这类非个人信息将被视为个人信息，除取得您授权或法律法规另有规定外，我们会将该类个人信息做匿名化、去标识化处理；
+4.8.4
+其他信息：为了预防恶意程序及安全运营所必需，我们会收集安装的应用信息或正在运行的进程信息、应用程序的总体运行、使用情况与频率、总体安装使用情况、性能数据、应用来源，并可能使用或整合您的用户信息、交易信息、设备信息、有关网络日志信息，进而综合判断您账户及交易风险、进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施。
+4.9 消息通知
+ 
+      您知悉并同意，对于您在使用我们产品及/或服务的过程中提供的您的联系方式（如联系电话），
+我们在运营中可能会向其中的一种或多种发送多类通知，用于用户消息告知、身份验证、安全验证、用户使用体验调研等用途；此外，我们也可能会向在前述过程中收集的手机号码通过短信、电话的方式，为您提供您可能感兴趣的服务、功能或活动等商业性信息的用途，但请您放心，如您不愿接受这些信息，您可以通过手机短信中提供的退订方式进行退订，也可以直接与我们联系进行退订。
+4.10 依法豁免征得同意收集和使用的个人信息
+需要提醒您注意，以下情形中，收集和使用您的个人信息无需您的同意：
+4.10.1 与个人信息控制者履行法律法规规定的义务相关的；
+          
+          4.10.2 与国家安全、国防安全直接相关的；
+ 
+          4.10.3 与公共安全、公共卫生、重大公共利益直接相关的；
+ 
+          4.10.4 与刑事侦查、起诉、审判和判决执行等直接相关的；
+ 
+          4.10.5 出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到本人同意的；
+ 
+          4.10.6 收集的个人信息是您自行向社会公众公开的；
+ 
+          4.10.7 从合法公开披露的信息中收集的您的个人信息的，如合法的新闻报道、政府信息公开等渠道；
+ 
+          4.10.8 根据您的要求签订和履行合同所必需的；
+ 
+          4.10.9 用于维护所提供的产品与/或服务的安全稳定运行所必需的，例如发现、处置产品与/或服务的故障；
+ 
+          4.10.10 出于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；
+ 
+          4.10.11 为合法的新闻报道所必需的；
+ 
+          4.10.12 法律法规规定的其他情形。
+五、我们如何共享、转让、公开披露个人信息
+1. 共享
+  
+  我们非常重视对您的个人信息的保护，您的个人信息是我们为您提供产品与/或服务的重要依据和组成部分，对于您的个人信息，我们仅在本政策所述目的和范围内或根据法律法规的要求收集和使用，并严格保密。
+通常情况下，我们不会与任何公司、组织和个人共享您的个人信息，但以下情况除外：
+  
+    1.1 事先已获得您的明确授权或同意；
+ 
+    1.2 根据适用的法律法规、法律程序、政府的强制命令或司法裁定而需共享您的个人信息；
+ 
+    1.3 在法律要求或允许的范围内，为了保护肆块伍及其用户或社会公众的利益、财产或安全免遭损害而有必要提供您的个人信息给第三方；
+ 
+    1.4 您的个人信息将来可能会在我们的关联公司之间共享：为向您提供一致化服务以及便于您进行统一管理，我们可能会将您的个人信息与我们的关联公司共享。但我们只会共享必要的个人信息（如为便于您使用肆块伍账号登陆并使用关联公司的其他产品或服务，识别账号异常或保护肆块伍关联公司或其他用户或公众的人身财产安全免遭侵害，我们会在关联公司内共享您必要的账户信息），如果我们共享您的个人敏感信息或者关联方改变个人信息的使用目的，将再次征求您的授权同意。
+    
+    1.5 为提升相关领域的科研能力，促进科技发展水平，我们在确保数据安全与目的正当的情形下，可能会与科研所、高校等机构共享去标识化或匿名化的数据；
+1.6 为了向您提供更完善、优质的产品和服务，我们的某些服务将由授权合作伙伴提供。
+我们可能会与合作伙伴共享您的某些个人信息，以提供更好的客户服务和用户体验。
+我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。同时，我们会与合作伙伴签署严格的保密协定，要求他们按照我们的说明、本隐私政策以及其他任何相关的保密和安全措施来处理您的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。如果您拒绝我们的合作伙伴在提供服务时收集为提供服务所必须的个人信息，将可能导致您无法在我们的平台中使用该第三方服务。
+通常我们的合作伙伴有如下几类：
+  
+        1.6.1 为我们的产品与/或服务提供功能支持的服务提供商：例如提供支付服务的支付机构，我们共享信息的目的仅为实现我们产品与/或服务的功能； 
+ 
+        1.6.2 第三方SDK类服务商：
+我们的产品中可能会包含第三方SDK或其他类似的应用程序，如您在我们平台上使用这类由第三方提供的服务时，
+您同意将由其直接收集和处理您的信息（如以嵌入代码、插件等形式）；此时，第三方SDK服务商将获取您的某些个人信息，以提供更好的客户服务和用户体验。详见
+《SDK技术说明文档》
+您拒绝向第三方机构提供信息仅会使您无法使用第三方机构提供的技术所搭载的功能，但不影响您使用我们产品与/或服务的其他功能；
+ 
+        1.6.3
+您确认我们有权与委托我们进行信息推广和广告投放的合作伙伴共享我们使用您的相关信息集合形成的间接用户画像、去标识化或匿名化处理后的分析/统计类信息，
+以帮助其进行广告或决策建议、提高广告有效触达率、进一步了解用户需求；我们可能与业务的服务商、供应商和其他合作伙伴共享分析去标识化的设备信息或统计信息，这些信息难以或无法与您的真实身份相关联。这些信息将帮助我们分析、衡量广告和相关服务的有效性。我们承诺：未经您的同意，我们不会与其共享可以识别您身份的个人信息；
+ 
+        1.6.4 当您选择参加我们及我们的关联方或第三方举办的有关营销活动时，
+可能需要您提供姓名、通信地址、联系方式、银行账号信息。这些信息是个人敏感信息，拒绝提供可能会影响您参加相关活动，但不会影响我们产品及/或服务的其他功能。
+只有经过您的同意，我们才会将这些信息与关联方或第三方共享，以保障您在联合活动中获得体验一致的服务，或委托第三方及时向您兑现奖励。
+  
+  2. 转让
+  
+  我们不会将您的个人信息转让给任何公司、组织和个人，
+但以下情况除外：
+2.1
+在获取明确同意的情况下转让：
+获得您的明确同意后，我们会向其他方转让您的个人信息；
+  
+  2.2 随着我们业务的持续发展，
+我们将有可能进行合并、收购、资产转让，您的个人信息有可能因此而被转移。
+在发生前述变更时，我们将按照法律法规及不低于本隐私政策所载明的安全标准要求继受方保护您的个人信息，否则我们将要求继受方重新征得您的授权同意。
+  
+  3.
+公开披露
+3.1 公开披露是指向社会或不特定人群发布信息的行为。
+除了因需要对违规账号、欺诈行为等进行处罚公告、公布中奖/获胜者等名单时脱敏展示相关信息等必要事宜而进行的必要披露，以及您公开发布的内容外，我们不会对您的个人信息进行公开披露，
+如具备合理事由确需公开披露的，我们会在公开披露前向您告知公开披露的信息的目的、类型（如涉及您的个人敏感信息的，我们还会向您告知涉及的敏感信息的内容），并在征得您的授权同意后再公开披露，但法律法规另有规定的或本政策另有约定的除外；
+  
+  3.2 对于公开披露的您的个人信息，我们会在收到公开披露申请后第一时间且审慎审查其正当性、合理性、合法性，并在公开披露时和公开披露后采取最严格个人信息安全保护措施和手段对其进行保护。
+4. 共享、转让、公开披露您的个人信息的例外
+  
+  请您知悉，根据法律法规的规定，在下述情况下，共享、转让、公开披露您的个人信息无需事先征得您的授权同意：
+4.1 与国家安全、国防安全直接相关的；
+  
+  4.2 与公共安全、公共卫生、重大公共利益直接相关的；
+  
+  4.3 与犯罪侦查、起诉、审判和判决执行等直接相关的；或根据法律法规的要求、行政机关或公检法等有权机关的要求的；
+  
+  4.4 出于维护您或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；
+  
+  4.5 个人信息是您自行向社会公开的或者是从合法公开的渠道（如合法的新闻报道、政府信息公开等渠道）中收集到的；
+  
+  4.6 根据与您签订和履行相关协议或其他书面文件所必需的；
+  
+  4.7 法律法规等规定的其他情形。
+六、关于如何使用Cookie和同类技术
+1. 当您使用我们产品或服务时，
+我们可能会使用Cookie和同类技术收集您的一些个人信息，包括：您访问网站的习惯、您的浏览信息、您的登录信息，Cookie和同类技术收集该类信息是为了您使用我们的产品与/或服务的必要、简化您重复操作的步骤（如注册、登录）、便于您查看使用历史、保护您的信息和账号安全性、提升我们的产品和服务等。
+2. 如果您拒绝我们使用Cookie及同类技术收集和使用您的相关信息，您可以删除已经储存在您的计算机、移动设备或其他装置内的Cookie与/或同类技术，从而实现我们无法全部或部分追踪您的个人信息。
+您理解并知悉：
+我们的产品/服务只能通过使用Cookie或同类技术才可得到实现，如您拒绝使用或删除的，您可能将无法正常使用我们的相关产品与/或服务或无法通过我们的产品与/或服务获得最佳的服务体验，同时也可能会对您的信息保护和账号安全性造成一定的影响。
+七、我们如何保护个人信息的安全
+1. 信息存储
+    1.1. 存储地点：我们依照法律法规的规定，仅会将收集到的有关您的个人信息存储于中华人民共和国境内。目前我们暂时不存在跨境存储您的个人信息或向境外提供个人信息的场景。如果确有必要进行数据的跨境传输，我们会单独向您明确告知（包括数据出境的目的、接收方、使用方式与范围、使用内容、安全保障措施、安全风险等），并征得您的授权同意，我们会确保数据接收方有充足的数据保护能力来保护您的个人信息。
+    1.2. 存储期限：我们在为您提供满足产品和服务目的所必需且最短的期间内保留您的个人信息，例如：当您使用我们的注册及会员功能时，我们需要收集您的手机号码，且在您提供后并在您使用该功能期间，我们需要持续保存您的手机号码，以向您正常提供该功能、保障您的账号和系统安全。此外，我们或对您的相关信息保存至相关法律所规定的必要期限。
+    1.3. 在超出上述存储期限后，我们会对您的个人信息进行删除或匿名化处理。
+  2. 信息保护
+  
+    2.1 您的个人信息安全对于我们至关重要。我们将严格遵守相关法律法规，采取业内认可的合理可行的措施，保护您的个人信息。防止信息遭到未经授权的访问、披露、使用、修改，避免信息损坏或丢失。
+    
+    2.2 我们使用符合业界标准的安全防护措施保护您提供的个人信息，防止数据遭到未经授权的访问、公开披露、使用、修改，防止数据发生损坏或丢失。我们会采取一切合理可行的措施，保护您的个人信息。我们已建立访问控制机制，确保只有授权人员才可以访问个人信息；我们不时的举办安全和隐私保护培训课程，加强员工对于保护个人信息重要性的认识。
+    为防止安全事故的发生，我们成立了专门的数据安全部门并制定了妥善的预警机制和应急预案。一旦发生个人信息安全事件，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议和对您的补救措施，并立即启动应急预案，力求将损失最小化。我们将及时将事件相关情况以电话、推送通知等方式告知您。
+ 
+    2.3 为防止安全事故的发生，我们成立了专门的数据安全部门并制定了妥善的预警机制和应急预案。一旦发生个人信息安全事件，我们将按照法律法规的要求，及时向您告知：安全事件的基本情况和可能的影响、我们已采取或将要采取的处置措施、您可自主防范和降低风险的建议和对您的补救措施，并立即启动应急预案，力求将损失最小化。我们将及时将事件相关情况以电话、推送通知等方式告知您。
+    
+    2.4 尽管已经采取了上述合理有效措施，并已经遵守了相关法律规定要求的标准，
+但请您理解，由于技术的限制以及可能存在的各种恶意手段，在互联网行业，即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全，我们将尽力确保您提供给我们的个人信息的安全性。
+2.5 您知悉并理解，您接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。因此，
+我们强烈建议您采取积极措施保护个人信息的安全，包括但不限于不将自己的账号密码及相关个人信息透露给他人等。
+如您发现自己的个人信息尤其是您的账户或密码发生泄露，请您立即联络肆块伍客服，以便我们根据您的申请采取相应措施。
+ 
+  3. 我们会建立专门的安全部门、安全管理制度、数据安全流程保障您的个人信息安全。我们采取严格的数据使用和访问制度，确保只有授权人员才可访问您的个人信息，并适时对数据和技术进行安全审计。
+八、您如何管理您的个人信息
+我们非常重视您对个人信息的管理，并尽全力保护您对于您个人信息的查询、访问、修改、删除、撤回同意授权、注销账号、投诉举报的相关权利，以使您有能力保障您的隐私和信息安全。
+1. 访问您的个人信息
+除法律法规规定的情况或司法机关或行政机关另有要求外，您有权访问您的个人信息。您可以通过以下方式自行访问您的个人信息：
+  
+  1.1
+账户信息：
+如果您希望访问或编辑您的账户中的个人证件信息、手机绑定、支付信息、安全信息等，您可以在登录账户后通过“我”的页面执行此类操作；
+  
+  1.2
+使用信息：
+您可以通过我们产品相关页面查询您的使用信息，包括：动态发布内容、历史记录、交易信息等；
+  
+  1.3
+其他信息：
+如果您在访问过程中遇到操作问题需要获取其他前述无法获知的个人信息内容的，您可以随时通过肆块伍客服与我们取得联系。我们将尽快审核所涉问题，并由专人验证您的用户身份后及时予以回复。
+2. 更正或补充您的个人信息
+当您发现您提供给我们的信息存在错误、不完整时，或有更新时，您可以通过本条“1. 访问您的个人信息”中列明的方式提出更正或补充申请。我们将在审核后及时予以回复。
+3. 删除您的个人信息
+  
+  您可以通过本条“1. 访问您的个人信息”中列明的方式删除您的个人信息。
+  
+  在以下情形中，您可以向我们提出删除个人信息的请求：
+3.1 如果我们处理个人信息的行为违反法律法规；
+  
+  3.2 如果我们收集、使用您的个人信息，却未征得您的同意；
+  
+  3.3 如果我们处理个人信息的行为严重违反了与您的约定；
+  
+  3.4 如果您不再使用我们的产品或服务，或您主动注销了账户；
+  
+  3.5 如果我们永久不再为您提供产品或服务。
+  
+  若我们决定响应您的删除请求，我们还将同时尽可能通知从我们处获得您的个人信息的主体，要求其及时删除，但法律法规另有规定，或这些主体获得您的独立授权的除外。同时请您知悉，若您在肆块伍的公开信息被其它用户或与我们没有合作、关联以及不受我们控制的独立第三方抓取、缓存、储存、复制，或通过其它用户在其它网站上传、保存时，相关信息将不受我们的控制。
+当您从我们的产品或服务中删除您的个人信息后，按照法律法规的要求我们可能不会立即从备份系统中删除相应的信息，但会在备份更新时删除这些信息。
+4. 改变您授权同意的范围
+4.1 您可以在设备本身操作系统中关闭地理位置、摄像头、麦克风、相册权限改变同意范围或撤回您的授权。撤回授权后我们将不再收集与这些权限相关信息；
+  
+  4.2
+特定的业务功能和服务将需要您的信息才能得以完成，当您撤回同意或授权后，我们无法继续为您提供撤回同意或授权所对应的功能和服务，也不再处理您相应的个人信息。但您撤回同意或授权的决定，不会影响我们此前基于您的授权而开展的个人信息处理。
+5. 注销账户
+  
+  您可以通过“我”-“设置”页面里“安全中心”进行账号注销，在您注销账号前，我们将验证您的个人身份、安全状态、设备信息等。
+有关注销的流程和内容，请参见注销页面的提示。
+您知悉并理解，注销账号的行为是不可逆的行为，当您注销账号后，您将无法以该账号登录和使用我们的产品，同时该账号在肆块伍旗下已产生的内容和权益、已产生未消耗的权益以及未来的逾期利益等将全部清除；该账号下的全部信息将会被删除或匿名化处理，但法律法规另有规定的除外，如依据《中华人民共和国网络安全法》规定，您的网络操作日志将至少保留六个月的时间。
+您在注销过程中有任何疑问的，可及时联系肆块伍客服解决。
+6. 投诉举报
+您可以按照我们公示的制度进行投诉或举报。如果您认为您个人信息权利可能受到侵害，或者发现侵害个人信息权利的线索，您可以在【我】-【投诉与反馈】，进入相关界面与我们联系，您可能需要按照我们的要求提供一些材料证明您的身份。我们核查后会在15日内反馈您的投诉与举报。
+对于某些无端重复、给他人合法权益带来风险或者非常不切实际的请求，我们可能会予以拒绝。
+7. 在以下情形中，按照法律法规要求，我们将无法响应您的请求：
+7.1 与国家安全、国防安全有关的；
+  
+  7.2 与公共安全、公共卫生、重大公共利益有关的；
+  
+  7.3 与犯罪侦查、起诉、审判和执行判决等有关的；
+  
+  7.4 有充分证据表明个人信息主体存在主观恶意或滥用权利的；
+  
+  7.5 响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的；
+  
+  7.6 涉及商业秘密的。
+九、我们如何处理未成年人的个人信息
+ 
+  我们的产品及/或服务仅面向成年人，任何18岁以下的未成年人不应创建自己的个人账户及/或使用我们的产品及/或服务。如我们发现收集了未成年人的个人信息，我们将会设法尽快删除相关数据。
+  
+十、如何存储个人信息
+1. 我们依照法律法规的规定，将在境内运营过程中收集和产生的您的个人信息存储于中华人民共和国境内。目前，我们不会将上述信息传输至境外，如果未来出现个人信息跨境传输的情况，我们将会严格遵守中华人民共和国法律法规的相关规定，并获取您的明确授权，但是您通过互联网进行跨境发布动态等个人主动行为除外。
+  
+  2.
+一般而言，我们仅在为实现目的所必需的最短时间内保留您的个人信息，超过相应期限内的个人信息将会删除或匿名化进行处理。但在下列情况下，我们有可能因需符合法律要求，更改个人信息的存储时间：
+2.1 为遵守适用的法律法规或政策等规范性文件的有关规定；
+  
+  2.2 为遵守行政机关或类似授权组织的决定等、司法机关判决、裁定、仲裁机关的裁决或其他法律程序的规定；
+  
+  2.3 我们有理由确信需要遵守法律法规等有关规定；
+  
+  2.4 为执行相关服务协议或本政策、维护社会公共利益，为保护们的客户、我们或我们的关联公司、其他用户或雇员等第三方的人身财产安全或其他合法权益所合理必需的用途；
+  
+  2.5 当肆块伍发生停止运营的情形时，我们将采取推送通知、网站或程序内公告等形式通知您，并在合理的期限内删除或匿名化处理您的个人信息。
+十一、我们如何收集和使用您的个人信息
+个人信息是指以电子或者其他方式记录的能够单独或者与其他信息结合识别特定自然人身份或者反映特定自然人活动情况的各种信息，我们会出于本政策所述的以下目的，收集和使用您的个人信息：
+（一）帮助您成为我们的用户
+为完成创建账号，以便我们为您提供服务，您需要提供以下信息：您的昵称、头像、性别、出生年月日、手机号码/微信号/QQ号等。
+在注册过程中，您至少需要向我们提供您本人的手机号码，我们将通过发送短信验证码的方式来验证您的身份是否有效。如果您不提供这些信息，您将无法注册肆块伍平台账户，无法体验我们带来的服务。
+在注册过程中，如果您提供以下额外信息补全个人资料，将有助于我们给您提供更好的服务和体验：您的真实姓名、真实证件信息、家乡、情感状态、星座、职业、学校、您本人的真实头像。但如果您不提供这些信息，将不会影响使用我们的产品或服务的基本功能。您有权选择提供或者不提供这些信息。
+您提供的上述信息将在您使用本服务期间持续授权我们使用。在您主动注销账号时，我们将根据适用法律法规的要求尽快使其匿名或删除您的个人信息。
+（二）实名认证
+您需通过实名认证与实人认证。您需要向我们提供您本人的身份信息用于身份核验，包括真实的姓名、公民身份号码、性别、年龄以及面部识别信息（实现核验功能后立即删除）。
+（三）定位功能
+为了保障用户安全，当您需要使用定位功能时，我们在首次会通过弹窗申请获取您的位置信息（GPS定位）；经您授权同意后，再获取您的位置权限，例如您所在的城市、地区等。我们承诺仅收集您当时所处的位置，不会追踪您的行踪轨迹。如果拒绝授权，您仅能使用不需要位置信息的功能。
+
+温馨提示：本APP无法保证推荐算法的绝对精准，也无法确保您百分百满意本软件的推荐服务，无论有偿还是免费。如果您对算法推荐的信息匹配度有任何不满的，可通过人工客服向我们反馈您的意见。
+（五）向您提供商品或服务
+1、您向我们提供的信息
+您在注册账户或使用我们的服务时，向我们提供的相关个人信息，例如电话号码、电子邮件、银行卡号或支付宝账号等；
+您通过我们的服务向其他方提供的共享信息，以及您使用我们的服务时所储存的信息。向我们提供该其他方的前述个人信息之前，您需确保您已经取得其授权同意，否则将由您自行承担包括侵权责任在内的一切不利后果。
+2、我们在您使用服务过程中收集的信息
+为向您提供更契合您需求的页面展示和搜索结果、了解推荐适配性、识别账号异常状态，同时也可能用于统计我们产品的用户数量、分析产品的使用状况、网页升级改版、浏览器兼容性检测、排查崩溃原因、减少崩溃情况、打击违法违规行为及防止软件用户个人信息泄露，我们会收集关于您使用的服务以及使用方式的信息并将这些信息进行关联，这些信息包括：
+设备信息：我们会根据您在软件安装及使用中授予的具体权限，接收并记录您所使用的设备相关信息（例如设备型号、操作系统版本、设备设置、唯一设备标识符等软硬件特征信息）、设备所在位置相关信息（例如IP 地址、GPS位置以及能够提供相关信息的Wi-Fi 接入点、蓝牙和基站等传感器信息，因我们提供的服务系基于地理位置提供的移动社交服务，您确认成功注册帮客侠账号视为确认授权我们提取、公开及使用您的地理位置信息。
+日志信息：当您使用我们的网站或客户端提供的服务时，我们会自动收集您对我们服务的详细使用情况，作为有关网络日志保存。例如您的搜索查询内容、IP地址、浏览器的类型、电信运营商、使用的语言、访问日期和时间及您访问的网页记录等。
+请注意，单独的设备信息、日志信息等是无法识别特定自然人身份的信息。如果我们将这类非个人信息与其他信息结合用于识别特定自然人身份，或者将其与个人信息结合使用，则在结合使用期间，这类非个人信息将被视为个人信息，除取得您授权或法律法规另有规定外，我们会将该类个人信息做匿名化、去标识化处理。
+当您与我们联系时，我们可能会保存您的通信/通话记录和内容或您留下的联系方式等信息，以便与您联系或帮助您解决问题，或记录相关问题的处理方案及结果。
+3、我们通过间接获得方式收集到的您的个人信息
+您可通过我们提供的链接入口使用我们及我们的关联公司提供的产品或服务，为便于我们基于关联账号共同向您提供一站式服务并便于您统一进行管理，我们集中展示您的信息或推荐您的信息。当您通过我们产品或服务使用上述服务时，您授权我们根据实际业务及合作需要从我们及我们关联公司处接收、汇总、分析我们确认其来源合法或您授权同意其向我们提供的您的个人信息或交易信息。
+如您拒绝提供上述信息或拒绝授权，可能无法使用我们及我们的关联公司的相应产品或服务，或者无法展示相关信息，但不影响使用我们提供的浏览、聊天、发布求职信息等基础服务。
+（六）为您提供安全保障
+请注意，为确保用户身份真实性、向您提供更好的安全保障，您可以向我们提供身份证、护照等身份信息、面部特征等生物识别信息完成实名认证。同时为处理您的投诉举报、申诉，我们还会使用您的手机号、邮箱地址、微信、沟通记录等通讯信息。
+为提高您使用我们及我们关联公司、合作伙伴提供服务的安全性，保护您或其他用户或公众的人身财产安全免遭侵害，更好地预防钓鱼网站、欺诈、网络漏洞、计算机病毒、网络攻击、网络侵入等安全风险，更准确地识别违反法律法规或相关政策规则的情况，我们可能使用或整合您的用户信息、交易信息、设备信息、有关网络日志以及我们关联公司、合作伙伴取得您授权或依据法律共享的信息，来综合判断您账户及交易风险、进行身份验证、检测及防范安全事件，并依法采取必要的记录、审计、分析、处置措施。
+（七）其他用途
+我们将信息用于本政策未载明的其他用途，或者将基于特定目的收集而来的信息用于其他目的时，会事先征求您的同意。
+我们使用了第三方（上海游昆信息技术有限公司，以下称“MobTech”）MobTech ShareSDK服务为您提供社交分享、第三方登录社交分享、第三方登录功能。为了顺利实现该功能，您需要授权MobTechSDK提供对应的服务;在您授权后，MobTech将收集您相关的个人信息。关于MobTech所收集的信息种类、用途、个人信息保护的规则及退出机制等，详见MobTech官网（www.mob.com）上的隐私政策 （www.mob.com/about/policy）条款。
+为了调起您终端用户设备中社交平台APP以实现第三方登录和社会化分享，我们会读取您终端用户的系统在装应用列表信息。为了完成第三方登录和社会化分享统计服务，应用列表信息只做读取，该读取不是采集信息，不会持久保存；
+我们使用了第三方 （友盟同欣（北京）科技有限公司，以下称“友盟”）
+【友盟+】统计分析服务帮助您了解您的最终用户如何使用您的产品（含服务，包括但不限于移动应用客户端、移动网站、应用平台、PC网站、站点及【友盟+】确认可提供服务的其他终端等，以下同），并且帮助您分析您的产品在不同终端设备上的表现。当您在产品里集成了【友盟+】统计分析工具之后，您的产品就通过【友盟+】统计分析工具收集和传送数据到我们的服务器。我们收集唯一设备识别码（IMEI/Mac/android ID/IDFA/OPENUDID/GUID、SIM 卡 IMSI 信息）以提供统计分析服务，并通过地理位置校准报表数据准确性，提供基础反作弊能力。
+除上述个人信息外，统计分析服务将根据统计维度的不同采集如下信息：SDK/API/JS代码版本、浏览器、互联网服务提供商、平台、时间戳、应用标识符、应用程序版本、应用分发渠道、独立设备标识符、设备型号、传感器参数、终端制造厂商、终端设备操作系统版本、会话启动/停止时间、语言所在地、时区和网络状态（WiFi等）、硬盘、CPU和电池使用情况等。 隐私权政策链接：https://www.umeng.com/page/policy
+我们获取了录制音频权限 ： 集成腾讯音视频IM 方便您与您的好友发送语音消息，方便彼此的沟通，可以拒绝授权
+我们获取了相机权限  集成腾讯音视频IM 方便您与您的好友相机拍摄视频与照片消息，分享身边的每一帧精彩瞬间，可以拒绝授权
+（八）征得授权同意的例外
+根据相关法律法规规定，以下情形中收集您的个人信息无需征得您的授权同意：
+1、与国家安全、国防安全有关的；
+2、与公共安全、公共卫生、重大公共利益有关的；
+3、与犯罪侦查、起诉、审判和判决执行等有关的；
+4、出于维护个人信息主体或其他个人的生命、财产等重大合法权益但又很难得到您本人同意的；
+5、所收集的个人信息是您自行向社会公众公开的；
+6、从合法公开披露的信息中收集个人信息的，如合法的新闻报道、政府信息公开等渠道；
+7、根据您的要求签订和履行合同所必需的；
+8、用于维护所提供的产品或服务的安全稳定运行所必需的，例如发现、处置产品或服务的故障；
+9、为合法的新闻报道所必需的；
+10、学术研究机构基于公共利益开展统计或学术研究所必要，且对外提供学术研究或描述的结果时，对结果中所包含的个人信息进行去标识化处理的；
+11、法律法规规定的其他情形。
+如我们停止运营网站、产品或服务，我们将及时停止继续收集您个人信息的活动，将停止运营的通知以逐一送达或公告的形式通知您，对所持有的个人信息进行删除或匿名化处理。
+（九）注销账号
+ 注销账号请联系我们客服人员;
+ 
+十二、如何联系我们
+如果您对本政策的内容或使用我们的产品及/或服务过程中遇到与本政策相关的问题、投诉、建议的，您可以通过如下任一方式与我们取得联系：
+  
+  1. 您可以通过我们产品功能页面中的在线客服在线提交反馈意见；
+  
+  2. 您可以通过拨打4009963111客服电话联系我们；
+  
+  3. 您可以写信至：深圳市龙华区龙华街道清华社区清龙路6号港之龙科技园商务中心A、B栋B栋8层809。
+  
+  我们将尽快审核所涉问题，并在验证您的用户身份后的十五个工作日内回复。
+
+更新日期：2022年4月20日 -生效日期：2022年4月21日
+ 
+
+
+
+
+
+基本
+文件
+流程
+错误
+SQL
+调试
+
+
+
+
+请求信息 : 2022-05-27 19:29:49 HTTP/1.1 GET : app.xfyh4k5.com/admin/public/portal/article/index/id/7.html运行时间 : 0.206511s [ 吞吐率：4.84req/s ] 内存消耗：4,692.98kb 文件加载：90查询信息 : 25 queries 10 writes 缓存信息 : 1 reads,0 writes配置加载 : 71 
+
+
+
+/www/wwwroot/app.xfyh4k5.com/admin/public/index.php ( 1.63 KB )/www/wwwroot/app.xfyh4k5.com/public/config.php ( 0.08 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/base.php ( 2.66 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Loader.php ( 19.57 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/composer/autoload_namespaces.php ( 0.44 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/composer/autoload_psr4.php ( 0.66 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/composer/autoload_classmap.php ( 1.27 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/composer/autoload_files.php ( 0.56 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/topthink/think-captcha/src/helper.php ( 1.66 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Route.php ( 60.15 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Config.php ( 6.33 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Validate.php ( 40.47 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/ezyang/htmlpurifier/library/HTMLPurifier.composer.php ( 0.10 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/topthink/think-helper/src/helper.php ( 2.97 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/qiniu/php-sdk/src/Qiniu/functions.php ( 7.92 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/vendor/qiniu/php-sdk/src/Qiniu/Config.php ( 3.38 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Error.php ( 3.70 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/convention.php ( 10.39 KB )/www/wwwroot/app.xfyh4k5.com/system/define.php ( 1.17 KB )/www/wwwroot/app.xfyh4k5.com/system/common.php ( 8.24 KB )/www/wwwroot/app.xfyh4k5.com/system/RedisPackage.php ( 4.02 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/App.php ( 20.91 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Request.php ( 50.24 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/config.php ( 9.57 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/database.php ( 0.76 KB )/www/wwwroot/app.xfyh4k5.com/admin/data/conf/database.php ( 0.66 KB )/www/wwwroot/app.xfyh4k5.com/public/db.php ( 1.48 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/debug.php ( 0.80 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Hook.php ( 4.76 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/tags.php ( 1.26 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/common.php ( 13.57 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Env.php ( 1.25 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/common.php ( 49.77 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/helper.php ( 17.87 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Debug.php ( 7.06 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/behavior/InitHookBehavior.php ( 1.19 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Db.php ( 6.60 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Log.php ( 5.84 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/db/connector/Mysql.php ( 3.94 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/db/Connection.php ( 30.00 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/db/Query.php ( 90.09 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/db/builder/Mysql.php ( 2.16 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/db/Builder.php ( 31.15 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Collection.php ( 8.75 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Lang.php ( 7.13 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/lang/zh-cn.php ( 3.92 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/route.php ( 0.77 KB )/www/wwwroot/app.xfyh4k5.com/admin/data/conf/route.php ( 0.02 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/behavior/LangBehavior.php ( 1.21 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/lang/zh-cn.php ( 3.14 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/admin/lang/zh-cn/common.php ( 0.61 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/lang/zh-cn/common.php ( 0.78 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/lang/zh-cn.php ( 0.95 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/controller/ArticleController.php ( 5.80 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/controller/HomeBaseController.php ( 7.02 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/controller/BaseController.php ( 2.42 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Controller.php ( 6.20 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/traits/controller/Jump.php ( 4.74 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Cache.php ( 6.17 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/cache/driver/File.php ( 7.05 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/cache/Driver.php ( 5.99 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/View.php ( 6.86 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/view/driver/Think.php ( 5.61 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Template.php ( 46.16 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/template/driver/File.php ( 2.24 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/behavior/HomeLangBehavior.php ( 1.13 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/lang/zh-cn/home.php ( 0.63 KB )/www/wwwroot/app.xfyh4k5.com/system/cache/config.auto_cache.php ( 0.69 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/model/PortalCategoryModel.php ( 7.07 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Model.php ( 67.03 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/service/PostService.php ( 7.42 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/model/PortalPostModel.php ( 10.16 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/model/relation/BelongsToMany.php ( 17.80 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/model/Relation.php ( 3.24 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/model/Pivot.php ( 1.25 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/model/Collection.php ( 2.77 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/admin/model/ThemeModel.php ( 8.14 KB )/www/wwwroot/app.xfyh4k5.com/admin/app/portal/taglib/Portal.php ( 6.61 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/template/TagLib.php ( 12.64 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/lib/taglib/Cmf.php ( 11.44 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/template/taglib/Cx.php ( 24.48 KB )/www/wwwroot/app.xfyh4k5.com/admin/data/runtime/temp/2faf1a27aa91285b84c57d0f1993c928.php ( 3.52 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/extend/phpQuery/phpQuery.php ( 168.98 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/lib/Storage.php ( 4.04 KB )/www/wwwroot/app.xfyh4k5.com/admin/public/plugins/qiniu/lib/Qiniu.php ( 4.17 KB )/www/wwwroot/app.xfyh4k5.com/admin/public/plugins/qiniu/QiniuPlugin.php ( 1.66 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/lib/Plugin.php ( 7.60 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/cmf/lib/storage/Local.php ( 2.97 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/Response.php ( 8.66 KB )/www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/library/think/debug/Html.php ( 4.27 KB ) 
+
+
+
+[ DB ] INIT mysql[ BEHAVIOR ] Run cmf\behavior\InitHookBehavior @app_init [ RunTime:0.018782s ][ LANG ] /www/wwwroot/app.xfyh4k5.com/admin/simplewind/thinkphp/lang/zh-cn.php[ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'portal',
+    1 => 'article',
+    2 => 'index',
+  ),
+)[ HEADER ] array (
+  'accept' => '*/*',
+  'accept-encoding' => 'gzip, deflate, br',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.63 Safari/537.36',
+  'connection' => 'close',
+  'x-forwarded-for' => '36.46.15.141',
+  'host' => 'app.xfyh4k5.com',
+  'remoteip' => '36.46.15.141',
+  'content-type' => '',
+  'content-length' => '',
+)[ PARAM ] array (
+  'id' => '7',
+)[ LANG ] /www/wwwroot/app.xfyh4k5.com/admin/public/../simplewind/cmf/lang/zh-cn.php[ LANG ] /www/wwwroot/app.xfyh4k5.com/admin/public/../app/admin/lang/zh-cn/common.php[ LANG ] /www/wwwroot/app.xfyh4k5.com/admin/public/../app/portal/lang/zh-cn/common.php[ BEHAVIOR ] Run cmf\behavior\LangBehavior @app_begin [ RunTime:0.000389s ][ LANG ] /www/wwwroot/app.xfyh4k5.com/admin/public/../app/portal/lang/zh-cn.php[ CACHE ] INIT File[ LANG ] /www/wwwroot/app.xfyh4k5.com/admin/public/../app/portal/lang/zh-cn/home.php[ BEHAVIOR ] Run cmf\behavior\HomeLangBehavior @home_init [ RunTime:0.000276s ][ RUN ] app\portal\controller\ArticleController->index[ /www/wwwroot/app.xfyh4k5.com/admin/app/portal/controller/ArticleController.php ][ VIEW ] themes/simpleboot3/portal/article.html [ array (
+  0 => 'site_info',
+  1 => 'config',
+  2 => 'category',
+  3 => 'article',
+  4 => 'prev_article',
+  5 => 'next_article',
+  6 => 'theme_vars',
+  7 => 'theme_widgets',
+) ] 
+
+
+
+
+
+
+
+[ DB ] CONNECT:[ UseTime:0.006244s ] mysql:dbname=bogo_xq;host=rm-bp14h18kcpaq9s7dv.mysql.rds.aliyuncs.com;port=3306;charset=utf8mb4[ SQL ] SHOW COLUMNS FROM `cmf_hook_plugin` [ RunTime:0.004573s ][ SQL ] SELECT `hook`,`plugin` FROM `cmf_hook_plugin` WHERE  `status` = 1 ORDER BY list_order ASC [ RunTime:0.004166s ][ SQL ] SHOW COLUMNS FROM `cmf_config` [ RunTime:0.004399s ][ SQL ] SELECT * FROM `cmf_config` [ RunTime:0.006461s ][ SQL ] SHOW COLUMNS FROM `cmf_portal_post` [ RunTime:0.004312s ][ SQL ] SELECT `post`.* FROM `cmf_portal_post` `post` WHERE  `post`.`post_type` = 1  AND ( `post`.`published_time` <  '1653650989' AND `post`.`published_time` >  '0' )  AND `post`.`post_status` = 1  AND `post`.`delete_time` = 0  AND `post`.`id` = '7' LIMIT 1 [ RunTime:0.014115s ][ SQL ] SELECT `post`.* FROM `cmf_portal_post` `post` WHERE  `post`.`post_type` = 1  AND ( `post`.`published_time` <  '1653650989' AND `post`.`published_time` >  '0' )  AND `post`.`post_status` = 1  AND `post`.`delete_time` = 0  AND `post`.`id` < '7' ORDER BY `id`  DESC LIMIT 1 [ RunTime:0.004224s ][ SQL ] SELECT `post`.* FROM `cmf_portal_post` `post` WHERE  `post`.`post_type` = 1  AND ( `post`.`published_time` <  '1653650989' AND `post`.`published_time` >  '0' )  AND `post`.`post_status` = 1  AND `post`.`delete_time` = 0  AND `post`.`id` > '7' ORDER BY `id`  ASC LIMIT 1 [ RunTime:0.004166s ][ SQL ] SHOW COLUMNS FROM `cmf_portal_category_post` [ RunTime:0.004246s ][ SQL ] SHOW COLUMNS FROM `cmf_portal_category` [ RunTime:0.004242s ][ SQL ] SELECT `cmf_portal_category`.*,pivot.id AS pivot__id,pivot.post_id AS pivot__post_id,pivot.category_id AS pivot__category_id,pivot.list_order AS pivot__list_order,pivot.status AS pivot__status FROM `cmf_portal_category` INNER JOIN `cmf_portal_category_post` `pivot` ON `pivot`.`category_id`=`cmf_portal_category`.`id` WHERE  `pivot`.`post_id` = 7 [ RunTime:0.004144s ][ SQL ] UPDATE `cmf_portal_post`  SET `post_hits`=post_hits+1  WHERE  `id` = 7 [ RunTime:0.005526s ][ SQL ] SHOW COLUMNS FROM `cmf_theme_file` [ RunTime:0.004354s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/article' LIMIT 1 [ RunTime:0.004036s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='portal/Article/index',`file`='portal/article',`name`='文章页',`more`='{\"vars\":{\"hot_articles_category_id\":{\"title\":\"Hot Articles\\u5206\\u7c7bID\",\"name\":\"hot_articles_category_id\",\"value\":\"1\",\"type\":\"text\",\"tip\":\"\",\"rule\":[]}}}',`config_more`='{\"vars\":{\"hot_articles_category_id\":{\"title\":\"Hot Articles\\u5206\\u7c7bID\",\"name\":\"hot_articles_category_id\",\"value\":\"1\",\"type\":\"text\",\"tip\":\"\",\"rule\":[]}}}',`description`='文章页模板文件',`is_public`=0,`list_order`=10  WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/article' [ RunTime:0.004100s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/contact' LIMIT 1 [ RunTime:0.004053s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='portal/Page/index',`file`='portal/contact',`name`='联系我们页',`more`='{\"vars\":{\"baidu_map_info_window_text\":{\"title\":\"\\u767e\\u5ea6\\u5730\\u56fe\\u6807\\u6ce8\\u6587\\u5b57\",\"name\":\"baidu_map_info_window_text\",\"value\":\"ThinkCMF<br\\/><span class=\'\'>\\u5730\\u5740\\uff1a\\u4e0a\\u6d77\\u5e02\\u5f90\\u6c47\\u533a\\u659c\\u571f\\u8def2601\\u53f7<\\/span>\",\"type\":\"text\",\"tip\":\"\\u767e\\u5ea6\\u5730\\u56fe\\u6807\\u6ce8\\u6587\\u5b57,\\u652f\\u6301\\u7b80\\u5355html\\u4ee3\\u7801\",\"rule\":[]},\"company_location\":{\"title\":\"\\u516c\\u53f8\\u5750\\u6807\",\"value\":\"\",\"type\":\"location\",\"tip\":\"\",\"rule\":{\"require\":true}},\"address_cn\":{\"title\":\"\\u516c\\u53f8\\u5730\\u5740\",\"value\":\"\\u4e0a\\u6d77\\u5e02\\u5f90\\u6c47\\u533a\\u659c\\u571f\\u8def0001\\u53f7\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"address_en\":{\"title\":\"\\u516c\\u53f8\\u5730\\u5740\\uff08\\u82f1\\u6587\\uff09\",\"value\":\"NO.0001 Xie Tu Road, Shanghai China\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"email\":{\"title\":\"\\u516c\\u53f8\\u90ae\\u7bb1\",\"value\":\"catman@thinkcmf.com\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"phone_cn\":{\"title\":\"\\u516c\\u53f8\\u7535\\u8bdd\",\"value\":\"021 1000 0001\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"phone_en\":{\"title\":\"\\u516c\\u53f8\\u7535\\u8bdd\\uff08\\u82f1\\u6587\\uff09\",\"value\":\"+8621 1000 0001\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"qq\":{\"title\":\"\\u8054\\u7cfbQQ\",\"value\":\"478519726\",\"type\":\"text\",\"tip\":\"\\u591a\\u4e2a QQ\\u4ee5\\u82f1\\u6587\\u9017\\u53f7\\u9694\\u5f00\",\"rule\":{\"require\":true}}}}',`config_more`='{\"vars\":{\"baidu_map_info_window_text\":{\"title\":\"\\u767e\\u5ea6\\u5730\\u56fe\\u6807\\u6ce8\\u6587\\u5b57\",\"name\":\"baidu_map_info_window_text\",\"value\":\"\\u5c71\\u4e1c\\u5e03\\u8c37\\u9e1f\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8<br\\/><span class=\'\'>\\u5730\\u5740\\uff1a\\u5c71\\u4e1c\\u7701\\u6cf0\\u5b89\\u5e02<\\/span>\",\"type\":\"text\",\"tip\":\"\\u767e\\u5ea6\\u5730\\u56fe\\u6807\\u6ce8\\u6587\\u5b57,\\u652f\\u6301\\u7b80\\u5355html\\u4ee3\\u7801\",\"rule\":[]},\"company_location\":{\"title\":\"\\u516c\\u53f8\\u5750\\u6807\",\"value\":\"\",\"type\":\"location\",\"tip\":\"\",\"rule\":{\"require\":true}},\"address_cn\":{\"title\":\"\\u516c\\u53f8\\u5730\\u5740\",\"value\":\"\\u4e0a\\u6d77\\u5e02\\u5f90\\u6c47\\u533a\\u659c\\u571f\\u8def0001\\u53f7\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"address_en\":{\"title\":\"\\u516c\\u53f8\\u5730\\u5740\\uff08\\u82f1\\u6587\\uff09\",\"value\":\"NO.0001 Xie Tu Road, Shanghai China\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"email\":{\"title\":\"\\u516c\\u53f8\\u90ae\\u7bb1\",\"value\":\"catman@thinkcmf.com\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"phone_cn\":{\"title\":\"\\u516c\\u53f8\\u7535\\u8bdd\",\"value\":\"021 1000 0001\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"phone_en\":{\"title\":\"\\u516c\\u53f8\\u7535\\u8bdd\\uff08\\u82f1\\u6587\\uff09\",\"value\":\"+8621 1000 0001\",\"type\":\"text\",\"tip\":\"\",\"rule\":{\"require\":true}},\"qq\":{\"title\":\"\\u8054\\u7cfbQQ\",\"value\":\"478519726\",\"type\":\"text\",\"tip\":\"\\u591a\\u4e2a QQ\\u4ee5\\u82f1\\u6587\\u9017\\u53f7\\u9694\\u5f00\",\"rule\":{\"require\":true}}}}',`description`='联系我们页模板文件',`is_public`=0,`list_order`=10  WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/contact' [ RunTime:0.004138s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/index' LIMIT 1 [ RunTime:0.004037s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`=NULL,`file`='portal/index',`name`=NULL,`more`='[]',`config_more`='[]',`description`=NULL,`is_public`=0,`list_order`=0  WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/index' [ RunTime:0.004027s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/list' LIMIT 1 [ RunTime:0.003973s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='portal/List/index',`file`='portal/list',`name`='文章列表页',`more`='{\"vars\":[],\"widgets\":{\"hottest_articles\":{\"title\":\"\\u70ed\\u95e8\\u6587\\u7ae0\",\"display\":\"1\",\"vars\":{\"hottest_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}},\"last_articles\":{\"title\":\"\\u6700\\u65b0\\u53d1\\u5e03\",\"display\":\"1\",\"vars\":{\"last_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}}}}',`config_more`='{\"vars\":[],\"widgets\":{\"hottest_articles\":{\"title\":\"\\u70ed\\u95e8\\u6587\\u7ae0\",\"display\":\"1\",\"vars\":{\"hottest_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}},\"last_articles\":{\"title\":\"\\u6700\\u65b0\\u53d1\\u5e03\",\"display\":\"1\",\"vars\":{\"last_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}}}}',`description`='文章列表模板文件',`is_public`=0,`list_order`=10  WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/list' [ RunTime:0.003993s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/page' LIMIT 1 [ RunTime:0.004028s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='portal/Page/index',`file`='portal/page',`name`='单页面',`more`='{\"widgets\":{\"hottest_articles\":{\"title\":\"\\u70ed\\u95e8\\u6587\\u7ae0\",\"display\":\"1\",\"vars\":{\"hottest_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}},\"last_articles\":{\"title\":\"\\u6700\\u65b0\\u53d1\\u5e03\",\"display\":\"1\",\"vars\":{\"last_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}}}}',`config_more`='{\"widgets\":{\"hottest_articles\":{\"title\":\"\\u70ed\\u95e8\\u6587\\u7ae0\",\"display\":\"1\",\"vars\":{\"hottest_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}},\"last_articles\":{\"title\":\"\\u6700\\u65b0\\u53d1\\u5e03\",\"display\":\"1\",\"vars\":{\"last_articles_category_id\":{\"title\":\"\\u6587\\u7ae0\\u5206\\u7c7bID\",\"value\":\"\",\"type\":\"text\",\"dataSource\":{\"api\":\"portal\\/category\\/index\",\"multi\":true},\"placeholder\":\"\\u8bf7\\u9009\\u62e9\\u5206\\u7c7b\",\"tip\":\"\",\"rule\":{\"require\":true}}}}}}',`description`='单页面模板文件',`is_public`=0,`list_order`=10  WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/page' [ RunTime:0.003961s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/search' LIMIT 1 [ RunTime:0.004090s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='portal/search/index',`file`='portal/search',`name`='搜索页面',`more`='{\"vars\":{\"varName1\":{\"title\":\"\\u70ed\\u95e8\\u641c\\u7d22\",\"value\":\"1\",\"type\":\"text\",\"tip\":\"\\u8fd9\\u662f\\u4e00\\u4e2atext\",\"rule\":{\"require\":true}}}}',`config_more`='{\"vars\":{\"varName1\":{\"title\":\"\\u70ed\\u95e8\\u641c\\u7d22\",\"value\":\"1\",\"type\":\"text\",\"tip\":\"\\u8fd9\\u662f\\u4e00\\u4e2atext\",\"rule\":{\"require\":true}}}}',`description`='搜索模板文件',`is_public`=0,`list_order`=10  WHERE  `theme` = 'simpleboot3'  AND `file` = 'portal/search' [ RunTime:0.003995s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'public/config' LIMIT 1 [ RunTime:0.003972s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='public/Config',`file`='public/config',`name`='模板全局配置',`more`='{\"vars\":{\"enable_mobile\":{\"title\":\"\\u624b\\u673a\\u6ce8\\u518c\",\"value\":1,\"type\":\"select\",\"options\":{\"1\":\"\\u5f00\\u542f\",\"0\":\"\\u5173\\u95ed\"},\"tip\":\"\"}}}',`config_more`='{\"vars\":{\"enable_mobile\":{\"title\":\"\\u624b\\u673a\\u6ce8\\u518c\",\"value\":1,\"type\":\"select\",\"options\":{\"1\":\"\\u5f00\\u542f\",\"0\":\"\\u5173\\u95ed\"},\"tip\":\"\"}}}',`description`='模板全局配置文件',`is_public`=1,`list_order`=0  WHERE  `theme` = 'simpleboot3'  AND `file` = 'public/config' [ RunTime:0.003971s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND `file` = 'public/nav' LIMIT 1 [ RunTime:0.003984s ][ SQL ] UPDATE `cmf_theme_file`  SET `theme`='simpleboot3',`action`='public/Nav',`file`='public/nav',`name`='导航条',`more`='{\"vars\":{\"company_name\":{\"title\":\"\\u516c\\u53f8\\u540d\\u79f0\",\"name\":\"company_name\",\"value\":\"ThinkCMF\",\"type\":\"text\",\"tip\":\"\",\"rule\":[]}}}',`config_more`='{\"vars\":{\"company_name\":{\"title\":\"\\u516c\\u53f8\\u540d\\u79f0\",\"name\":\"company_name\",\"value\":\"\\u5c71\\u4e1c\\u5e03\\u8c37\\u9e1f\\u7f51\\u7edc\\u79d1\\u6280\\u6709\\u9650\\u516c\\u53f8\",\"type\":\"text\",\"tip\":\"\",\"rule\":[]}}}',`description`='导航条模板文件',`is_public`=1,`list_order`=1  WHERE  `theme` = 'simpleboot3'  AND `file` = 'public/nav' [ RunTime:0.004003s ][ SQL ] SELECT * FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3' [ RunTime:0.004005s ][ SQL ] SHOW COLUMNS FROM `cmf_theme` [ RunTime:0.004466s ][ SQL ] UPDATE `cmf_theme`  SET `name`='simpleboot3',`version`='1.0.2',`demo_url`='http://demo.thinkcmf.com',`author`='ThinkCMF',`lang`='zh-cn',`author_url`='http://www.thinkcmf.com',`keywords`='ThinkCMF模板',`description`='ThinkCMF默认模板'  WHERE  `theme` = 'simpleboot3' [ RunTime:0.003986s ][ SQL ] SELECT `more` FROM `cmf_theme_file` WHERE  `theme` = 'simpleboot3'  AND (  `is_public` = 1 OR `file` = 'portal/article' ) [ RunTime:0.004008s ][ SQL ] SHOW COLUMNS FROM `cmf_plugin` [ RunTime:0.004191s ][ SQL ] SELECT `config` FROM `cmf_plugin` WHERE  `name` = 'Qiniu' LIMIT 1 [ RunTime:0.003996s ] 
+
+
+
+
+
+
+
+
+
+
+0.208645s 
+
+
+
+

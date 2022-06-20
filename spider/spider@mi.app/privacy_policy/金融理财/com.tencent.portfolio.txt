@@ -1,0 +1,5483 @@
+
+
+
+
+��Ѷ��˽����ƽ̨
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+��Ѷ��˽����ƽ̨
+�Ƽ����ƣ������жȡ�
+
+                        ��Ѷ���û���Ϣ��ȫ����˽����Ϊ�Լ��������ߡ�������ѭ��Ѷ��˽����PBD��P����Person���Ա����û���˽Ϊ���ģ�B����Button��ϣ��ͨ������˽��ť������Ʒ��ƣ�Ϊ�û��ṩ������Ч����˽������D����Data��ȫ��λ�������ݰ�ȫ��
+                    
+
+
+Tencent Privacy Protection Platform
+Technology is deployed for social good and data is put in manageable use
+It is Tencent��s lifeline to protect users�� information security and privacy.
+                        We strictly
+                        adhere to the Tencent Privacy Protection PBD Guideline. P, stands for ��Person��, representing
+                        users�� privacy as
+                        the essence of our protection. B, stands for ��Button��, providing ��privacy button�� (product
+                        design) to offer users
+                        a reasonable and efficient privacy protection channel. D means ��Data��, representing data
+                        security, which we
+                        provide our users an overall data security protection.
+
+
+
+��
+EN
+
+
+
+
+
+
+
+
+
+��ֵ��
+Our Value
+
+
+
+
+��˽����
+Privacy Policy
+
+
+
+
+��˽����ָ��
+Privacy Protection Guidelines
+
+
+
+
+��Ʒ����
+Product Manual
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+��ȫ�ɿ�
+Security Safeguard and Reliance
+
+
+
+���ǽ߾�ȫ��ͨ��������Ч����Ϣ��ȫ�������������̣���ֹ������Ϣй¶����١���ʧ��
+We try our best to prevent your information from breach, damage or
+                                loss via effective and
+                                reasonable information security technology and administrative process.
+
+
+
+
+
+
+
+
+
+
+
+
+����ͨ������
+Protection of Communication Secret
+
+
+
+�����ϸ����շ��ɷ��棬��������ͨ�����ܣ�Ϊ���ṩ��ȫ��ͨ�ŷ���
+We will strictly protect your communication secrets in compliance with
+                                the applicable laws
+                                and regulations.
+
+
+
+
+
+
+����ѡ��
+Choice
+
+
+
+����Ϊ���ṩ��������Ϣ����ѡ��Ա����������ʵ�ѡ�񣬹������ĸ�����Ϣ��
+We provide you convenient privacy management options so that you may
+                                make proper choices
+                                to control or manage your privacy.
+
+
+
+
+
+
+
+
+
+
+
+
+������Ҫ
+Reasonableness and Necessity
+
+
+
+Ϊ�������������û��ṩ���õķ������ǽ��ռ���Ҫ����Ϣ��
+We will collect necessary data so that we can provide you and other
+                                users with better
+                                service in order to achieve products' functions.
+
+
+
+
+
+
+����͸��
+Transparency
+
+
+
+����Ŭ��ʹ�ü����׶��ı���������������˽���ߣ��Ա����������˽����ǵ���Ϣ������ʽ��
+We endeavor to introduce our privacy policy in an easy and
+                                straightforward way and help
+                                you better understand our information process practice.
+
+
+
+
+
+
+
+
+
+
+
+
+����˽PBD�����Ʒ���
+Integrate Privacy PBD Principle with Tencent��s Product Designs
+
+
+
+�����ڲ�Ʒ����񿪷��ĸ������ڣ��ۺϷ��ɡ���Ʒ����Ƶȶ෽���أ�������˽�����������ʵ��ѶPBD��˽���������ۡ�
+We take legal, product, design and other elements into considerations
+                                of every aspect of
+                                our product and service development, to integrate with Privacy PBD Principle, in order
+                                to carry out the
+                                methodology of Tencent PBD Privacy Protection.
+
+
+
+P=Person���������û�Ϊ���ģ������û����ݴ���͸���ȣ�B=Button��������������ͨ���ṩ��������Ϣ�������ܣ�ʵ���û��Ը�����Ϣ�Ŀ�������D=Data���������ݰ�ȫ��ͨ��ϵͳ��Ч�İ�ȫ�����͹淶���̣�Ϊ�û����ݰ�ȫ�ṩȫ��λ���ϡ�
+
+
+
+
+
+
+
+P, stands for ��Person��, representing our user-centric work attitude,
+                                and it stress on
+                                improving the transparency of user data processing. B, stands for ��Button��, which
+                                represents controlling, by
+                                providing convenient information management function, to allow users to control their
+                                own personal information.
+                                D, stands for ��Data��, representing data security, which we provide our users an overall
+                                data security
+                                protection with comprehensive and effective security techonologies and standard
+                                procedures.
+
+
+
+
+
+
+
+
+
+
+
+
+
+��˽����
+Privacy Policy
+
+
+
+������Introduction
+
+
+�������ռ�����ϢInformation
+                                                We Collect
+
+
+���������ʹ���ռ�����ϢHow We Use the
+                                                Information We Collect
+
+
+���������ʹ��cookie����ؼ���How We Use
+                                                Cookies and Relevant Technologies
+
+
+������������ϢInformation
+                                                You Share
+
+
+������ι����Լ�����ϢHow to Manage
+                                                Your Own Information
+
+
+�����Ƿ�������ϢInformation
+                                                We Share
+
+
+�����ǿ����������͵���ϢInformation We
+                                                May Send to You
+
+
+���洢��Ϣ�ĵص������Place and Period
+                                                of Information Retention
+
+
+����Ϣ��ȫInformation
+                                                Security
+
+
+�����Advertisements
+
+
+��δ�����˱���Protection
+                                                of Minors
+
+
+�����÷�ΧApplication
+                                                Scope
+
+
+����ϵ����Contact
+                                                Us
+
+
+�����Changes
+                                                to Privacy Policy
+
+
+������Additional
+                                                Information
+
+
+
+
+
+
+Cookie����
+Cookie Policy Statement
+
+
+
+��ʲô��CookieWhat is a
+                                                Cookie?
+
+
+����Ѷʹ��Cookie��Ŀ��Why do we use
+                                                Cookies?
+
+
+����ι���CookieHow to manage
+                                                Cookies?
+
+
+
+
+
+
+���ʽ���
+Definitions
+
+
+
+��������ϢPersonal
+                                                Information
+
+
+������������ϢPersonal
+                                                Sensitive Information
+
+
+���豸Device
+
+
+��Ψһ�豸��ʶ��Unique
+                                                Device Identifier
+
+
+��IP��ַIP
+                                                Address
+
+
+��GPSGPS
+
+
+��WIFIWIFI
+
+
+����վBase
+                                                Station
+
+
+��SSLSSL
+
+
+����ͯ
+
+
+����Ϣ�ռ�����Information
+                                                Collection Technology
+
+
+
+
+
+
+
+
+
+
+
+��˽���߸��£����ڣ�2020��4��7�գ�
+
+
+
+
+
+����
+Introduction
+
+
+
+
+��Ѷ�ϸ����ط��ɷ��棬��ѭ������˽����ԭ��Ϊ���ṩ���Ӱ�ȫ���ɿ��ķ���
+Tencent adheres to the following privacy protection
+                                            principles and is committed to
+                                            providing you with more secure and reliable service:
+
+
+
+
+
+
+
+1����ȫ�ɿ���
+1. Security
+                                                    Safeguard and Reliance:
+
+
+���ǽ߾�ȫ��ͨ��������Ч����Ϣ��ȫ�������������̣���ֹ������Ϣй¶����١���ʧ��
+We try our best to prevent your information from
+                                                    breach, damage or loss via effective
+                                                    and reasonable information security technology and administrative
+                                                    process;
+
+
+
+
+2������ѡ��
+2. Choice:
+
+
+����Ϊ���ṩ��������Ϣ����ѡ��Ա����������ʵ�ѡ�񣬹�������������Ϣ��
+We provide you convenient privacy management
+                                                    options so that you may make proper
+                                                    choices to control or manage your privacy;
+
+
+
+
+3������ͨ�����ܣ�
+3. Protection of
+                                                    Communication Secret:
+
+
+�����ϸ����շ��ɷ��棬��������ͨ�����ܣ�Ϊ���ṩ��ȫ��ͨ�ŷ���
+We will strictly protect your communication
+                                                    secrets in compliance with the applicable
+                                                    laws and regulations;
+
+
+
+
+4��������Ҫ��
+4. Reasonableness
+                                                    and Necessity:
+
+
+Ϊ�������������û��ṩ���õķ������ǽ��ռ���Ҫ����Ϣ��
+We will collect necessary data so that we can
+                                                    provide you and other users with better
+                                                    service in order to achieve products' functions;
+
+
+
+
+5������͸����
+5. Transparency:
+
+
+����Ŭ��ʹ�ü����׶��ı���������������˽���ߣ��Ա����������˽����ǵ���Ϣ������ʽ��
+We endeavor to introduce our privacy policy in an
+                                                    easy and straightforward way and
+                                                    help you better understand our information process practice;
+
+
+
+
+6������˽���������Ʒ��ƣ�
+6. Integrate
+                                                    Privacy PBD Principle with Tencent��s
+                                                    Product Designs:
+
+
+�����ڲ�Ʒ����񿪷��ĸ������ڣ��ۺϷ��ɡ���Ʒ����Ƶȶ෽���أ�������˽���������
+We take legal, product, design and other elements
+                                                    into considerations of every aspect
+                                                    of our product and service development, to integrate with Privacy
+                                                    PBD Principle, in order to carry out the
+                                                    methodology of Tencent PBD Privacy Protection.
+
+
+
+
+������˽���ߡ���Ҫ����˵����
+This Privacy Policy mainly explains:
+
+
+
+
+
+
+
+
+�����ռ���Щ��Ϣ
+What information we collect.
+
+
+
+
+
+
+
+�����ռ���Ϣ����;
+How we use that information.
+
+
+
+
+
+
+
+�������е�Ȩ��
+Your Rights.
+
+
+
+
+
+ϣ������ϸ�Ķ�����˽���ߡ������¼�ơ������ߡ�������ϸ�˽����Ƕ���Ϣ���ռ���ʹ�÷�ʽ���Ա������õ��˽����ǵķ��������ʵ���ѡ��
+We hope that you will read this Privacy Policy (this
+                                            "Privacy Policy") to understand
+                                            how we collect and use information in order for you to further understand
+                                            our services and to make
+                                            appropriate selections.
+
+
+����ʹ����Ѷ���񣬼���ʾ����ͬ�����ڱ��������������ݡ�������Լ���⣬���������������롶��Ѷ����Э�����е����������ͬ�ĺ��塣
+By using Tencent service, you agree to the contents
+                                            contained in this policy. Unless
+                                            otherwise defined herein, the terms used in this privacy policy shall have
+                                            the same meanings as those
+                                            defined in the Tencent Service Agreement.
+
+
+���������⣬����ϵ������
+Should you have any queries, please contact
+                                                us.
+
+
+
+
+
+
+
+�����ռ�����Ϣ
+Information We Collect
+
+
+
+
+���Ǹ��ݺϷ�����������Ҫ��ԭ�򣬽��ռ�ʵ�ֲ�Ʒ��������Ҫ����Ϣ��
+Based on the principle of lawfulness, fairness and
+                                            necessity, we will only collect the
+                                            following information that
+                                            is necessary for the purpose of
+                                            achieving the product's function.
+
+
+����ʹ�����Ƿ���ʱ�����ṩ����Ϣ
+Information you provide to us
+
+
+
+
+��
+����ע���ʻ�ʱ��д����Ϣ
+Information you provide to us when registering an
+                                                    account.
+
+
+���磬����ע��QQ��΢���ʻ�ʱ����д���ǳơ��ֻ����롣
+For example, the nickname and phone number
+                                                    provided by you when registering a QQ or
+                                                    WeChat account.
+
+
+
+
+��
+����ʹ�÷���ʱ�ϴ�����Ϣ
+Information you upload whilst using our
+                                                    services.
+
+
+���磬����ʹ��QQ��΢��ʱ���ϴ���ͷ�񡢷�������Ƭ��
+For example, your uploaded profile picture and
+                                                    pictures shared whilst using QQ or
+                                                    WeChat.
+
+
+
+
+��
+��ͨ�����ǵĿͷ���μ����Ǿٰ�Ļʱ���ύ����Ϣ
+Information provided by you via our customer
+                                                    service or whilst participating in our
+                                                    activities.
+
+
+���磬�������������ϻʱ��д�ĵ����ʾ��п��ܰ��������������绰����ͥ��ַ����Ϣ��
+For example, the questionnaire you completed when
+                                                    participating in our online
+                                                    activities may include your name, contact number, home address or
+                                                    other related information.
+
+
+
+
+���ǵĲ��ַ��������Ҫ���ṩ�ض��ĸ���������Ϣ��ʵ���ض����ܡ�����ѡ���ṩ������Ϣ��������޷�����ʹ�÷����е��ض����ܣ�����Ӱ����ʹ�÷����е��������ܡ����������ṩ��������������Ϣ������ʾ��ͬ�����ǰ�����������Ŀ�ĺͷ�ʽ���������ĸ���������Ϣ��
+Some of our service may need you to provide your
+                                                    selected sensitive
+                                                        personal information to achieve specific functions. If you
+                                                    choose not
+                                                    to provide such information, you may not be able to use specific
+                                                    functions in the service, but it will not
+                                                    affect the usage of other functions. If you provide your sensitive
+                                                    information for us voluntarily, you
+                                                    agree that we process your Personal Sensitive Information in
+                                                    accordance with the purposes and methods
+                                                    provided in this policy.
+
+
+
+
+��������ʹ�÷���ʱ��ȡ����Ϣ
+Information we may collect when you use our
+                                            services
+
+
+
+
+��
+��־��Ϣ������ʹ�����ǵķ���ʱ�����ǿ��ܻ��Զ��ռ������Ϣ���洢Ϊ������־��Ϣ��
+Server Logs. We
+                                                    may automatically
+                                                        collect and store relevant information as the service log
+                                                    when you use our services.
+
+
+
+
+1)
+�豸��Ϣ
+Device Information
+
+
+���磬�豸�ͺš�����ϵͳ�汾��Ψһ�豸��ʶ����OAID����ء��ź�ǿ�ȵ���Ϣ��
+For example, device model,
+                                                            operating system version, unique device identifier
+                                                            ("UDID"), battery, signal strength, and other
+                                                            information.
+
+
+
+
+2)
+������Ϣ
+Software Information
+
+
+���磬�����İ汾�š���������͡�Ϊȷ�����������İ�ȫ���ṩ�������裬���ǻ��ռ��й���ʹ�õ��ƶ�Ӧ�ú�������������Ϣ��
+For example, software version and browser
+                                                            type. To ensure the security of the
+                                                            operating environment or to provide the necessary services,
+                                                            we will collect information in relation to
+                                                            your usage of mobile applications and other
+                                                            softwares.
+
+
+
+
+3)
+IP��ַ
+IP Address
+
+
+
+
+4)
+������־��Ϣ
+Service Logs
+
+
+���磬����ʹ�����Ƿ���ʱ�������鿴����Ϣ�����������Ϣ��������ַ����Ϣ��
+For example, information collected when
+                                                            you use our services to search or view,
+                                                            crash logs information, recommended sites and other
+                                                            information.
+
+
+
+
+5)
+ͨѶ��־��Ϣ
+Communication Logs
+
+
+���磬����ʹ�����Ƿ���ʱ����ͨѶ���˻���ͨѶʱ���ʱ����
+For example, the accounts you communicated
+                                                            with, the time and period when you use
+                                                            our communication services.
+
+
+
+
+
+
+��
+λ����Ϣ
+Location data
+
+
+����ʹ����λ���йصķ���ʱ�����ǿ��ܻ��¼���豸���ڵ�λ����Ϣ���Ա�Ϊ���ṩ��ط���
+We may collect location data of your device when
+                                                    you use the location-related
+                                                    services, in order to provide relevant service for you.
+
+
+����ʹ�÷���ʱ�����ǿ��ܻ�ͨ��IP��ַ ��GPS��WLAN���� WiFi)����վ��;����ȡ���ĵ���λ����Ϣ��
+We may collect your geographic location data via
+                                                    IP
+                                                        address, GPS, WLAN(Wi-Fi),
+                                                    or base station when
+                                                    you use the services;
+
+
+���������û���ʹ�÷���ʱ�ṩ����Ϣ�п��ܰ��������ڵ���λ����Ϣ���������ṩ���ʺ���Ϣ�п��ܰ����������ڵ�����Ϣ�����������˹�������Ƭ�����ĵ��������Ϣ��
+Geographic location data provided by you or by
+                                                    other users when using the services.
+                                                    For example, the location data detailed in your account, or
+                                                    geographical indications contained in photos
+                                                    shared by you or other users.
+
+
+
+
+��
+���������Ϣ
+Other relevant information
+
+
+Ϊ�˰��������õ�ʹ�����ǵĲ�Ʒ��������ǻ��ռ������Ϣ�����磬�����ռ��ĺ����б���Ⱥ�б���Ϣ����������ֵ��Ϣ��Ϊȷ����ʹ�����Ƿ���ʱ��������ʶ���˽�����ϵ������ѡ��������ͨѶ¼���ܣ����ǿ��ܶ�����ϵ�˵������͵绰������м��ܣ������ռ����ܺ����Ϣ��
+For you to better use our product or service, we
+                                                    will collect relevant information,
+                                                    for example, the friends list, group list information, and voice
+                                                    print. Also, if you choose to turn on
+                                                    "import contacts" feature we will encrypt name and phone number of
+                                                    your contacts and collect encrypted
+                                                    information in order to connect you with people you know who also
+                                                    use our service.
+
+
+
+
+�����û���������Ϣ�к���������Ϣ
+Your information contained in the information shared by
+                                            other users.
+
+
+
+
+���磬�����û���������Ƭ���������Ƶ�п��ܰ���������Ϣ��
+For example, photos or videos published by other
+                                                    users may contain your information.
+
+
+
+
+�ӵ�������������ȡ����Ϣ
+Information from third-party partners.
+
+
+
+
+���ǿ��ܻ�������ʹ�õ���������������ʱ���������������Ϣ�����磬��ʹ��΢�Ż�QQ�ʻ���¼����������������ʱ�����ǻ�������¼��������������������ơ���¼ʱ�䣬������������Ȩ������������ϸ�Ķ�������������������û�Э�����˽���ߡ�
+We may have cooperation with third-party partners.
+                                                    Therefore, we may obtain the
+                                                    information that is shared or generated when you use a third-party
+                                                    service. For example, when you log in a
+                                                    third-party service with your WeChat or QQ account, we will know the
+                                                    name of such service and your log-in
+                                                    time so that it will be convenient for you to manage the
+                                                    authorization. Please read the third-party
+                                                    service user agreement or privacy policy carefully.
+
+
+
+
+
+
+
+
+
+�������ʹ���ռ�����Ϣ
+How We Use the Information We Collect
+
+
+
+
+�����ϸ����ط��ɷ���Ĺ涨�����û���Լ�������ռ�����Ϣ����������;�������ǳ���������;ʹ��������Ϣ�����ǽ��ٴ���������˵��������������ͬ�⡣
+Subject to applicable laws and regulations or agreements
+                                            with users, we may use the
+                                            collected information in the following ways. If we use your information for
+                                            purposes beyond the following
+                                            purposes, we will explain to you again and ask for consent.
+
+
+
+
+
+�����ṩ����
+To provide you with our services.
+
+
+
+
+
+�������ĸ��Ի�����
+To meet your personal needs.
+
+
+���磬�����趨��λ���趨�����Ի��İ�������
+For example, language settings, location settings
+                                                    and other personalized services.
+
+
+
+
+
+��Ʒ�����ͷ����Ż�
+Product development and optimization.
+
+
+���磬�����ǵ�ϵͳ��������ʱ�����ǻ��¼�ͷ���ϵͳ����ʱ��������Ϣ���Ż����ǵķ���
+For example, when our systems have malfunctions,
+                                                    we will record and analyze the
+                                                    information generated when the system crashes, so as to further
+                                                    optimize our services.
+
+
+
+
+
+��ȫ����
+To ensure security.
+
+
+���磬���ǻὫ������Ϣ����������֤����ȫ��������թƭ��⡢�浵���ݡ��ͻ��İ�ȫ�������;�����磬�����ػ�װ�İ�ȫ������Զ������򲡶����м�⣬��Ϊ��ʶ��թƭ��Ϣ��
+For example, we will use your information for
+                                                    identity authentication, safety
+                                                    precautions, anti-fraud monitoring, storage and backup, customer
+                                                    safety service and other applications.
+                                                    For example, the safety software downloaded or installed by you will
+                                                    detect malicious programs or viruses,
+                                                    or identify fraudulent information.
+
+
+
+
+
+�����Ƽ������ܸ���Ȥ�Ĺ�桢��Ѷ��
+To recommend ads, news etc. that you may be
+                                                    interested in to you.
+
+
+
+
+
+�������������ǵĹ��Ͷ�ź������������ƹ���Ч��
+To evaluate and improve the effect of ads and
+                                                    other promotions in our services.
+
+
+
+
+
+��������
+To manage software.
+
+
+���磬����������֤�����������ȡ�
+For example, software certification and software
+                                                    updates, etc.
+
+
+
+
+
+�����������й����Ƿ���ĵ���
+To include your participation in survey activities
+                                                    about our product and services.
+
+
+
+
+Ϊ�������и��õ����顢�������ǵķ������ͬ���������;���ڷ�����ط��ɷ����ǰ���£����ǿ��ܽ�ͨ��ĳЩ�������ռ�����Ϣ�������ǵ������������磬������ʹ������ĳ�����ʱ����Ϣ��������һ�����������չʾ���Ի������ݻ��桢�����û��о�������ͳ�Ƶȷ���
+Subject to applicable laws and regulations, in order to
+                                            provide you with a better user
+                                            experience and to improve our services, or upon your consent, we may apply
+                                            the information collected from
+                                            certain services to other services provided by us. For instance, we may use
+                                            your information collected or
+                                            generated when you use our certain services to show you personalized content
+                                            or advertisement and for user
+                                            analysis and statistic service.
+
+
+Ϊ��ȷ������İ�ȫ���������Ǹ��õ��˽�����Ӧ�ó����������������ǿ��ܼ�¼�����Ϣ�����磬��ʹ��Ӧ�ó����Ƶ�ʡ�������Ϣ������ʹ����������������Լ�Ӧ�ó������Դ�����ǲ��Ὣ���Ǵ洢�ڷ��������е���Ϣ������Ӧ�ó������ṩ�ĸ���������Ϣ���ϡ�
+To ensure the security of our services, and to help us
+                                            further understand the state of
+                                            performance of our applications, we may record relevant information, for
+                                            example, the frequency of your
+                                            usage, crash logs information, overall usage, performance data and source of
+                                            application. We do not link the
+                                            information we store within the mobile analytics software to personally
+                                            identifiable information you submit
+                                            within the mobile application.
+
+
+
+
+
+
+
+�������ʹ��cookie����ؼ���
+How We Use Cookies and Relevant Technologies
+
+
+
+
+���ǻ����ǵĵ�����������飬����ͨ�����ð�ȫ��Cookie����ؼ����ռ�������Ϣ��Ŀ����Ϊ���ṩ�����Ի����û�����ͷ������ǻ��ϸ�Ҫ�����������������ر����ߵ���ع涨��
+We and our third party partners may collect your
+                                            information via safely inserted Cookie and relevant technologies, for the
+                                            purposes for
+                                            providing you with more personalized user experience and service. We will
+                                            strictly require such third party
+                                            partners to observe relevant requirements of this policy.
+
+
+��Ҳ����ͨ����������ù���Cookie������ע�⣬���ͣ��Cookie���������޷�������ѵķ������飬ĳЩ����Ҳ�����޷�����ʹ�á�����ϣ���˽����Cookie�İ�ȫ�Ե���Ϣ���ɲμ���Cookie����˵������
+You may set or mange Cookie via your browser settings. But
+                                            please be noted that you may
+                                            not enjoy the best service experience and certain service may not be used if
+                                            you stop using Cookie. If you
+                                            hope to learn more information about the security of Cookie, you may refer
+                                            to the Cookie Policy
+                                                Statement.
+
+
+
+
+
+
+
+����������Ϣ
+Information You Share
+
+
+
+
+������ͨ�����ǵķ��������ĺ��ѡ����˼������û��������������Ϣ�����磬����΢������Ȧ�й������������ֺ���Ƭ��
+Our services may allow you to share your relevant
+                                            information with your friends and
+                                            family and other users. For example, you can share texts and pictures
+                                            publicly in your "WeChat Moments".
+
+
+
+��ע�⣬�����п��ܰ������ĸ���������Ϣ�����˲Ʋ���Ϣ��������Ϣ����������������¶������ظ���������Ϣ��
+Please be noted that such information may contain
+                                                sensitive information including your
+                                                personal identity information and personal property information. Please
+                                                prudently consider disclosure of
+                                                your relevant personal sensitive information.
+
+
+
+����ͨ�����Ƿ����е���˽������������������Ϣ�ķ�Χ��Ҳ��ͨ�������е����û������ṩ��ָ��ɾ����������������Ϣ��������ע�⣬��Щ��Ϣ�Կ����������û��������ǿ��Ƶķǹ��������������ر��档
+You may control the scope of information shared by you and
+                                            you may also delete the
+                                            information publicly shared using the service setting or according to our
+                                            guidance. Please note such
+                                            information may still have been retained independently by other users or
+                                            unrelated third parties which we
+                                            are not able to control.
+
+
+
+
+
+
+
+����ι����Լ�����Ϣ
+How to Manage Your Own Information
+
+
+
+
+
+
+
+��������ʹ�����Ƿ���Ĺ����У����ʡ��޸ĺ�ɾ�����ṩ��ע����Ϣ������������Ϣ��Ҳ�ɰ���ָ֪ͨ����������ϵ�������ʡ��޸ĺ�ɾ��������Ϣ�ķ�Χ�ͷ�ʽ��ȡ������ʹ�õľ������
+You may access, amend and delete information
+                                                    provided by you during the registration
+                                                    of your account or other personal information when using our
+                                                    services, or contact us via the notice
+                                                    guidelines. The scope and the way in which you access, amend or
+                                                    delete your personal information depend on
+                                                    the service you use.
+
+
+���磬������ʹ�õ���λ����ط���ʱ��ϣ��ֹͣ�������ĵ���λ����Ϣ������ͨ���ֻ���λ�رչ��ܡ���Ӳ�������̼�ͨѶ�����ṩ�̵Ĺرշ�ʽֹͣ��������������ϸ�Ķ����ָ����
+For example, when using geographical related
+                                                    service, to stop sharing your
+                                                    geographical information, you can stop it by turning off cellphone
+                                                    positioning function, or according to
+                                                    methods provided by software and hardware service providers and
+                                                    communication service providers. Please
+                                                    read relevant guidance carefully.
+
+
+
+
+
+���ǽ����ձ�������������Ϊʵ�����ǲ�Ʒ�����Ĺ��ܣ��ռ���ʹ��������Ϣ��
+We will collect and use your information only for
+                                                    achieving the functions of our
+                                                    products or services in accordance with this policy.
+
+
+������������Υ�����ɡ���������Ĺ涨����˫����Լ���ռ���ʹ�����ĸ�����Ϣ��������Ҫ������ɾ����
+If you find that our collection or use of your
+                                                    personal information is not in
+                                                    accordance with the laws, administrative regulations or the
+                                                    agreement of both parties, you can require us
+                                                    to delete such information.
+
+
+�������������ռ����洢�����ĸ�����Ϣ�д���ģ���Ҳ����Ҫ�����Ǹ�����
+If you find that we have collected or stored your
+                                                    wrong personal information, you can
+                                                    also require us to correct it.
+
+
+��ͨ����������������ϵ��ʽ��������ϵ��
+Please contact us via the
+                                                    contact details listed in this Privacy Policy.
+
+
+
+
+
+�������ʡ��޸ĺ�ɾ�������Ϣʱ�����ǿ��ܻ�Ҫ��������������֤���Ա����ʺŵİ�ȫ��
+For account security purposes, we may ask you to
+                                                    verify your identity before we allow
+                                                    you to access, amend and delete relevant information.
+
+
+
+
+
+�������⣬���ڼ������ޡ����ɻ���Ҫ�����ǿ����޷�������������Ҫ�����ǻ��ں����������ڴ���������
+Please understand that due to technical
+                                                    limitations, legal or regulatory
+                                                    requirements, we may not be able to meet all your requests. We
+                                                    endeavor to respond to your requests within
+                                                    a reasonable period of time.
+
+
+
+
+
+
+
+
+
+���Ƿ�������Ϣ
+Information We Share
+
+
+
+
+�������շ��ɷ���Ĺ涨������Ϣ�ķ��������ϸ�����ƣ����磺
+We will strictly limit the sharing of information in
+                                            accordance with the laws and
+                                            regulations, for example:
+
+
+
+
+
+��������ͬ�⣬���ǿ�����������������ĸ�����Ϣ
+We may share your personal information with a
+                                                    third party other than our data
+                                                    processors with your prior consent;
+
+
+
+
+
+��Ϊʵ���ⲿ������Ŀ�ģ����ǿ��ܻ��������������飨����������Ӧ�̡��а��̡���������������顢Ӧ�ÿ����ߵȣ����磬�������Ƿ��������ʼ�������֪ͨ��ͨѶ�����ṩ�̡�Ϊ�����ṩλ�÷���ĵ�ͼ����Ӧ�̣������ǿ��ܲ���λ�������ڵķ��򣩷������ĸ�����Ϣ�������ǰ������ǵ�˵������˽�����Լ�������صı��ܺͰ�ȫ��ʩ��Ϊ���Ǵ���������Ϣ��������������;��
+For the purpose of external processing, we may
+                                                    share your personal information with
+                                                    third-party business partners (third-party service providers,
+                                                    contractors, agents, advertising partners,
+                                                    application developers etc., for example, the telecommunication
+                                                    service providers who send out emails and
+                                                    push notifications on our behalf, or the map service providers who
+                                                    provide us with location service) (they
+                                                    may not be located in your jurisdiction), and require them to follow
+                                                    our instructions, the Privacy Policy
+                                                    and any other relevant confidentiality and security measures to
+                                                    process the above information for us and
+                                                    for the purposes of:
+
+
+
+��
+
+�����ṩ���ǵķ���
+Providing you with our services;
+
+
+
+��
+
+ʵ�֡��������ʹ���ռ�����Ϣ����������Ŀ�ģ�
+Implementing the purpose of the section
+                                                            "How We Use the Information We Collect";
+
+
+
+��
+
+���������ڡ���Ѷ����Э�����������е��������ʹ���ǵ�Ȩ����
+Performing our obligations and excising
+                                                            our rights as provided in the Tencent Service Agreement and this
+                                                            Privacy Policy;
+
+
+
+��
+
+���⡢ά���͸������ǵķ���
+Understanding, maintaining and improving
+                                                            our services.
+
+
+
+
+����������������������������Ϣ�����ǽ�����ü��ܡ��������������ֶα���������Ϣ��ȫ��
+Should we share your personal information with
+                                                    third parties mentioned above, we
+                                                    will use encryption, anonymization or other means to protect your
+                                                    information security.
+
+
+
+
+
+��������ҵ��ĳ�����չ���������ϲ����չ����ʲ�ת�õȽ��׵�����������������ĸ�����Ϣʱ�����ǽ�ͨ������֪ͨ���������ʽ��֪��������Σ����շ��ɷ��漰�����ڱ�������Ҫ��ı�׼����������Ҫ���µĹ����߼����������ĸ�����Ϣ��
+With the development of our business, when
+                                                    mergers, acquisitions, asset transfer or
+                                                    other transactions happens, we will inform you of such circumstances
+                                                    by pushing notifications or notices,
+                                                    and continue to protect or require new controllers to continue to
+                                                    protect your personal information in
+                                                    accordance with the applicable laws and regulations and the standard
+                                                    of protection which will not be lower
+                                                    than that under this Privacy Policy.
+
+
+
+
+
+���ǻὫ���ռ�������Ϣ���ڴ����ݷ�����
+We may use the collected information for big data
+                                                    analysis.
+
+
+���磬���ǽ��ռ�������Ϣ���ڷ����γɲ������κθ�����Ϣ�ĳ�������ͼ����ҵ���챨�档
+For example, We may use collected information for
+                                                    analysis to generate urban heat map
+                                                    or industry insight report which contains no personal identifiable
+                                                    information.
+
+
+���ǿ��ܶ��⹫���������ǵĺ�����������ͳ�Ƽӹ��󲻺�����ʶ�����ݵ���Ϣ�������˽��û����ʹ�����Ƿ�����ù����˽����Ƿ��������ʹ�����ơ�
+We may make it public and share it with our
+                                                    partners the post-processed information
+                                                    that does not contain personal identifiable information, to
+                                                    understand how users utilize our services or
+                                                    to enable the public to better understand the overall use of our
+                                                    services and other purposes.
+
+
+
+
+
+���ǿ��ܻ�������Ŀ����¶���ĸ�����Ϣ
+We may disclose your personal information due to
+                                                    the following purposes:
+
+
+
+��
+
+�������õķ��ɷ�����йع涨��
+To comply with the applicabl laws and
+                                                            regulations;
+
+
+
+��
+
+���ط�Ժ�о����ö����������ɳ���Ĺ涨��
+To comply with court decisions, rulings or
+                                                            requirements of other legal procedures;
+
+
+
+��
+
+��������������ػ�����������Ȩ��֯��Ҫ��
+To comply with the requirements of
+                                                            relevant government agencies or other relevant
+                                                            legally authoritative entities;
+
+
+
+��
+
+����������ȷ����Ҫ���ط��ɷ�����йع涨��
+We have reasons to believe that we need to
+                                                            comply with applicable laws and
+                                                            regulations;
+
+
+
+��
+
+Ϊִ����ط���Э������ߡ�ά����ṫ�����棬Ϊ�������ǵĿͻ������ǻ����ǵĹ�����˾�������û����Ա�������Ʋ���ȫ�������Ϸ�Ȩ������ұ�Ҫ����;��
+Reasonable and necessary purposes to
+                                                            implement relevant service agreements or this
+                                                            Privacy Policy, or to protect public interest, personal
+                                                            safety and property and other legitimate rights
+                                                            of our clients, ourselves, our affiliates, our users or
+                                                            employees.
+
+
+
+
+
+
+
+
+
+
+
+���ǿ����������͵���Ϣ
+Information We May Send to You
+
+
+
+
+
+
+
+
+
+��Ϣ����
+Push notifications
+
+
+
+
+����ʹ�����ǵķ���ʱ�����ǿ����������͵����ʼ������š���Ѷ������֪ͨ��
+When you use our services, we may send emails, text
+                                            messages, news or push
+                                            notifications to you.
+
+
+�����԰������ǵ������ʾ�����豸��ѡ��ȡ�����ġ�
+You may follow the relevant notice to unsubscribe on the
+                                            device.
+
+
+
+
+
+
+
+������йصĹ���
+Service announcements
+
+
+
+
+���ǿ����ڱ�Ҫʱ�����磬��ϵͳά������ͣĳһ�����ʱ����������������йصĹ��档
+We may send you announcements related to service if
+                                            necessary (for example, the
+                                            suspension of certain service due to system maintenance).
+
+
+�������޷�ȡ����Щ������йء����ʲ����ڹ��Ĺ��档
+You may not be able to cancel these non-promotional
+                                            service-related announcements.
+
+
+
+
+
+
+
+�洢��Ϣ�ĵص������
+Place and Period of Information Retention
+
+
+
+
+
+
+
+
+
+�洢��Ϣ�ĵص�
+Where we store information
+
+
+
+
+�������ط��ɷ���Ĺ涨���������ռ����û�������Ϣ�洢�ھ��ڡ�
+We will store users personal information collected within
+                                            mainland China within the
+                                            territory in accordance with applicable laws and regulations.
+
+
+
+
+
+
+
+�洢��Ϣ������
+Period of information retention
+
+
+
+
+һ����ԣ����ǽ�Ϊʵ��Ŀ������������ʱ�䱣�����ĸ�����Ϣ��������������£������п���������Ϸ���Ҫ�󣬸��ĸ�����Ϣ�Ĵ洢ʱ�䣺
+In general, we will retain your personal information in
+                                            the shortest possible time to
+                                            fulfill the purpose of collection of such information. However, for the
+                                            following purposes, we may change
+                                            the retention period for the purposes of compliance:
+
+
+
+��
+
+Ϊ�������õķ��ɷ�����йع涨��
+To comply with the relevant laws and
+                                                    regulations;
+
+
+
+��
+
+Ϊ���ط�Ժ�о����ö����������ɳ���Ĺ涨��
+To comply with court decisions, rulings or
+                                                    requirements of other legal procedures;
+
+
+
+��
+
+Ϊ��������������ػ򷨶���Ȩ��֯��Ҫ��
+To comply with the requirements of relevant
+                                                    government agencies or other legally
+                                                    authoritative entities;
+
+
+
+��
+
+����������ȷ����Ҫ���ط��ɷ�����йع涨��
+We have reasons to believe that we need to comply
+                                                    with applicable laws and
+                                                    regulations;
+
+
+
+��
+
+Ϊִ����ط���Э������ߡ�ά����ṫ�����棬Ϊ�����ǵĿͻ������ǻ����ǵĹ�����˾�������û����Ա�������Ʋ���ȫ�������Ϸ�Ȩ���������������;��
+Reasonable and necessary purposes to implement
+                                                    relevant service agreements or this
+                                                    Privacy Policy, or to protect public interest and to protect
+                                                    personal safety and property and other
+                                                    legitimate rights and interests of our clients, ourselves, our
+                                                    affiliates, our users or employees.
+
+
+
+
+�����ǵĲ�Ʒ�������ֹͣ��Ӫ������ʱ�����ǽ���ȡ���磬����֪ͨ���������ʽ֪ͨ�������ں�����������ɾ�����������������ĸ�����Ϣ��
+Should the operation of our products or service terminate,
+                                            we will inform you in the
+                                            form of push notifications, announcements, etc., and delete or anonymize
+                                            your personal information within a
+                                            reasonable period of time.
+
+
+
+
+
+
+
+��Ϣ��ȫ
+Information Security
+
+
+
+
+����Ϊ������Ϣ�ṩ��Ӧ�İ�ȫ���ϣ��Է�ֹ��Ϣ�Ķ�ʧ������ʹ�á�δ����Ȩ���ʻ���¶��
+We take security measures to protect your information
+                                            against loss, improper use,
+                                            unauthorized access or disclosure.
+
+
+
+
+
+�����ϸ����ط��ɷ��汣���û���ͨ�����ܡ�
+We will strictly protect users communication in
+                                                    accordance with the applicable laws
+                                                    and regulations.
+
+
+
+
+
+���ǽ��ں����İ�ȫˮƽ��ʹ�ø��ְ�ȫ������ʩ�Ա�����Ϣ�İ�ȫ��
+We will work within the reasonable security
+                                                    standards and use a variety of security
+                                                    measures to protect the security of information.
+
+
+���磬����ʹ�ü��ܼ��������磬TLS��SSL�����������������ֶ����������ĸ�����Ϣ��
+For example, we will use encryption technologies
+                                                    (such as TLS, SSL),
+                                                    anonymization and other means to protect your personal
+                                                    information.
+
+
+
+
+
+���ǽ���ר�ŵĹ����ƶȡ����̺���֯ȷ����Ϣ��ȫ��
+We have established a specialized management,
+                                                    process and organization system to
+                                                    ensure information security.
+
+
+���磬�����ϸ����Ʒ�����Ϣ����Ա��Χ��Ҫ���������ر������񣬲�������顣
+For example, we strictly restrict the scope of
+                                                    personnel who can access information,
+                                                    and require them to comply with their confidentiality obligations
+                                                    and conduct audits.
+
+
+
+
+
+������������Ϣй¶�Ȱ�ȫ�¼������ǻ�����Ӧ��Ԥ������ֹ��ȫ�¼����󣬲�������֪ͨ���������ʽ��֪����
+In the event of a breach of security incident of
+                                                    personal information, we will
+                                                    activate emergency response plan to prevent the expansion of such
+                                                    security incident and inform you in the
+                                                    form of push notifications, public announcements and etc.
+
+
+
+
+
+
+
+
+
+���
+Advertisements
+
+
+
+
+���ǿ���ʹ�����������Ϣ���������վ��Ӧ�ü��������������ṩ����������صĹ�档�����������ڹ��ҳ�����˽���ࡣ
+We may use your information to provide you with more
+                                            relevant advertisements on
+                                            relevant sites, apps, and other channels. You can learn more at About
+                                                Our Advertising.
+
+
+
+
+
+
+
+δ�����˱���
+Protection of Minors
+
+
+
+
+���Ƿǳ����Ӷ�δ�����˸�����Ϣ�ı�����
+We attach great importance to the protection of personal
+                                            information of minors.
+
+
+
+
+
+������ط��ɷ���Ĺ涨��������18�������µ�δ�����ˣ���ʹ����Ѷ�ķ���ǰ��Ӧ����ȡ�����ļҳ��򷨶��໤�˵�ͬ�⡣
+In accordance with the relevant laws and
+                                                    regulations, if you are a minor under 18
+                                                    years old, you would be required to obtain you parents' or legal
+                                                    guardian's consent prior to using Tencent
+                                                    service.
+
+
+
+
+
+������ר������14�������µĶ�ͯ�ṩ�Ĳ�Ʒ����񡢲�Ʒ������а���ר�������ͯ�Ĺ��ܰ�飬������Ҫ�û��������ա�������Ϣ����ʶ���û�����Ĳ�Ʒ�����
+
+
+����ע���ʹ�������Ʒ����񣬸�����ط��ɷ���Ĺ涨��������14�������µ���ͯ����ʹ����صĲ�Ʒ�����ǰ��Ӧ������ע�ᡢʹ�����̣�����ȡ�����ļҳ��򷨶��໤�˵�ͬ�⣬�������ļҳ��򷨶��໤�˰�������ɲ�Ʒ�����ע�����̣��Ա�����ʹ�������ṩ�Ĳ�Ʒ�����
+
+
+�����Ƕ�ͯ�ļ໤�ˣ������ڰ�����ͯ��ɲ�Ʒ������ע�ᡢʹ��ǰ��Ӧ����ϸ�Ķ������ߡ���Ʒ�������˽����ָ�������У��͡���ͯ��˽�����������������Ƿ�ͬ�Ȿ���ߡ���Ʒ�������˽����ָ�������У��͡���ͯ��˽������������������ͯ����ע�ᡢʹ�ã��Ա��ͯ��ʹ�������ṩ�Ĳ�Ʒ�����
+
+
+
+
+
+�����������໤�Ķ�ͯ�ĸ�����Ϣ������������ʻ�Ȩ������ʱ����ͨ������ͯ��˽�����������еĵ��߲�������¶����ϵ��ʽ��������ϵ�����ǻ��ں�����ʱ���ڴ������ظ�����
+
+
+
+
+
+
+
+
+
+���÷�Χ
+Application Scope
+
+
+
+
+���ǵ����з�������ñ����ߡ�
+All of our services are subject to this Privacy
+                                            Policy.
+
+
+
+
+
+ĳЩ���������ض�����˽ָ��/���������ض���˽ָ��/�����������˵�������ڸ÷�������δ���������Ϣ��
+However, some services have their own specific
+                                                    privacy guidance/statement, such
+                                                    specific privacy guidance/statement describe how we process your
+                                                    information in the service more
+                                                    specifically.
+
+
+
+
+
+�籾�������ض��������˽ָ��/�����в�һ��֮�������Ը��ض���˽ָ������Ϊ׼��
+If this Privacy Policy is inconsistent with the
+                                                    privacy guidance/statement of a
+                                                    particular service, the privacy policy of that particular service
+                                                    shall prevail.
+
+
+
+
+
+����ע�⣬�����߲�������������˾������ṩ�ķ���
+Please note this Privacy Policy is not applicable
+                                                    to services provided by other
+                                                    companies or individuals.
+
+
+���磬��ͨ��ʹ��΢���ʺŵ�¼������˾������ṩ�ķ���
+For example, you may log in services provided by
+                                                    other companies or individuals with
+                                                    WeChat account.
+
+
+
+
+
+��ʹ�øõȵ�����������������˽���ߣ����Ǳ����ߣ�Լ��������Ҫ��ϸ�Ķ����������ݡ�
+Your use of such third-party services is subject
+                                                    to the terms and privacy policy of
+                                                    such third-party services (rather than this Privacy Policy), and you
+                                                    need to read their privacy practice
+                                                    carefully.
+
+
+
+
+
+
+
+
+
+��ϵ����
+Contact Us
+
+
+
+
+
+
+
+
+
+�����Ա����߻�����������������ʣ�
+Should you have any enquiries in relation to this
+                                                    Privacy Policy or other related
+                                                    matters, please contact us via https://kf.qq.com.
+
+
+��ͨ�� https://kf.qq.com/ ��������ϵ��
+
+
+
+
+
+
+
+
+
+��Ҳ�ɸ��������ṩ��ָ������д������ϣ�
+In accordance with the provided
+                                                        guidelines, you may also complete the relevant details and
+                                                    send your queries to
+                                                    Dataprivacy@tencent.com,
+
+
+���������ⷢ���� Dataprivacy@tencent.com
+
+
+
+
+��ĵ����µ�ַ��
+or post it to the following mailing address:
+
+
+
+
+��ַ���й��㶫ʡ��������ɽ���Ƽ�԰�Ƽ���һ·��Ѷ���÷������ݼ���˽�������ģ��գ�
+Address: Tencent Legal Department- Data & Privacy
+                                                    Centre, Tencent Building, Science
+                                                    and Technology Park Road, Nanshan District, Shenzhen, Guangdong
+                                                    Province, China.
+
+
+
+
+�ʱࣺ518057
+Postcode: 518057
+
+
+
+
+���ǽ���������������⣬������֤�����û����ݺ��ʮ���������Իظ���
+We will review your queries and reply within 15 days after
+                                            verifying your user
+                                            identity.
+
+
+
+
+
+
+
+���
+Changes to Privacy Policy
+
+
+
+
+���ǿ�����ʱ�޶����������ݡ�
+We may update and revise this Privacy Policy from time to
+                                            time,
+
+
+
+
+
+��õȱ���ᵼ�����ڱ���������Ȩ����ʵ�ʼ������ǽ��ڱ����Чǰ��ͨ����ҳ������λ����ʾ���������͵����ʼ��ȷ�ʽ֪ͨ����
+and if such changes result in a substantial
+                                                    impairment of your rights under this
+                                                    Privacy policy, we will notify you by sending you an e-mail and by
+                                                    reminding you at prominent place on the
+                                                    webpage before the changes take effect.
+
+
+
+
+
+�ڸ�������£���������ʹ�����ǵķ��񣬼���ʾͬ���ܾ��޶�������Լ����
+Under such circumstances, if you continue to use
+                                                    our services, you will be deemed to
+                                                    have agreed to be bound by the updated policy.
+
+
+
+
+
+
+
+
+
+����
+Additional Information
+
+
+
+
+TrueDepth ����˽�Լ�¼FaceID����Ϣ��
+TrueDepth does not keep information such as FaceID without
+                                            proper authorization.
+
+
+
+
+
+������Pͼʹ����Ƶ���㹦�ܣ���Ӧ��AR������Чʱ�����ǻ�ʹ��TrueDepth
+                                                    APIs���Դﵽ���õ��Ӿ�Ч����
+TrueDepth APIs are used in the video shooting
+                                                    feature of Pitu app, especially when
+                                                    you apply the special effects of AR changing face feature.
+
+
+
+
+
+�ڴ˹����У���ʹ��TrueDepth APIs���г�����Ⱦ��
+TrueDepth APIs improve the vision effects by
+                                                    conducting image rendering and it is the
+                                                    sole use of TrueDepth APIs.
+
+
+
+
+
+TrueDepth APIsʹ�ò����ռ��û�Face��Ϣ��
+The use of TrueDepth APIs does not collect and
+                                                    share any user��s Face informationand
+                                                    does not record any user��s Face information by any means including
+                                                    but not limited to generating any cache
+                                                    memory and uploading data to cloud, etc.
+
+
+
+
+
+TrueDepth
+                                                    APIsʹ�ò�������κλ��浽�ļ����ϴ����ƶ˵������κμ�¼�û�Face��Ϣ�Ĳ�����
+
+
+
+
+
+TrueDepth APIsʹ�ò�������û�Face��Ϣ��
+
+
+
+
+
+�����в�������κλ��浽�ļ����ϴ����ƶ˵������κμ�¼�û�Face��Ϣ�Ĳ�����
+
+
+
+
+
+
+
+
+
+
+
+
+Cookie����˵��
+Cookie Policy Statement
+
+
+
+
+ʲô��Cookie��
+What is a Cookie?
+
+
+
+
+
+Cookie ��һ�ֿ�����վ�����������ݴ洢�ڿͻ��˻�ӿͻ����ж�ȡ���ݵ�����������
+A Cookie is a neutral technology that enables a
+                                                    website server to store data on your
+                                                    device or to read data from your device.
+
+
+
+
+
+Cookie �ļ��Ǵ洢��һЩ���û�������վ�й���Ϣ���ļ�����ʽΪ.txt��
+A Cookie file stores certain information about a
+                                                    user's access or use of the website
+                                                    and is in the format of .txt.
+
+
+
+
+
+Cookie ����ͨ�����������ܡ�
+The content of a Cookie is usually
+                                                    encrypted.
+
+
+
+
+
+��ȫ��Cookie������Ϊ�û�������ʱ�ṩ��Ϊ��ݵķ���
+A safe Cookie technology may bring more convenient
+                                                    service to users when surfing
+                                                    online.
+
+
+
+
+
+
+
+
+
+Cookie����˵��
+Cookie Policy Statement
+
+
+
+
+��Ѷʹ��Cookie��Ŀ��
+Why do we use Cookies?
+
+
+Cookie �������û�������ʹ������ʮ����Ҫ����Ѷʹ��Cookieһ���������Ŀ�ģ�
+Cookies are important in improving user experience.
+                                            Tencent generally uses Cookies for
+                                            the purposes below:
+
+
+
+
+
+
+
+������֤
+Identity Authentication
+
+
+
+
+Cookie�������������ǵķ���ʱ֪ͨ���ǣ���ʹ���ǿ���֤����������Ϣ����ȷ�������˺Ű�ȫ��
+Cookies notify us when you sign into our services so that
+                                            we can authenticate your
+                                            identity to ensure the security of your account.
+
+
+���磬Cookie����������������Ѷ����ʱ֪ͨ���ǣ���ˣ������ܹ���������������Ѷ�����վ��ʱ��ʶ���Ƿ������˰�ȫ��¼��������ʾ������ص���Ϣ��
+For example, Cookies will notify us when you log into
+                                            Tencent services, so we can tell
+                                            whether it is logged in safely by yourself and show you your relevant
+                                            information when you access to any of
+                                            Tencent's websites.
+
+
+
+
+
+
+
+ƫ������
+Preferences
+
+
+
+
+Cookie�ɰ������ǰ�������ϣ���ķ�����ʽ����۵ĸ��Ի�����Ϊ���ṩ����
+Cookies allow us to provide service for you according to
+                                            personalized settings which
+                                            based on your preferred look and appearance of our services.
+
+
+���磬
+                                            Cookie�����ɼ�¼���Ƿ��Ѿ��Ķ���һЩ��ʾ�Ե�չ�֣���ֹ�ظ���ʾ�������ɧ�ţ�һЩ�Ķ�չ��(�������С��)����������ƫ�õ��趨������Ҳ������Cookie�У���������ʱ�Զ�Ϊ�����������ϴ��趨��ֵ��
+For example, we use Cookies to record whether you have
+                                            read certain notifications to
+                                            avoid repetitive notice; we also use Cookies to remember your personalized
+                                            text display settings (such as
+                                            font, text size etc.). Our websites will make automatic adjustments
+                                            according to your previous settings.
+
+
+
+
+
+
+
+��ȫ
+Security
+
+
+
+
+Cookie�ɰ������Ǳ������ݺͷ���İ�ȫ�ԣ��Ų�������ǵĲ�Ʒ�ͷ�������ס��ڿ͡���թ��Ϊ��
+Cookies help us to protect the security of our data and
+                                            services, and to detect
+                                            cheating, hacker and fraudulent activities against our products or
+                                            services.
+
+
+���磬Cookie���Դ��Ʊ����Ϣ���ܹ��ɷ�������֤�Ƿ����������ڱ�վ���������¼��ͨ��Ʊ���еļ�����Ϣ����ֹ�������͵Ĺ�������ֹ��վ��Ϣ��ȡ���ʣ���ֹ����ð����ʡ�
+For example, we use Cookies to store security identifier,
+                                            which is used by a server to
+                                            verify whether you log into our website by yourself in a regular manner. The
+                                            security identifier contains
+                                            encrypted information and allows us to block many kinds of attacks, prevent
+                                            cross-website information theft
+                                            and unauthorized attempt using other's identification.
+
+
+
+
+
+
+
+���������
+Features and Services
+
+
+
+
+Cookie�ɰ�������Ϊ�û��ṩ���õĲ�Ʒ�ͷ���
+Cookies may help us to provide better products and
+                                            services for users.
+
+
+���磬Cookie�����������е�¼ʱ��ͨ���洢����Ϣ���������������һ�ε�����˻����ƣ�������Ĳ���Ч�ʡ�
+For example, when you log in, your user name recorded in
+                                            Cookies during your previous
+                                            use of our services will be automatically filled in to provide you a more
+                                            efficient service.
+
+
+
+
+
+
+
+Ч��
+Efficiency
+
+
+
+
+Cookie���Ա��ⲻ��Ҫ�ķ��������أ���߷���Ч�ʣ���ʡ��Դ����Դ��
+Cookies could avoid unnecessary server load, improve
+                                            service efficiency, and reduce
+                                            resource and energy consumption.
+
+
+���磬Cookie�ɰ��������Ż��ڷ�����֮��·�������������˽ⲻͬ�û��������Ƿ���ʱ���ٶȣ���ʱ�����ǻ������Cookie��������ʹ��ʱ���ؼ���Ӧ�ø��졣
+For example, Cookies may help us to route traffic among
+                                            servers and measure the loading
+                                            speed of different users. Sometimes we may use Cookies for faster loading
+                                            and response during your use.
+
+
+
+
+
+
+
+�������о�
+Analytics and Research
+
+
+
+
+����ʹ����ЩCookie���˽⡢�������ǵĲ�Ʒ�ͷ���Ϊ�²�Ʒ���ܵ��з��ṩ�ο����ݡ�
+We use these cookies to understand, improve our products
+                                            and services and to provide
+                                            reference data for the research and development of new products or
+                                            features.
+
+
+���磬���ǻ�ʹ��Cookie���˽���ʹ�����Ƿ���ķ�ʽ����������û����顣
+For example, we use cookies to understand how you use our
+                                            services in order to improve
+                                            user experience.
+
+
+�������ڽ������Ƿ���ʱ���ڸ����������ķѵ�ʱ�䣬���ǻ��ռ�����Ϣ���Է����о��ܹ���һ���Ż��͸��Ƶķ��档
+When you log in our services, we may collect information
+                                            such as time spent during each
+                                            step of your log in process so as to help our research and analytics to
+                                            further optimize and improve our
+                                            products.
+
+
+
+
+
+
+
+����Ż�
+Advertising Optimization
+
+
+
+
+Cookie����߹����û���������������������Թ�����������̵ļ�ֵ��
+We use Cookies to make our advertising more engaging to
+                                            the users and more valuable to
+                                            advertisers and publishers.
+
+
+���磬Cookie���԰�����������Ѷ��վ��������������ʾ�����ܸ���Ȥ�Ĺ�档
+For example, Cookies may help us to provide you
+                                            advertising that you may be interested
+                                            in on Tencent��s websites or in our software.
+
+
+����Ҳ��ʹ��Cookie��֪��������Ѷ��վ�㿴�������ˣ�֮���Ƿ�����ù���̵���վ��
+We also use Cookies to know whether a user who saw an ad
+                                            on Tencent��s website later
+                                            visits the advertiser��s website.
+
+
+ͬ���أ����ǵĺ��������ܻ�����Cookie��ȷ�������Ƿ�����ʾ��桢�˽���ı��֣����������ṩ��������֮��Ļ�����Ϣ��
+Similarly, our partners may use a Cookie to determine
+                                            whether we have shown an ad and
+                                            how it performed, or provide us with information about how you interact with
+                                            ads.
+
+
+
+
+
+
+
+Cookie����˵��
+Cookie Policy Statement
+
+
+
+
+��ι���Cookie
+How to manage Cookies?
+
+
+
+
+
+������������Ϊ�û��ṩ�˹���Cookie �Ĺ��ܡ�
+Most browsers give you the ability to manage
+                                                    Cookie features.
+
+
+
+
+
+���û��ڽ����������Cookie����ʱ�����������Լ����ε���վ����
+                                                    Cookie���ܣ���ֹ������վʹ��Cookie���ܡ�
+When you manage browser Cookie settings, you can
+                                                    allow Cookies from sites you trust
+                                                    while disable Cookies from other sites.
+
+
+���磬������QQ����������н���Cookie�Ĺ�����
+For example, you can manage Cookies in the content
+                                                    settings of QQ web browser. 
+
+
+ͬʱ���������Կ�������ֹ���٣�DNT�������ܡ�
+At the same time, you can enable ��Do Not Track��
+                                                    (��DNT��) feature so that you will not
+                                                    be tracked by cookies.
+
+
+
+
+
+����ע�⣬���ͣ��Cookie���������޷�������ѵķ������飬ĳЩ����Ҳ�����޷�����ʹ�á�
+Please notice, if you disable cookie, you may not be
+                                                able to enjoy the best service
+                                                experience, some services also may not work properly.
+
+
+
+
+
+
+
+
+
+
+���ʽ���
+Definitions
+
+
+
+
+
+
+������ϢPersonal Information
+
+
+������Ϣ��ָ�Ե��ӻ���������ʽ��¼���ܹ�����������������Ϣ���ʶ����Ȼ�˸������ݵĸ�����Ϣ����������������Ȼ�˵��������������ڡ�����֤�����롢��������ʶ����Ϣ��סַ���绰����ȡ�
+This is information recorded in an electric form
+                                                    or other forms that can identify an
+                                                    individual itself or when it is associated with other information.
+                                                    Personal information includes, without
+                                                    limitation, the individual's name, date of birth, identification
+                                                    card number, biometric identifier,
+                                                    address, telephone number etc.
+
+
+
+
+����������ϢPersonal Sensitive
+                                                    Information
+
+
+����������Ϣ��ָһ��й¶���Ƿ��ṩ�����ÿ���Σ�������ͲƲ���ȫ�����׵��¸������������Ľ����ܵ��𺦻������Դ����ȵĸ�����Ϣ�����磬����������Ϣ��������֤�����롢��������ʶ����Ϣ�������˺š�ͨ�����ݡ�����������Ϣ�ȡ�
+Personal Sensitive Information refers to personal
+                                                    information that once leaked,
+                                                    illegally provided or misuse, it will probably danger personal and
+                                                    property safety, or is extremely easy
+                                                    to cause damage or discriminable treatment to personal reputation,
+                                                    physical and mental health. Examples of
+                                                    Personal Sensitive Information include, but are not limited to, an
+                                                    individual's national ID number,
+                                                    biometric information, bank account information, telecommunication
+                                                    content, health and physiological
+                                                    information.
+
+
+
+
+�豸Device
+
+
+�豸��ָ�����ڷ�����Ѷ�����װ�ã�����̨ʽ��������ʼǱ����ԡ�ƽ����Ի������ֻ���
+A device is an equipment that can be used to
+                                                    access Tencent services, such as a
+                                                    desktop computer, a laptop computer, a tablet or a smart
+                                                    phone.
+
+
+
+
+Ψһ�豸��ʶ��Unique Device
+                                                    Identifier
+
+
+Ψһ�豸��ʶ����ר�� ID ��
+                                                    UUID����ָ���豸�����̱��뵽�豸�е�һ���ַ����������Զ��з�ʽ��ʶ��Ӧ�豸�������ֻ��� IMEI �š�mac��ַ����Ψһ�豸��ʶ���ж�����;�����п��ڲ���ʹ��cookies���������ƶ�Ӧ�ó����У�ʱ�����ṩ��档
+A unique device identifier (sometimes called a
+                                                    unique ID or UDID) is a string of
+                                                    characters that is incorporated into a device by the manufacturer
+                                                    and can be used to uniquely identify
+                                                    that device (for example, an IMEI number of a mobile phone). Unique
+                                                    device identifier can be used for
+                                                    various purposes, including providing advertising without using
+                                                    cookies (for example, in applications for
+                                                    portable devices).
+
+
+
+
+IP��ַIP Address
+
+
+ÿ̨�������豸����ָ��һ����ţ���Ϊ������Э�� (IP)
+                                                    ��ַ����Щ���ͨ�����Ǹ��ݵ�������ָ���ġ�IP ��ַͨ��������ʶ���豸������������ʱ���ڵ�λ�á�
+Every device connected to the Internet is assigned
+                                                    a number known as an Internet
+                                                    protocol (IP) address. These numbers are usually assigned according
+                                                    to geographic areas. An IP address can
+                                                    often be used to identify the location where a device is connecting
+                                                    to the Internet.
+
+
+
+
+GPSGPS
+
+
+Global Positioning
+                                                    System��ȫ��λϵͳ���ļ�ơ���ʹ�õ��豸�ϵ�GPS�źŽ��������Դ�GPS�����յ��źŲ����ô�������Ϣ��������λ�á�
+GPS is short for Global Positioning System. The
+                                                    GPS receiver on your device receives
+                                                    signal from a GPS satellite to calculate your location.
+
+
+
+
+WIFIWIFI
+
+
+Wi-Fi��һ�����������豸���ӵ�һ�����߾�������WLAN���ļ�����ͨ��������˵���������硣
+Wi-Fi is a technology for electric devices to
+                                                    connect to a wireless local area
+                                                    networking (WLAN). Wi-Fi is usually referred to as wireless
+                                                    network.
+
+
+
+
+��վBase Station
+
+
+��վ���������ƶ�ͨ�Ż�վ�������ߵ�̨վ��һ����ʽ����ָ��һ�������ߵ縲�����У�ͨ���ƶ�ͨ�Ž������ģ����ƶ��绰�ն�֮�������Ϣ���ݵ����ߵ��շ��ŵ�̨��
+Base station, also known as public wireless
+                                                    telephone base station, is a form of
+                                                    wireless communication station, which refers to a radio transceiver
+                                                    station communicating with mobile
+                                                    phone terminals via a mobile communication switching center in a
+                                                    specific area with radio coverage.
+
+
+
+
+SSLSSL
+
+
+SSL��Secure Socket
+                                                    Layer���ֳ�Ϊ��ȫ�׽Ӳ㣬���ڴ���ͨ��Э�飨TCP/IP����ʵ�ֵ�һ�ְ�ȫЭ�顣SSL֧�ָ������͵����磬ͬʱ�ṩ���ֻ����İ�ȫ���񣬾�ͨ��ʹ�ù�����Կ�ͶԳ���Կ�����Դﵽ��Ϣ���ܵ�Ч����
+SSL is short for Secure Socket Layer, it is a
+                                                    security protocol implemented on top of
+                                                    TCP/IP protocols. SSL supports various network and it provides three
+                                                    basic security services, all of which
+                                                    are enabled by a public key and a symmetric key.
+
+
+
+
+��ͯ
+
+
+��ָͯ14�������µ�δ�����ˡ�
+
+
+
+
+��Ϣ�ռ�����Information Collection
+                                                    Technology
+
+
+�����ڡ���˽���ߡ��������ġ��Զ��ռ����������·�ʽ��
+Automated collection technology we mentioned in
+                                                    our Privacy Policy includes:
+
+
+
+
+1Cookie�����浵����Cookie
+
+
+Cookie���������ҳʱ����վ���������ڿͻ��ˣ����ļ�������ƶ��绰�����������ն��ڣ������һ��СС���ı��ļ��������ڸ�������ʹ�����飬����ɲμ���Cookie����˵������
+A Cookie is a small piece of text file
+                                                            placed onto your device (your PC, mobile
+                                                            phone or other smart terminal devices) by a website server,
+                                                            which can be used to improve your user
+                                                            experience. Please refer to Cookie Policy for
+                                                            details.
+
+
+
+
+2Web
+                                                            beacon�������ű꣩Web beacon
+
+
+Web
+                                                            beacon��װǶ����վ������ڵĵ���ͼ���ļ��������������������ڼ���ÿ���Ŀ����¼���Ƿ񼰺�ʱ�������ʻ���վ��������ʹ��ĳЩCookie��
+A web beacon is an embedded image file or
+                                                            other techniques embedded in a web page
+                                                            or email, which allows checking the number of visitors,
+                                                            recording whether and when an email is read or a
+                                                            web page is visited. Some web beacons can also be used in
+                                                            association with Cookies.
+
+
+
+
+3Log
+                                                            files����־�ļ���Log files
+
+
+Log
+                                                            files�����Զ��ռ����������ݡ��õ����ݰ���������Э�飨IP����ַ����������͡������������ṩ�̣�ISP��������/�˳�ҳ�桢����ϵͳ������/ʱ����͵�������ݵȡ�
+Log files records some automatically
+                                                            collected data. Such data includes Internet
+                                                            Protocol (IP) address, browser type, Internet Service
+                                                            Provider (ISP), referring/exit pages, operation
+                                                            system, time and date stamping and number of clicks
+                                                            etc.
+
+
+
+
+4ET
+                                                            Tag��ʵ���ǩ��ET Tag
+
+
+ET
+                                                            Tag���ڻ�����������뻥����������֮�䱳���͵�HTTPЭ���ͷ���ɴ���Cookie������׷�ٸ���ʹ���ߣ�ʹ���ǿɸ�������˽�͸������ǵķ���
+ET Tag is the header of HTTP protocol,
+                                                            behind the communication between an Internet
+                                                            browser and an Internet server. It can be used to replace
+                                                            cookies in tracking some users so as to help
+                                                            us understand better and improve our services.
+
+
+
+
+5JavaScriptJavaScript
+
+
+JavaScript��һ�ֱ�����ԣ������������߻����ԺͶ�̬����ҳ��JavaScript�����趨Cookie���Ķ�Cookie��ɾ��Cookie��
+JavaScript is a programming language used
+                                                            to make more interactive and dynamic
+                                                            webpages. JavaScript can be used to set, read and remove
+                                                            cookies.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+��˽����ָ��
+Privacy Protection Guidelines
+
+
+
+
+
+QQ
+QQ��˽����ָ��
+
+
+
+΢��
+΢����˽����ָ��
+
+
+
+��Ѷ��Ƶ
+��Ѷ��Ƶ��˽����ָ��
+
+
+
+΢��
+΢����˽����ָ��
+
+
+
+��ѶWiFi�ܼ�
+��ѶWiFi�ܼ���˽����ָ��
+
+
+
+��Ѷ��ͼ
+��Ѷ��ͼ��˽����ָ��
+
+
+
+��Ѷ��ѡ��
+��Ѷ��ѡ����˽����
+
+
+
+QQ�Ķ�
+QQ�Ķ��û�������Ϣ��������˽����Э��
+
+
+
+��Ѷ����
+��Ѷ��Ѷ��Ʒ��˽����ָ��
+
+
+
+����챨
+��Ѷ��Ѷ��Ʒ��˽����ָ��
+
+
+
+��Ѷ����
+��Ѷ������˽����ָ��
+
+
+
+��ҵ΢��
+��ҵ΢����˽����ָ��
+
+
+
+��Ѷ����
+��Ѷ������˽����
+
+
+
+������
+��������˽����
+
+
+
+΢�Ŷ���
+΢�Ŷ����û���˽����
+
+
+
+��Ѷ����
+��Ѷ��Ѷ��Ʒ��˽����ָ��
+
+
+
+�����ͻ
+PRIVACY
+                                    POLICY��Supercell��
+
+
+
+��Ϸ��Ʒ
+��Ѷ��Ϸ��˽����ָ��
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+��Ʒָ��
+Product Manual
+
+
+
+��΢��WeChat
+
+
+��QQQQ
+
+
+��QQ�ռ�Qzone
+
+
+��������ҫArena
+                                                of Valor
+
+
+��QQ�����QQ
+                                                Browser
+
+
+����Ѷ��ͼTencent
+                                                Maps
+
+
+���ֻ��ܼ�WeSecure
+
+
+����Ѷ��ƵTencent
+                                                Video
+
+
+
+
+
+
+
+
+
+
+
+
+΢��WeChat
+
+
+
+
+
+
+
+
+΢����һ������Ѷ�ṩ������罻��Ʒ��Ŀǰ��΢��ͨ���˹������簲ȫ�ȼ��������������Ĳ����ͱ���������Ϣ��ȫ�����ѴﵽISO27001��������Ϣ��ȫ������ϵ��TRUSTArc�ȹ���Ȩ����֤��׼��Ҫ�󣬲��ѻ������Ӧ����֤��
+WeChat is a social networking application developed by
+                                            Tencent. WeChat app has passed
+                                            and been recognized as a Grade III Information System in accordance with the
+                                            Administrative Measures for the
+                                            Graded Protection of Information Security of the P.R. China. WeChat has also
+                                            received international
+                                            information security certification such as ISO27001, ISO 17799/BS7799
+                                            Information Security Certification and
+                                            TRUSTArc etc.
+
+
+΢��Ϊ���õر����û���˽����Ϣ��ȫ���ṩר�ŵ���˽�������ü��ʻ���ȫ���ϴ�ʩ��Ϊ�û��ṩȫ�������ڵ���˽�������û����Բ�ѯ���޸ġ�������ɾ���Լ�����Ϣ��
+In order to better secure users�� privacy and personal
+                                            information, WeChat offers
+                                            designated privacy settings and account security measurements which provide
+                                            users lifecycle information
+                                            protection. A user is able to search, edit, share and delete his/her
+                                            information.
+
+
+������Ϣ
+Information Management
+
+
+
+
+
+��ѯ���޸�
+Review and Edit
+
+
+
+
+
+΢�ŵ�½����������·��С�΢�š�����ͨѶ¼���������֡��͡��ҡ��ĸ���ť��ͨ�����ĸ���ť��ָ�����Բ�ѯ���޸������Ϣ��
+There are four keys at the bottom of WeChat login
+                                                    home page: ��Chats��, ��Contacts��,
+                                                    ��Discover�� and ��Me��. A user can review and edit relevant information
+                                                    using these four keys.
+
+
+
+
+1����ѯ�����¼�����ͺͽ��յ��ļ�
+1. Search
+                                                            Chat History��Files Sent and Received
+
+
+�����΢�š�����ѯ�����¼�����ͺͽ��յ��ļ�
+Click ��Chats�� to search chat history,
+                                                            files sent and received.
+
+
+
+
+2����ѯ΢�ź��Ѻ���֤��Ϣ
+2. Search
+                                                            WeChat Friends and Verification Requests
+
+
+�����ͨѶ¼������ѯ΢�ź��Ѻ���֤��Ϣ
+Click ��Contacts�� to search WeChat friends
+                                                            and verification requests.
+
+
+
+
+3����ѯ����Ȧ��̬
+3. Search
+                                                            Moments
+
+
+��������֡� ��������Ȧ������ѯ����Ȧ��̬
+Click ��Discover�� and search Moments status
+                                                            in ��Moments��
+
+
+
+
+4����ѯ��ҡһҡ�������Ϣ
+4. Search
+                                                            ��Shake�� Messages
+
+
+��������֡�����ҡһҡ�������Ͻ����ã���ѯ���к����ˡ�ҡ������ʷ��Ϣ��ҡһҡ��Ϣ��
+Click ��Discover��, select ��Shake�� and click
+                                                            the settings on the top right corner to
+                                                            search ��Greetings��, history message in ��Shake�� and message
+                                                            received in ��Shake��.
+
+
+
+
+5����ѯ���޸�΢��ͷ��΢���ǳơ���ַ�ȸ�����Ϣ
+5. Review
+                                                            and Edit WeChat Profile Photo, WeChat
+                                                            Nickname, Delivery Address and Other Personal
+                                                            Information
+
+
+������ҡ�����������Ϣ������ѯ΢��ͷ��΢���ǳơ�΢�źš�΢�Ŷ�ά�뼰��ַ�������޸�ͷ�����֡��ҵĵ�ַ�ȣ���������ࡱ����ѯ���޸��Ա𡢵����͸���ǩ��
+Click ��Me��, select ��Personal Information��
+                                                            to search WeChat profile photo, WeChat
+                                                            nickname, WeChat ID, WeChat QR Code and delivery address. A
+                                                            user can also edit profile photo, nickname
+                                                            and delivery address. Other information such as gender,
+                                                            region and ��What��s Up�� can be reviewed and
+                                                            edited by clicking ��More��.
+
+
+
+
+6����ѯ���޸İ��ֻ��š�΢�����롢��������Ӧ����ϵ�ˡ������½�豸����QQ�š�����
+6. Search
+                                                            and Edit Linked Phone Number, WeChat
+                                                            Password, Voiceprint, Emergency Contacts, Manage Devices, QQ
+                                                            ID and Email
+
+
+������ҡ��������á������˻��밲ȫ������ѯ���޸İ󶨵��ֻ��š�΢�����롢Ӧ����ϵ�ˡ������½�豸������������������లȫ���á�����ѯ���޸İ󶨵�QQ�ź������ַ
+Click ��Me��, select ��Settings��, then click
+                                                            ��Account Security�� to review and edit
+                                                            Linked phone number, WeChat password, emergency contacts,
+                                                            manage devices and voiceprint. A user can
+                                                            further review and edit QQ ID and Email by selecting ��More
+                                                            Settings��.
+
+
+
+
+7����ѯ���޸İ����п���֧�����롢����ʱ�䡢�˵�
+7. Review
+                                                            and Edit Linked Bank Cards, Payment
+                                                            Password, Transfer Time and Bills
+
+
+������ҡ�����ѯǮ������Ǯ����ᣬ���޸�Ǯ�������п��İ󶨡�֧�����뼰ת�˵���ʱ�䣻������ҡ���
+                                                            ��Ǯ���� �� ���ϽǷ��� �� ���˵������鿴�����˵�
+Click ��Me��, search Wallet, Balance and
+                                                            Photo Album and edit Linked bank cards,
+                                                            payment password and transfer time. You can review your
+                                                            transaction history by clicking ��Me��, select
+                                                            ��Wallet��, then click the key on the top right corner and
+                                                            choose ��Transactions��.
+
+
+
+
+8����ѯ���˵�����Ȧ��̬
+8. Search
+                                                            Your Moments Status
+
+
+������ҡ�������ᡱ����ѯ����������Ȧ��̬
+Click ��Me��, then ��My Posts�� to search
+                                                            Moments posted.
+
+
+
+
+
+����Share
+
+
+
+
+�û�����ͨ��ת�����ض����ѻ�Ⱥ���Լ�����������Ȧ���ַ�ʽʵ����Ϣ�ķ�����
+A user can share information by forwarding it to a
+                                                    particular friend or a group chat
+                                                    or share it to Moments.
+
+
+
+
+��
+��������Ȧ��̬
+Post Moments
+
+
+��������֡�������Ȧ�����㰴ť���ɷ���ͼƬ�����ֻ�С��Ƶ�ȶ�̬������Ȧ��
+Click ��Discover��, select ��Moments�� and
+                                                            then click the video key to post photos,
+                                                            words, or videos in Moments.
+
+
+
+
+��
+��������ȦȨ�ޡ��鿴��Χ
+Set Moments View Permissions and Review
+                                                            Scopes
+
+
+�����ͨѶ¼����ĳ��΢�ź��ѡ���ϸ���ϡ����Ͻǡ��� ��
+                                                            ������ť����������ȦȨ�ޣ������Ƿ��������������ҵ�����Ȧ��
+Click ��Contacts��, choose a particular
+                                                            WeChat friend, click details, then tap ���� ��
+                                                            ���� key on the top right corner to set Moments and Time
+                                                            Capsule Privacy ,deciding whether to hide your
+                                                            Moments posts from him/her;
+
+
+������ҡ������á���˽���������ò��������������ҵ�����Ȧ�������������Ѳ鿴����Ȧ�ķ�Χ����ѡ��������졢����������ȫ�����������Ƿ�����İ���˲鿴ʮ������Ȧ��
+Click ��Me��, select ��Settings��, then tap
+                                                            ��Privacy�� to set Moments post view
+                                                            permissions uniformly and Viewable by Others (a user can
+                                                            select either last 3 days, last 6 months or
+                                                            all) and decide whether to make last 10 posts to
+                                                            public.
+
+
+
+
+
+ɾ��Delete
+
+
+
+
+΢��Ϊ�û�ɾ��������Ϣ�ṩ��������Ҫ������ʽ��
+WeChat provides two ways to delete personal
+                                                    information: 
+
+
+��1�����󻬡���������2�������ɾ�������������������ա���ע���˺š�������
+(1) ��swiping left�� and (2) clicking ��delete��,
+                                                    ��remove��, ��clear�� or ��account
+                                                    cancellation��.
+
+
+
+
+1��ɾ�������¼���ļ�
+1. Delete
+                                                            Chat History and Chat Files
+
+
+�����΢�š���΢�ź��ѻ�Ⱥ�ĵĶԻ��򣬻��ļ��������֡�����һ��ɾ�������¼���ļ���
+Click ��Chats��, select a WeChat friend or a
+                                                            WeChat group or a ��File Transfer�� and
+                                                            delete particular chat history or chat file by swiping to
+                                                            the left.
+
+
+
+
+2��ɾ����ַ
+2. Delete
+                                                            Address
+
+
+������ҡ�����������Ϣ�������ҵĵ�ַ������ɾ����ַ��Ϣ��
+Click ��Me��, select ��My Profile��, choose
+                                                            ��Region�� and swipe left to delete address
+                                                            information.
+
+
+
+
+3��ɾ��������Ϣ
+3. Delete
+                                                            Transaction History
+
+
+������ҡ�����Ǯ���������Ͻ�ͼ������˵�������ɾ��������Ϣ��
+Click ��Me��, select ��Wallet��, tap the key
+                                                            on the top right corner and choose
+                                                            ��Bills��. Swipe left to delete transaction
+                                                            information.
+
+
+
+
+4��ɾ����������Ӧ����ϵ�ˡ���½�豸��Ϣ
+4. Delete
+                                                            Voiceprint, Emergency Contacts and
+                                                            Manage Devices
+
+
+������ҡ��������á������˺��밲ȫ������������������Ӧ����ϵ�ˡ�������¼�豸����������ɾ����Ӧ��Ϣ��
+Click ��Me��, select ��Settings�� and ��Account
+                                                            Security��, choose ��Voiceprint��,
+                                                            ��Emergency Contacts�� or ��Manage Devices�� and swipe left to
+                                                            remove corresponding contents.
+
+
+
+
+5��ɾ����ҡһҡ�������Ϣ
+5. Delete
+                                                            Information in ��Shake��
+
+
+��������֡�����ҡһҡ�����Ͻ����á���ҡ������ʷ�����󻬻������Ͻǡ���ա���ɾ��ҡһҡ��Ϣ��
+Click ��Discover��, select ��Shake��, click
+                                                            the settings on the top right corner and
+                                                            then choose ��Shake History��. Swipe left or click the ��clear��
+                                                            on the top right corner to remove Shake
+                                                            information.
+
+
+
+
+6��ɾ�����������ˡ�λ����Ϣ
+6. Delete
+                                                            Location Information in ��People Nearby��
+
+
+��������֡������������ˡ������Ͻǡ��� ��
+                                                            ������ť�������λ����Ϣ���˳�����ɾ��λ����Ϣ����δ�򿪡��������ˡ�����ͨ��������ҡ��������á�����ͨ�á���������ҳ���������򿪡��������ˡ�����
+Click ��Discover��, select ��People Nearby��,
+                                                            then click���� �� ����key on the top right
+                                                            corner and select ��clear location information and log out��
+                                                            to remove location information. If ��People
+                                                            Nearby�� is off, you can turn on by clicking ��Me��, ��Settings��
+                                                            then choose ��General��, ��Manage Discover�� to
+                                                            turn on ��People Nearby��.
+
+
+
+
+7��ɾ������Ȧ��̬
+7. Delete
+                                                            Moments Posts
+
+
+������ҡ�����ᣬ�򡰷��֡���������Ȧ��ѡ��Ҫɾ���Ķ�̬�����ɾ����
+Click ��Me��, select ��My Posts�� or Click
+                                                            ��Discover�� and select the posts in ��Moments��
+                                                            and remove by clicking ��delete��.
+
+
+
+
+8��ע���˺�
+8. Cancel
+                                                            Accounts
+
+
+������ҡ��������á������˻��밲ȫ������΢�Ű�ȫ���ġ�����ע���˺š���
+Click ��Me��, select ��Settings�� and ��Account
+                                                            Security��, then choose ��WeChat Security
+                                                            Center�� and tap ��Account Cancellation��.
+
+
+ע��
+                                                            ����ע���ʺź����ǽ�ɾ�������������������Ϣ������ɲμ�����Ҫ���ѡ�ҳ�档
+Please note once your account is
+                                                            cancelled, we will delete or anonymize your
+                                                            information. Please refer to Important Notice for
+                                                            details.
+
+
+
+
+
+
+��΢����˽����ָ����
+Weixin Privacy Protection Guideline
+
+
+΢��ͨ����΢����˽����ָ���������û����������ռ�����Ϣ����Ϣ�Ĵ洢����Ϣ�İ�ȫ���������ʹ����Ϣ�������ṩ�����Ȩ���������δ�����˱�������ϵ���ǵ����ݡ�
+Weixin Privacy Protection Guideline
+                                                    (��Guideline��) provides an
+                                                    explanation to how
+                                                    WeChat collects, uses, stores, secures, and shares a user��s personal
+                                                    information. This Guideline also
+                                                    informs a user her rights, amendments, protection of minors, and
+                                                    contact us.
+
+
+�û�ͨ��������ҡ��������á���������΢�š����ڽ����·��ɲ�ѯ��΢����˽����ָ������
+A user can search and review the Guideline by
+                                                    clicking ��Me��, select ��Settings��, tap
+                                                    ��Privacy��, scroll down to the bottom and click ��Terms and
+                                                    Privacy��.
+
+
+
+
+΢�Ű�ȫ����
+WeChat Security Center
+
+
+΢�ű��С���ȫ����һ�С�����������΢�Ű�ȫ���ģ��û�ͨ��΢�Ű�ȫ���Ŀ��Խ���һ��˺����롢����˺š������˺š��ⶳ�˺š�Ͷ��άȨ��ע���˺ŵȰ�ȫ���⡣
+We created WeChat Security Center implementing our
+                                                    principle of ��Secure With Every
+                                                    Connection��. A user can recover WeChat account password, unblock an
+                                                    account, freeze an account, unfreeze
+                                                    an account, file complaints and cancel an account etc.
+
+
+�û���¼΢�Ű�ȫ���Ŀ���ͨ�����ַ�ʽ��
+A user can log in WeChat Security Center by ways
+                                                    of:
+
+
+��1�����ֻ�΢�ſͻ�����ͨ��������ҡ��������á������˻��밲ȫ������΢�Ű�ȫ���ġ���
+(1) Turn on WeChat, click ��Me��, select ��Settings��,
+                                                    tap ��Account Security�� and choose
+                                                    ��WeChat Security Center��; or 
+
+
+��2����¼��ҳ��΢�Ű�ȫ������
+(2) log in WeChat Security Center webpage.
+
+
+���⣬΢���ṩ����Ѷ�ͷ����ٷ����ںš���Ѷ�ͷ���С���򡢡���Ѷ�ٱ��������ġ�С���򼰡������뷴�������û���ͨ������;��������ѯ�ͽ����˽������⡣�û������΢�š��������������򡰷��֡�����С����������������С��������Ƽ��ɻ�ȡ���С���򣻵���ҡ��������á����������뷴�������ɻ�ȡ������ݡ�
+WeChat also provides ��Tencent Customer Service��
+                                                    WeChat official account, ��Tencent
+                                                    Customer Service�� mini program, ��Tencent Reporting Center�� mini
+                                                    program and ��Help and Feedback��. A user
+                                                    can search and seek answers using these services. A user can
+                                                    retrieve relevant information by clicking
+                                                    ��Chats�� and tapping ��Search�� or clicking ��Discover�� and running a
+                                                    search of the program names in ��mini
+                                                    programs�� or clicking ��Me��, selecting ��Settings�� and entering into
+                                                    ��Help and Feedback��.
+
+
+
+
+
+
+
+
+
+
+
+QQQQ
+
+
+
+
+
+
+
+��ѶQQ��һ�����Internet�ļ�ʱͨ�ţ�IM��������Ŀǰ�Ѿ�����Microsoft Windows��OS
+                                            X��Android��iOS��Windows
+                                            Phone�ȶ�������ƽ̨����ѶQQ֧���������졢��Ƶͨ������Ե�ϵ������ļ��������ļ�������Ӳ�̡�QQ����ȶ��ֹ��ܣ����������ͨѶ�ն�������
+Tencent QQ is an Internet based instant messaging (IM)
+                                            software service which is widely
+                                            available on Microsoft Windows, OS X, Android, iOS and Windows Phones.
+                                            Tencent QQ offers features such as
+                                            online chatting, video call, point to point file transfers with functions of
+                                            transfer resuming after
+                                            interruption, file sharing, cloud storage and QQ Email. It also enables the
+                                            connections among varies types
+                                            of terminal devices.
+
+
+QQΪ���õر����û���˽����Ϣ��ȫ���ṩר�ŵ���˽�������ü��ʻ���ȫ���ϴ�ʩ��Ϊ�û��ṩȫ��λ����Ϣ�������û����Բ�ѯ���޸ġ�������ɾ���Լ�����Ϣ��
+To better protect users�� privacy and information security,
+                                            QQ provides designated
+                                            privacy settings and account security measurements which enable a user to
+                                            search, edit, share and delete her
+                                            personal information.
+
+
+������Ϣ
+Information Management
+
+
+
+
+
+��ѯ���޸�
+Review and Edit
+
+
+
+
+
+QQ��¼������������ϽǺ��·��С����㡱������Ϣ��������ϵ�ˡ��͡���̬���ĸ���ť��ͨ�����ĸ���ť��ָ�����Բ�ѯ���޸������Ϣ��
+There are four keys at the top left corner and
+                                                    bottom of QQ login home page:
+                                                    ��Higlights��, ��Chats��, ��Contacts�� and ��Status��. A user can review and
+                                                    edit personal information using these
+                                                    four keys.
+
+
+
+
+1����ѯ���޸�ͷ���ǳơ�ǩ�����Ա����䡢��Ƭ����Ϣ
+1. Search, Edit Information such as Avatar,
+                                                            Nickname, What��s Up, Gender, Age, Photo etc.
+
+
+������Ͻǡ�ͷ�񡱣���ѯͷ���ǳơ�ǩ����QQ�š��Ա𡢵ȼ�����Ƭ�����䡢���Ա�ǩ�����ڵء���ά�����Ϣ��
+Click ��Avatar�� on the top left corner to
+                                                            search avatar, nickname, what��s up, QQ ID,
+                                                            gender, QQ grade, photo, age, personal tag, region, QR code
+                                                            etc.;
+
+
+
+
+2����ѯ�˻��������롢��ȯ����Ϣ
+2. Search
+                                                            Account, Payment Code and Cards
+
+
+���ͷ�����Ǯ��������ѯ�˻��������롢��ȯ��;
+Click ��Avatar��, select ��Wallet�� to review
+                                                            account, payment code, cards and etc.
+
+
+
+
+3����ѯ���޸��ջ���ַ��֧�����롢ʵ����֤��Ϣ����������Ƚ�����Ϣ
+3. Search
+                                                            and Edit Shipping Address, Payment
+                                                            Password, Real-Name Authentication, Gesture Lock and other
+                                                            Transactional Information
+
+
+���ͷ������½ǡ����á�����ѯ���׼�¼����ַ������ʵ����֤��Ϣ�ȣ�ͬʱ���ڴ˽����޸��ջ���ַ��ʵ����֤��Ϣ��֧�����롢Ǯ���������롢ָ��֧����;
+Click ��Avatar�� and select ��settings�� on
+                                                            the bottom left corner to review
+                                                            information including transaction history, address
+                                                            management and real-name authentication. A user can
+                                                            also edit shipping address, real-name authentication
+                                                            information, payment password, gesture lock, pay
+                                                            with Touch ID and etc.
+
+
+
+
+4����ѯ�ղء���ᡢ�ļ�
+4. Search
+                                                            Favorites, Photo Album and Files
+
+
+���ͷ������ҵ��ղء������ҵ���ᡱ�����ҵ��ļ�������ѯ�����Ϣ;
+Click ��Avatar��, then select ��My
+                                                            Favorites��, ��My Photo Album�� and ��My Files�� to
+                                                            search relevant information
+
+
+
+
+5����ѯ���޸��ʺ���Ϣ
+5. Search
+                                                            and Edit Account Information
+
+
+���ͷ��������á�����ѯ���޸��˺���Ϣ���˺Ź����������¼�˺š�����QQ�ţ������ֻ����롢�˺š��豸��ȫ���ܱ��ֻ����롢��¼��֤�豸����ǰ���ߡ�����ָ�ƣ���;
+Click ��Avatar��, select ��Settings�� to
+                                                            search and edit account information including:
+                                                            account management (multiple login accounts or associated QQ
+                                                            IDs), linked phone number, linked accounts,
+                                                            device security (password linked phone number,
+                                                            authentication device, on-line status, pattern and touch
+                                                            ID) and etc.
+
+
+
+
+6����ѯ�����¼��Ⱥ��Ϣ����ʱ��Ϣ������š����ںŵ�
+6. Search
+                                                            Chatting History, Group Messages,
+                                                            Temporary Messages, Service Account, Official Account
+                                                            etc.
+
+
+�������Ϣ������ѯ�����¼��Ⱥ��Ϣ����ʱ��Ϣ������š����ںš������뷢�͵��ļ����������͵�;
+Click ��Chats�� to search chatting history,
+                                                            group messages, temporary messages,
+                                                            service account, official account, received and sent files,
+                                                            push features etc.
+
+
+
+
+7����ѯ���ѡ��ر���ġ�Ⱥ�ġ��豸��ͨѶ¼�����Ѷ�̬����Ȥ�����
+7. Search
+                                                            Friends, Special Attention, Group Chats,
+                                                            Devices, Contacts, Friends�� Qzone Status, Hobby Groups and
+                                                            etc.
+
+
+�������ϵ�ˡ�����ѯ���ѡ��ر���ġ�Ⱥ�ġ��豸��ͨѶ¼�����ںŵȣ��������ϵ�ˡ����������ѡ�����ѯ����֪ͨ�������Ƽ����������̬������ѯ���Ѷ�̬����������Ȥ���䣻
+Click ��Contacts�� to search friends,
+                                                            special attention, group charts, devices,
+                                                            contacts and official accounts. Click ��Contacts�� and select
+                                                            ��New Friend�� to search friend request,
+                                                            friend recommendations. Click ��Status�� to search friends��
+                                                            status, nearby and hobby groups.
+
+
+
+
+8����ѯ���޸Ŀ����Ĺ���
+8. Search
+                                                            and Edit Features Turned On
+
+
+�������̬�������Ͻǡ����ࡱ����ѯ���޸Ŀ����Ĺ��ܡ�
+Click ��Status�� and select ��More�� on the
+                                                            top right corner to search and edit
+                                                            features turned on.
+
+
+
+
+
+
+����Share
+
+
+
+
+
+�û�����ͨ���ԡ��ҵ��ղء������ҵ���ᡱ�����ҵ��ļ���ת�����ض����ѻ�Ⱥ���Լ�������QQ�ռ����ַ�ʽʵ�ַ�����
+A user can share information by forwarding ��My
+                                                    Favorite��, ��My Photo Album��, or ��My
+                                                    Files�� to a particular friend or a group chart or share it to
+                                                    Qzone.
+
+
+1. ������Ͻ�ͷ��
+                                                    �����ҵ��ղء�/���ҵ���ᡱ/���ҵ��ļ�������ת����������Ϣ���з�����
+1. Click ��Avatar�� on the top left corner, select
+                                                    ��My Favorite�� or ��My Photo Album�� or
+                                                    ��My Files��, then tap ��forward�� to share the information;
+
+
+2. �������̬���������Ѷ�̬�������Ͻ����ӣ�����˵˵��ͼƬ��С��Ƶ�ȶ�̬��QQ�ռ䡣
+2. Click ��Status��, select ��Friend Status�� then
+                                                    click the ��Add�� key on the top right
+                                                    corner, share comments, photos and videos in Qzone.
+
+
+
+
+ɾ��Delete
+
+
+
+
+
+QQΪ�û�ɾ��������Ϣ�ṩ��������Ҫ������ʽ��
+QQ provided two ways to delete personal
+                                                    information: 
+
+
+��1�����󻬡���������2�������ɾ��������ա�������ͬʱ���û�����ͨ��PC���˽�����˺ŵ�ע����
+(1) ��swiping to the left�� and (2) click ��delete��
+                                                    or ��clear��. A user can also access
+                                                    account cancellation information through QQ personal computer
+                                                    terminal.
+
+
+
+
+1��ɾ��������Ϣ
+1. Delete
+                                                            Basic Information
+
+
+������Ͻ�ͷ��ɾ��������Ϣ��
+Click ��Avatar�� on the top left corner to
+                                                            remove basic information.
+
+
+
+
+2��ɾ���ղء���ᡢ�ļ�����Ϣ
+2. Delete
+                                                            information such as ��Favorites�� ��Photo
+                                                            Album�� and ��Files��
+
+
+������Ͻ�ͷ�񣬶ԡ�QQǮ���������ҵ��ղء������ҵ���ᡱ�����ҵ��ļ����е������󻬽���ɾ����
+Click ��Avatar�� on the top left corner,
+                                                            select ��QQ Wallet (Click in Account)�� or ��My
+                                                            Favorite��, or ��My Photo Album (as in Qzone)�� or ��My Files��
+                                                            and swipe to the left.
+
+
+������Ͻ�ͷ��
+                                                            �������á������˺š��豸��ȫ�������˺ź͵�¼��֤���豸�Ƚ���ɾ����
+Click ��Avatar�� on the top left corner,
+                                                            select ��Settings��, then choose ��Account and
+                                                            Device Security�� to remove accounts and login authentication
+                                                            devices.
+
+
+
+
+3��ɾ�������¼�������ļ�
+3. Delete
+                                                            Chat History and Chat Files
+
+
+������Ͻ�ͷ��
+                                                            �������á����������¼�����������¼���С���ա�����������Ϣ������һ��ɾ�������¼���ļ���
+Click ��Avatar�� on the top left corner,
+                                                            select ��Settings�� and choose ��Chat History��
+                                                            to clear or Click ��Messages�� and remove relevant chat
+                                                            history or files by swiping to the left.
+
+
+
+
+4��ɾ�����ѡ�����֪ͨ/�Ƽ�����̬��Ϣ���ر��ر����
+4. Delete
+                                                            Friends, Friend Requests, Friend
+                                                            Recommendations, Status Information and Cancel Special
+                                                            Attention.
+
+
+�������ϵ�ˡ���ĳ��QQ���ѡ��رա��ر���ġ�/ɾ�����ѣ�
+Click ��Contacts��, select a particular QQ
+                                                            Friend and cancel ��Special Attention�� or
+                                                            delete friend;
+
+
+�������ϵ�ˡ����������ѡ���ɾ������֪ͨ������Ƽ���
+Click ��Contacts��, select ��New Friend�� to
+                                                            delete friend request or friend
+                                                            recommendation;
+
+
+�������̬���������Ѷ�̬��ɾ����̬��Ϣ��
+Click ��Status��, select ��Friend Status�� to
+                                                            delete status information.
+
+
+
+
+5���˳�Ⱥ�ġ�ȡ����ע���ں�
+5. Quit a
+                                                            Group Chat and Cancel Official Account
+                                                            Subscription
+
+
+�������ϵ�ˡ�����Ⱥ�ġ������Ⱥ�����Ͻ�ͼ�� �����Ͻ�ͼ��
+                                                            ���˳�Ⱥ�ģ�
+Click ��Contacts��, select ��Group Charts��,
+                                                            choose the target group and click the key
+                                                            on the top right corner, then tap the key on the top right
+                                                            corner to quit from the group chat;
+
+
+�������ϵ�ˡ��������ںš������빫�ںš����Ͻ�ͼ��
+                                                            �����Ͻ�ͼ�꣬ȡ����ע��
+Click ��Contacts��, select ��Official
+                                                            Account��, tap the key on the top right corner
+                                                            after entering official account and click the key on the top
+                                                            right corner again to cancel the
+                                                            subscription.
+
+
+
+
+
+
+��˽����
+Privacy Settings
+
+
+QQΪ�û��ṩ��˽�������ã��û���ͨ��������Ͻ�ͷ�� �������á�������ϵ�ˡ���˽���������������ݣ�
+QQ offers its users the opportunity to manage her privacy
+                                            by clicking ��Avatar�� on the
+                                            top left corner, select ��Settings�� and choose ��Contacts, Privacy��. A user
+                                            can change privacy settings for
+                                            the following features:
+
+
+��1�����ֻ�ͨѶ¼��
+(1) Linked Phone Contacts;
+
+
+��2���Ӻ������ã�
+(2) Friend Request Settings;
+
+
+��3�����Ѷ�̬���ã�
+(3) Friend Status Settings;
+
+
+��4���ر���ģ�
+(4) Special Attention; and
+
+
+��5����������ϵ�˵ȡ�
+(5) Inactive Contacts.
+
+
+QQ��ȫ����
+QQ
+                                                Security Center
+
+
+QQ��ȫ����Ŭ�������û�QQ��ȫ���ؼ�ʱ�̼�ʱ�����û��˺ŵ�¼������û�����ʱ�����˺Ű�ȫ��̬���鿴��¼��¼���޸����롢���Ѽ�¼�ȣ����������ص�¼�����ʱ���������ѡ�
+QQ Security Center is dedicated to protect QQ security for
+                                            our users and it provides
+                                            users QQ login status during critical time. A user can check her QQ account
+                                            security status, login history,
+                                            update password, and review transaction history at any time. QQ Security
+                                            Center also actively issues a
+                                            warning when a QQ ID is logged in a different location or when there is
+                                            other risks.
+
+
+
+
+
+
+
+
+
+QQ�ռ�Qzone
+
+
+
+
+
+
+
+QQ�ռ���һ��������ѶQQ�û��ľ��в��͹��ܵ������罻ƽ̨��
+Qzone is a social networking blogging website provided by
+                                            Tencent.
+
+
+QQ�ռ�Ϊ���õر����û���˽����Ϣ��ȫ���ṩר�ŵ���˽�������ã�ȷ���û���ʹ��ʱ���õ�����Ϣ��й¶���û����Խ��в�ѯ���޸ġ�������ɾ���Լ�����Ϣ��
+Qzone provides its users designated privacy settings to
+                                            better protect the users��
+                                            privacy and information security. A user can search, edit, share, and delete
+                                            her information without
+                                            worrying about unauthorized disclosure.
+
+
+������Ϣ
+Information Management
+
+
+
+
+
+��ѯ���޸�
+Review and Edit
+
+
+
+
+
+QQ�ռ��¼����������·��С���̬��������Ϣ�������ҵġ��͡�С��Ƶ���ĸ���ť��ͨ�����ҵġ���ť��ָ�����Բ�ѯ���޸������Ϣ��
+There are four keys at the bottom of Qzone login
+                                                    homepage: ��status��, ��message��, ��me��
+                                                    and ��short video��. A user can review and edit personal information
+                                                    using the ��me�� key.
+
+
+
+
+1����ѯ���޸�ͷ��QQ�ǳơ�QQ�š��Ա����ա����䡢���������ҡ����еȸ�������
+1. Search
+                                                            and Edit Personal Information such as:
+                                                            Avatar, QQ Nickname, QQ Number, Gender, Birthday, Age,
+                                                            Zodiac, Country and City, etc.
+
+
+������ҵġ��������á������������ϡ�����ѯ���޸�ͷ��QQ�ǳơ�QQ�š��Ա����ա����䡢���������ҡ����У�
+Click ��Me��, select ��Settings�� then use
+                                                            ��Personal Information�� to review and edit
+                                                            information such as avatar, QQ nickname, QQ number, gender,
+                                                            birthday, age, birthday, zodiac, country and
+                                                            city;
+
+
+
+
+2����ѯ���޸�˵˵
+2. Review
+                                                            and Edit ��Comments��
+
+
+������ҵġ�����˵˵������ѯ���˷��͵�˵˵��������������ɶ�������޸ģ�
+Click ��Me��, select ��Comments�� to review
+                                                            comments posted. A user can edit the
+                                                            comments by clicking ����.
+
+
+
+
+3����ѯ���޸����
+3. Review
+                                                            and Edit Photo Album
+
+
+������ҵġ�������ᡱ����ѯ��Ƭ���޸��������ơ��������桢����Ȩ�޵ȣ�
+Click ��Me��, select ��Photo Album�� to review
+                                                            and edit the name, profile photo and
+                                                            settings etc.
+
+
+
+
+4����ѯ���޸���־��˽���ռ�
+4. Review
+                                                            and Edit Journal and Private Diary
+
+
+������ҵġ�������־������ѯ���޸��ѷ�������־�Լ�˽���ռǣ�
+Click ��Me��, select ��Journal�� to review and
+                                                            edit published journal and private
+                                                            diary.
+
+
+
+
+5����ѯ����
+5. Review
+                                                            Messages
+
+
+������ҵġ��������ԡ�����ѯ���԰�����ԣ�
+Click ��Me��, select ��Messages�� to review
+                                                            messages.
+
+
+
+
+6����ѯ�ÿͼ�¼
+6. Review
+                                                            Visitor History
+
+
+������ҵġ������ÿ͡�����ѯ�ÿͼ�¼��
+Click ��Me��, select ��Visitor�� to review
+                                                            visitor history.
+
+
+
+
+
+
+ɾ��Delete
+
+
+
+
+1��ɾ��˵˵
+1. Delete
+                                                            Comments
+
+
+������ҵġ�����˵˵������������ɾ������ɾ��˵˵��
+Click ��Me��, select ��Comments��, then use
+                                                            ����
+                                                            and click ��Delete��
+                                                            to delete comments.
+
+
+
+
+2��ɾ����ᡢ��Ƭ
+2. Delete
+                                                            Photo Album and Photos
+
+
+������ҵġ�������ᡱ���������Ҫɾ��������
+                                                            ���༭��ᡱ����ɾ����ᡱ��ɾ����᣻
+Click ��Me��, select ��Album��, click and open
+                                                            the photo album to be deleted, select
+                                                            ��Edit Photo Album��, and then click ��Delete Photo Album�� to
+                                                            remove the whole album.
+
+
+������ҵġ�������ᡱ���������Ҫɾ����Ƭ���ڵ�����
+                                                            ����������������ɾ������ɾ����Ƭ��
+In order to delete individual photos,
+                                                            click ��Me��, select ��Album��, click and open
+                                                            the photo album where the photo is located, then click
+                                                            ��Batch Management�� and remove individual photos
+                                                            by clicking ��Delete��.
+
+
+
+
+3��ɾ����־
+3. Delete
+                                                            Journal
+
+
+������ҵġ�������־������ժҪ��������ɾ������ɾ����־��
+Click ��Me��, select ��Journal�� and
+                                                            ��Summary��, click ����
+                                                            and
+                                                            apply ��delete�� to remove journal.
+
+
+
+
+4��ɾ������
+4. Delete
+                                                            Messages
+
+
+������ҵġ��������ԡ�����������ɾ������ɾ�����ԣ�
+Click ��Me��, select ��messages��, click ����and
+                                                            ��delete�� to
+                                                            remove messages.
+
+
+
+
+5��ɾ���ÿͼ�¼
+5. Delete
+                                                            Visitor History
+
+
+������ҵġ������ÿ͡�����˭�����ҡ�����������������ɾ���˷��ʼ�¼����ɾ���ÿͼ�¼
+                                                            ��
+Click ��Me��, select ��Visitors�� and ��People
+                                                            Visited My Qzone��, then click ����������and
+                                                            choose ��Delete this visiting history�� to remove visitor
+                                                            history.
+
+
+
+
+6���˳���¼
+6. Log
+                                                            Out
+
+
+������ҵġ��������á������˳���ǰ�˺š����˳�QQ�ռ�ĵ�¼��
+Click ��Me��, then ��Settings�� and select
+                                                            ��Log Out�� to log out Qzone.
+
+
+
+
+
+
+��˽����
+Privacy Settings
+
+
+QQ�ռ�Ϊ�û��ṩ��˽�������ã��û�����ͨ��������ҵġ��������á�����Ȩ����˽���������������ݣ�
+Qzone offers a user the opportunity to manage her
+                                                    privacy �C by clicking ��Me��,
+                                                    ��Settings�� then select ��Privacy Settings��. A user can change privacy
+                                                    settings for the following features:
+
+
+��1��˭�ܿ��ҵĿռ䣻
+(1) Who can see my Qzone;
+
+
+��2��˭�ܿ��ҵķÿͣ�
+(2) Who can see my visitors;
+
+
+��3��˭�ܿ��ҵ�������Ϣ��
+(3) Who can look up my birthday;
+
+
+��4���������Ķ�̬��
+(4) Block his status;
+
+
+��5���������ã����깦�ܣ���
+(5) View Settings (Reserved for Yellow Diamond
+                                                    Users);
+
+
+��6�������������ܣ�
+(6) Block all secrets;
+
+
+��7��˽��ģʽ�ȡ�
+(7) Private mode etc.
+
+
+
+
+ע���ʺ�
+
+
+
+��1������QQ�ռ�󣬵�����·����ҵġ���
+
+
+
+��2����������á���
+
+
+
+��3�������ע����ǰ�˺š���
+
+
+
+��4�������ȷ��ע������
+
+
+
+ע�����������ȷ��ע�����󣬽���60��ĺ���ڣ�������60�������µ�¼QQ�ռ䣬����Ϊ����ע�����룻60����δ��¼����QQ�ռ��ʺŽ�����ע�����޷���¼��
+
+
+
+
+
+
+
+
+
+
+
+
+������ҫArena of
+                                            Valor
+
+
+
+
+
+
+
+������ҫ��һ��5V5Ӣ�۹�ƽ��ս���Σ�������ҫΪ���õر����û���˽����Ϣ��ȫ����θ����û���˽ƫ�õ����ã�Ϊ�û�����Ϸ�е���˽��Ϣ�ṩȫ��λ�������û����Բ�ѯ���޸ġ�������ɾ���Լ�����Ϣ��
+Arena of Valor is an epic 5v5 multiplayer online battle
+                                            arena (MOBA) mobile game. To
+                                            better protect users�� privacy and information security, and specifically the
+                                            user��s private information that
+                                            is used in the game, we frequently update our privacy settings to enable our
+                                            users to review, edit, share
+                                            and delete personal information.
+
+
+������Ϣ
+Information Management
+
+
+
+
+
+��ѯ���޸�
+Review and edit
+
+
+
+
+
+������ҫ��¼����������Ϸ��С�ͷ�񡱡������������͡����ĸ���ť��ͨ�����ĸ���ť��ָ�����Բ�ѯ���޸�������Ϣ��
+After logging in the game, users can review and
+                                                    edit their information by tapping the
+                                                    following four buttons on the homepage: ��Avatar��, ����,����and����.
+
+
+
+
+1����ѯ���޸�ͷ�����֡�ս�����Ƶ�����
+1. Review
+                                                            and Edit information of Avatar,
+                                                            nickname, team name and etc.
+
+
+������Ϸ���ͷ�񡱣���ѯ���޸�ͷ�����֡�ս�����ơ��ƺš���ǰ�ȼ�����ս���ݡ��������ϡ���ʷս�����罻���ó�λ�á����ڵ���������ʱ�Ρ��ҵı�ǩ�����ܹ�ϵ����Ը������
+Tap ��Avatar ��on the upper left corner to
+                                                            review and edit avatar, nickname, team
+                                                            name, titles, game levels, game play statistics, honors,
+                                                            game play history, network (such as preferred
+                                                            location, region, mostly online period, labels,
+                                                            relationships, wish list) and etc.
+
+
+
+
+2����ѯ���޸Ļ�������
+2. Review
+                                                            and Edit Basic Information
+
+
+������Ϸ���ͷ�񡱡������á�����ѯ���޸�ͷ�����֡�ս�����ơ��ƺš���ǰ�ȼ����ɾ͵ȼ���������
+Tap ��Avatar �� on the upper left corner,
+                                                            select option��Settings�� to review or edit
+                                                            avatar, nickname, team name, titles, current level,
+                                                            achievement levels, trophies and etc.
+
+
+
+
+3����ѯ��ս����
+3. Search
+                                                            Game Play Information
+
+
+������Ϸ���ͷ�񡱡�����Ϸ��������ս���ϡ�����ѯ��ս����
+Tap ��Avatar ��on the upper left corner,
+                                                            choose option ��Game�� and select ��Game Play
+                                                            Information�� to search game play statistics.
+
+
+
+
+4����ѯ��������
+4. Search
+                                                            Honor Information
+
+
+������Ϸ���ͷ�񡱡�����Ϸ�������������ϡ�����ѯ��������
+Tap ��Avatar ��on the upper left corner,
+                                                            choose option ��Game�� and select ��Honor
+                                                            Information�� to search honor information.
+
+
+
+
+5����ѯ��ʷս��
+5. Search
+                                                            Game Play History
+
+
+������Ϸ���ͷ�񡱡�����ʷս��������ѯ��ʷս��
+Tap ��Avatar ��on the upper left corner, and
+                                                            select option ��Game Play History�� to
+                                                            search history of game play information.
+
+
+
+
+6����ѯ���޸Ľ�����Ƭ
+6. Search
+                                                            or Edit Friend List
+
+
+������Ϸ���ͷ�񡱡����罻������ѯ���޸Ľ�����Ƭ
+Tap ��Avatar ��on the upper left corner, and
+                                                            select ��Network�� to search or edit
+                                                            friend making name card.
+
+
+
+
+7����ѯ���ܹ�ϵ
+7. Search
+                                                            Relationships
+
+
+������Ϸ���ͷ�񡱡������ܹ�ϵ������ѯ���ܹ�ϵ
+Tap ��Avatar ��on the upper left corner, and
+                                                            select option ��Relationships�� to search
+                                                            relationship information.
+
+
+
+
+8����ѯ΢�ź��ѡ���Ϸ���ѡ��������ˡ�ʦͽ��������
+8. Search
+                                                            WeChat Friend, Game Friend, People
+                                                            Nearby, Master-Apprentices, Blacklist
+
+
+�����������ѯ΢�ź��ѡ���Ϸ���ѡ��������ˡ�ʦͽ�ͺ�����
+Click button ����
+                                                            to search WeChat friends, game friends, people nearby,
+                                                            master-apprentices and blacklist.
+
+
+
+
+9����ѯ�����ʼ���ϵͳ�ʼ�����Ϣ���ġ���������
+9. Search
+                                                            Friend Email, System Email, Message
+                                                            Center and Gift Center
+
+
+�����������ѯ�����ʼ���ϵͳ�ʼ�����Ϣ���ĺ���������
+Click button ����
+                                                            to search email from friends, system email, message center
+                                                            and gift center information.
+
+
+
+
+
+
+
+����
+Share
+
+
+�û�����ͨ��ת�����ض����ѻ�Ⱥ���Լ�����������Ȧ���ַ�ʽʵ�ָ�����Ϣ�ķ�����
+Users can share personal information by forwarding
+                                                    it to a WeChat friend, a WeChat
+                                                    group or WeChat Moment by tapping ��Avatar ��on the upper left corner,
+                                                    choose option ��Game��, and select
+                                                    ��Game Play Information��, tap ��Share�� to share the game play
+                                                    information.
+
+
+������Ͻǡ�ͷ�񡱡�����Ϸ��������ս���ϡ�������������������ս���ϡ�
+
+
+
+
+
+ɾ��
+Delete
+
+
+
+
+1��ɾ����Ϸ���ѡ�ʦͽ�����ܹ�ϵ
+1. Delete
+                                                            Game Friend, Master-Apprentices and
+                                                            Relationships
+
+
+�û�����ͨ�������������Ϸ���ѡ���������ɾ����
+Click button ����,
+                                                            and select ��Game Friend��, then tap ����to
+                                                            delete;
+
+
+�����������ʦͽ������������ɾ����
+Click button ����,
+                                                            and select ��Master-Apprentices��, then tap button ����to
+                                                            delete;
+
+
+�����������Ϸ���ѡ����½ǡ����ܹ�ϵ�����й�ϵ�����
+Click button ����,
+                                                            and select ��Game Friend��, then tap option ��Relationships�� on
+                                                            the lower right corner to remove a friend.
+
+
+
+
+2��ȡ�����κ���
+2. Unblock A Friend
+
+
+�����������Ϸ���ѡ����½ǡ�������������ȡ�����Ρ���
+Tap button ����,
+                                                            and select option ��Game Friend��, then tap ��Black List�� on
+                                                            the lower left corner and select ��Unblock��.
+
+
+
+
+3��ɾ���ʼ�
+3. Delete
+                                                            A Message
+
+
+�����������Ҫɾ�������ݽ��п���ɾ������ɾ����
+Tap button ����,
+                                                            and then you can proceed to fast delete or individual
+                                                            delete.
+
+
+
+
+
+
+��˽����
+Privacy Settings
+
+
+�û���ͨ��������������������á�������˽���á��������������ݣ�
+Users can edit privacy settings by tapping button ����,
+                                            select
+                                            option
+                                            ��Basic Settings��, then choose ��Privacy Settings�� to do the modification,
+                                            which include:
+
+
+��1��������ս��
+(1) Allow Audience;
+
+
+��2��������ʾ��
+(2) Display Membership Titles;
+
+
+��3������ԤԼ��
+(3) Allow Appointment;
+
+
+��4���ۺ�Ƶ�����飻
+(4) General Channel Team;
+
+
+��5�����ܹ�ϵ��ʾ��
+(5) Display Relationship;
+
+
+��6������������Ϣ��
+(6) Send Audio Message;
+
+
+��7����ҫ�ƺ���ʾ��
+(7) Display Hero Titles;
+
+
+��8�������Ϸ��ӣ�
+(8) Most Recent Game Play Team;
+
+
+��9����ͷ����ʾ��
+(9) Display Avatar;
+
+
+��10��ս����ʾ��
+(10) Display Scores;
+
+
+��11������ְҵ��ʾ��
+(11) Display Frequent Occupations;
+
+
+��12����ļ������ӡ�
+(12) Recruit Teammates.
+
+
+���⣬�û������Զ�����״̬����ѡ�񣬰��������ߡ�������������
+Users can also select their online status such as on-line,
+                                            busy or invisible.
+
+
+��Privacy Policy������˽���ߣ�
+Privacy Policy
+
+
+������ҫͨ����Privacy
+                                            Policy�������Э�����û�������Ϣ���ռ����洢����ȫ��ʹ�á������ṩ�Ĺ���ͬʱ��֪�û�����Ϣ���в�ѯ�������ɾ����Ȩ��������δ�����˵���Ϣ����������˵����
+Privacy Policy of Arena of Valor, together with other
+                                            related agreements, provides
+                                            users with our practices of personal information collection, storage,
+                                            security, using and sharing with third
+                                            parties. This Privacy Policy also informs users their rights of searching,
+                                            editing, and deleting personal
+                                            information, and has provided guidance regarding to our protection of
+                                            minors�� personal information.
+
+
+�û�����ͨ��������������������á����·����桰��˽���ԡ�����ѯ��Privacy
+                                            Policy�������Э���е����ݡ�
+Users can search and review the Privacy Policy and other
+                                            related agreements by tapping
+                                            the button ����,
+                                            select ��Basic Settings�� and tap option ��Privacy Policy�� at the bottom of the
+                                            page.
+
+
+
+
+
+
+
+
+
+QQ�����QQ
+                                            Browser
+
+
+
+
+
+
+
+QQ�������Ϊһ����١��ȶ�����ȫ�����绯�����������Ӧ�ã�ʼ�հѱ����û�����˽����Ϣ��ȫ��Ϊ�������Ҫ���ݡ�
+QQ Browser provides a user fast, stable, secured Internet
+                                            browsing experience. It is QQ
+                                            Browser��s key responsibility to protect users�� privacy and information
+                                            security.
+
+
+QQ������������ư�ȫ�����ͳ���������û���˽��������Ϣ��ȫ�ı���ˮƽ��ͬʱ��Ϊ�û��ṩ����ȫ�����ʡ���ݵķ���
+QQ Browser continues improving its security technology and
+                                            program to provide its users
+                                            a more secured, high-quality and convenient service and higher standard of
+                                            privacy and information security
+                                            protection.
+
+
+������Ϣ
+Information Management
+
+
+
+
+��ѯ���޸�Review and edit
+
+
+
+
+
+
+
+1����ѯ��Ǯ�����ղء���ע����̬��
+1. Review
+                                                            Wallet, Favorite, Subscriptions, Trend
+                                                            etc.
+
+
+����м�˵�����������ͷ�񡱣��ڸ������Ĳ�ѯ��Ǯ�����ղء���ע����̬��
+Click the menu key in the middle ����,
+                                                            then select
+                                                            ��Avatar��,
+                                                            search wallet, favorite, subscriptions and trend in personal
+                                                            center.
+
+
+
+
+2����ѯ���޸����ա��������Ա𡢺���
+2. Review
+                                                            and Edit Birthday, Region, Gender,
+                                                            Friends
+
+
+����м�˵�����������ͷ�񡱡���ͷ�񡱣���ѯ���ա��������Ա𡢺��ѣ������޸����ա��������Ա�
+Click the menu key in the middle ����,
+                                                            then select
+                                                            ��Avatar�� to
+                                                            search and edit birthday, region, gender etc.
+
+
+
+
+3����ѯQ�ס��鶹����ֵ��¼�������¼
+3. Search
+                                                            the Deposit and Purchase Records for Q
+                                                            Mi and Shudou (Both Q Mi and Shudou are virtual currencies
+                                                            on QQ Browser)
+
+
+����м�˵�����������ͷ�񡱡���Ǯ��������ѯQ�ס��鶹����ֵ��¼�������¼��
+Click the menu key in the middle ����,
+                                                            then select
+                                                            ��Avatar��,
+                                                            click ��Wallet�� to search deposit and purchase records for Q
+                                                            Mi and Shudou.
+
+
+
+
+4����ѯ��ǩ��������ʷ�������ļ�
+4. Search
+                                                            Bookmarks, Website Visit History and
+                                                            Downloaded Files
+
+
+����м�˵�������������ǩ/��ʷ�������ļ����ء�����ѯ��ǩ/���ʵ���ʷ��������ء������������ء������ɲ�ѯ΢���ļ���QQ�ļ����ֻ��洢��˽�ܿռ䡢ͼƬ����Ƶ���ĵ������֡���װ����ѹ������������ҳ
+                                                            ��΢���ļ����ٶ����ļ����ƿռ䡢������
+Click the menu key in the middle ����,
+                                                            select
+                                                            ��Bookmark/History��
+                                                            or ��Downloads�� to search bookmarks, website visit history,
+                                                            recent downloads. You can also search WeChat
+                                                            folders, QQ folders, mobile storage, private space,
+                                                            pictures, videos, files, music, installation
+                                                            package, compressed package, offline webpage, files stored
+                                                            in Tencent Cloud, Baidu Cloud or Cloud space
+                                                            etc.
+
+
+
+
+
+
+ɾ��Delete
+
+
+
+
+1��ɾ����ǩ
+1. Delete
+                                                            Bookmarks
+
+
+�û�����ͨ������м�˵�������������ǩ�������༭����ѡ���������ɾ������ɾ��ѡ������ǩ��
+Click the menu key in the middle ����,
+                                                            select
+                                                            ��Bookmark��, click
+                                                            ��Edit��, then select the target and click ��delete�� to remove
+                                                            selected bookmarks.
+
+
+
+
+2��ɾ��������ʷ
+2. Delete
+                                                            Website Visit History
+
+
+����м�˵������������
+                                                            ����ǩ/��ʷ��������ա�����շ��ʵ���ʷ��
+Click the menu key in the middle ����,
+                                                            choose
+                                                            ��Bookmark/History��, then click ��Delete�� to remove all
+                                                            website visit history.
+
+
+
+
+3��ɾ�������¼����ʷ��¼���˺����롢�����ļ���cookies������
+3. Delete
+                                                            Input History, History Record, Accounts
+                                                            and Passwords, Caches, Cookies etc.
+
+
+����м�˵��������������á�����������ݡ�,����ѡ�������¼����ʷ��¼���˺����롢�����ļ���Cookies����Ƶ���ĵ������¼��С˵��ʱ���桢������ʱ���桰����������ݡ�������������ݵ������
+Click the menu key in the middle ����,
+                                                            select
+                                                            ��Settings��, click
+                                                            ��Data Removal�� to select the data to be removed by clicking
+                                                            either ��Input History��, ��History Record��,
+                                                            ��Accounts and Passwords��, ��Caches��, ��Cookies��, ��Videos��,
+                                                            ��File Browsing History��, ��Temporary Cache for
+                                                            Novels�� and/or ��Temporary Cache for Cartoons��.
+
+
+
+
+4���˳���¼
+4. Log
+                                                            Out
+
+
+����м�˵�����������ͷ�񡱡����˳���¼�����˳���¼��
+Click the menu key in the middle ����,
+                                                            select
+                                                            ��Avatar��, click
+                                                            ��Log Out�� to sign out.
+
+
+
+
+
+
+��˽����
+Privacy Settings
+
+
+
+
+(1)���õ�������
+(1)Hide
+                                                            Your Location
+
+
+����м�˵�����������ͷ��
+                                                            ����ͷ�� �����������������ܡ������õ������ܣ�
+Click the menu key in the middle ����,
+                                                            select
+                                                            ��Avatar��, click
+                                                            ��Location�� and choose ��Hide�� to hide your location.
+
+
+
+
+(2)�����޺����
+(2)Private Browsing
+
+
+����м�˵������������޺�������������޺����ģʽ�����޺�����������¼�����������ۼ�����ʷ��¼��cookies�����ݣ�������ĸ�����˽��
+Click the menu key in the middle ����,
+                                                            select
+                                                            ��Browse In
+                                                            Private�� to enable the function. QQ Browser will not
+                                                            maintain your browsing history, history records,
+                                                            cookies and other data to better protect your
+                                                            privacy.
+
+
+���⣬�������ʹ��QQ������Ĺ��������κ����ʣ���ӭ����м�˵��������������á����������뷴��������������ѯ��
+If you have any questions during your use
+                                                            of QQ Browser, feel free to click the
+                                                            menu key in the middle ����,
+                                                            select ��Settings�� and send us your questions by clicking
+                                                            ��Help and Feedback��.
+
+
+
+
+
+
+
+
+
+
+
+
+
+��Ѷ��ͼTencent
+                                            Maps
+
+
+
+
+
+
+
+��Ѷ��ͼ���ð�ȫ�����ͳ��������ƵĹ����ƶȣ������û���Ϣ�İ�ȫ�������û���Ϣ����δ����Ȩ���ռ���ʹ�û���¶��
+Tencent Maps uses security technologies and programs to
+                                            set up a comprehensive
+                                            management system to secure users�� personal information, in order to prevent
+                                            from unauthorized collecting,
+                                            using and disclosing.
+
+
+Ϊ���õر����û���˽����Ϣ��ȫ����Ѷ��ͼ�ṩר�ŵ���˽�������ú���Ϣ�������ܡ�
+To better protect users�� privacy and personal information,
+                                            Tencent Maps offers specific
+                                            privacy setting and information management features.
+
+
+������Ϣ
+Information Management
+
+
+
+
+��ѯ���޸�Review and edit
+
+
+
+
+
+
+
+1����ѯͷ��
+1. Review
+                                                            your avatar
+
+
+������Ͻ�ͷ����е�¼����ѯͷ��
+Tap ��Avatar��on the upper left to review
+                                                            your avatar
+
+
+
+
+2����ѯ���޸ļҡ���˾���ղص�ַ
+2. Review
+                                                            and edit home, working and saved
+                                                            addresses
+
+
+������Ͻ�ͷ��
+                                                            �����ҵ��ղء�����ѯ���ø����ղؼ��мҡ���˾�����ղصص�ĵ�ַ��
+Tap ��Avatar�� on the upper left, select
+                                                            option ��My Places�� to review home, working
+                                                            or other saved addresses.
+
+
+������༭���Լҡ���˾���ղص�ַ�����޸ģ�
+Click option ��Edit�� to edit home, working
+                                                            or other saved addresses.
+
+
+
+
+3����ѯ�ҵĹ켣
+3. Search
+                                                            My Location History
+
+
+������Ͻ�ͷ�� �����ҵĹ켣������ѯ�ҵĹ켣��
+Tap ��Avatar��on the upper left, select ��My
+                                                            Location History�� to review your location
+                                                            history.
+
+
+
+
+4����ѯ���ߵ�ͼ
+4. Search
+                                                            Offline Maps
+
+
+������Ͻ�ͷ�� �������ߵ�ͼ������ѯ�����ص����ߵ�ͼ��
+Tap ��Avatar��on the upper left, select
+                                                            ��Offline maps�� to review your saved offline
+                                                            maps.
+
+
+
+
+5����ѯΥ�����
+5. Search
+                                                            Traffic Violations
+
+
+������Ͻ�ͷ�� ����Υ�²�ѯ������ѯΥ�������
+Tap ��Avatar��on the upper left, select
+                                                            ��Search Traffic Violations�� to review your
+                                                            traffic violations.
+
+
+
+
+
+
+ɾ��Delete
+
+
+
+
+1��ɾ���ҡ���˾���ղص�ַ
+1. Delete
+                                                            Home, Working and Saved Addresses
+
+
+������Ͻ�ͷ������ҵ��ղء���ɾ�������ղؼ��мҡ���˾�����ղصص�ĵ�ַ��
+Tap ��Avatar��on the upper left, select ��My
+                                                            Favorite�� to delete home, working or
+                                                            other saved addresses.
+
+
+
+
+2��ɾ�����ߵ�ͼ
+2. Delete
+                                                            Offline Maps
+
+
+������Ͻ�ͷ��
+                                                            �������ߵ�ͼ��������ɾ�������صĵ�ͼ����ɾ�������ص����ߵ�ͼ��
+Tap ��Avatar��on the upper left, select
+                                                            ��Swipe Left to Delete Offline Maps��to remove
+                                                            saved offline maps.
+
+
+
+
+3��ɾ��������¼
+3. Delete
+                                                            Search History
+
+
+�������ҳ�����������������ʷ��¼����������е�������¼��
+Tap ��Homepage Search History��, click
+                                                            ��Clear Browsing History�� to delete all search
+                                                            history.
+
+
+
+
+4���˳��ʺ�
+4. Sign
+                                                            out
+
+
+������Ͻ�ͷ�� �������Ͻ�ͼ�ꡱ���˳��˺š�
+Tap ��Avatar��on the upper left, select
+                                                            ��Avatar�� on the upper right to sign out your
+                                                            account.
+
+
+
+
+
+
+��˽����
+Privacy Statement
+
+
+ͨ��������Ͻ�ͷ��
+                                            �������Ͻ�ͼ�ꡱ�������ڵ�ͼ��������˽���������û����ڽ����·���ѯ����˽������������˽�����������û���Ѷ��ͼ�ռ���ʹ�á������û���Ϣ�Ȼ����涨��
+Users can find and review Privacy Statement by tapping
+                                            ��Avatar��on the upper left
+                                            corner, and tap the ��key�� on the upper right corner, then tap ��About Tencent
+                                            Maps��, it will lead to ��Privacy
+                                            Statement��. The Privacy Statement provides users with information of how
+                                            Tencent Maps collects, uses and
+                                            processes users�� information.
+
+
+
+
+
+
+
+
+
+�ֻ��ܼ�WeSecure
+
+
+
+
+
+
+
+��Ѷ�ֻ��ܼ����ƶ��˵�һ���û���Ϣ��ȫ���ߣ�����ǿ���ɧ�����ء�������ɱ�ȹ��ܣ���ɱ��ȡ��˽���ľ��������������ַ��Ϊ�û�����˽��Ϣ��ȫ���ݻ�����
+Tencent WeSecure App provides a shield of information
+                                            security protection for users��
+                                            portable devices. It is effective in protecting users�� private information
+                                            by blocking spams, scanning
+                                            viruses, locating and removing Trojans and fishing sites that evade users��
+                                            privacy.
+
+
+�ֻ��ܼ�Ϊ�˸��õر����û���˽����Ϣ��ȫ���ṩ�ˡ�ɧ�����ء�����˽�������ã��û����Բ�ѯ���޸ġ�ɾ���Լ�����Ϣ��
+To better protect users�� privacy and information security,
+                                            WeSecure App provides
+                                            privacy setting features such as ��Spam Blocking�� and other functions, users
+                                            can easily review, edit and
+                                            remove their information.
+
+
+������Ϣ
+Information Management
+
+
+
+
+��ѯ���޸�Review and edit
+
+
+
+
+
+
+
+1����ѯͷ���ǳ�
+1. Review
+                                                            your avatar and your alias
+
+
+������Ͻǲ˵�����������ͷ�񡱣���ѯͷ���ǳƣ�
+Tap the button ����
+                                                            in the menu on the upper left corner, select ��Avatar�� to
+                                                            review your avatar and your alias
+
+
+
+
+2����ѯ���޸İ󶨵��ֻ��š�΢�źš�QQ��
+2. Review
+                                                            and edit the linked mobile number,
+                                                            WeChat ID and QQ number
+
+
+������Ͻǲ˵�����������ͷ�񡱡����˺Ź���������ѯ���޸İ󶨵��ֻ��š�΢�źš�QQ�š�
+Tap the button ����
+                                                            in the menu on the upper left corner, select ��Avatar��, then
+                                                            select ��Account Management�� to review and
+                                                            edit your linked mobile number, WeChat ID and QQ
+                                                            number.
+
+
+
+
+
+
+ɾ��Delete
+
+
+�û�����ͨ��������Ͻǲ˵�����������ͷ�񡱡����˺Ź�����������ֻ��ܼ��������˺�֮���������ݡ�
+Tap the button ����
+                                                    in the menu on the upper left corner, select ��Avatar��, then select
+                                                    ��Account Management�� to delete any
+                                                    personal information stored in WeSecure App that is received from
+                                                    the linked accounts.
+
+
+
+
+��˽����
+Privacy Settings
+
+
+
+
+1��ɧ������
+1. Spam
+                                                    Blocking
+
+
+�����ɧ�����ء�����ɧ�ŵ绰�Ͷ��Ž�������;
+Tap ��Spam Blocking�� to block crank calls and
+                                                    messages
+
+
+
+
+2��������
+2. Photo
+                                                    Encryption
+
+
+������Ͻ�ͷ����һ���ҳ�������˽�����䡱�����������롱���������м���;
+Tap ��Avatar�� on the upper left corner or swipe the
+                                                    page to the right, select option
+                                                    ��Privacy Safe Box��, then select option ��Set Password�� to encrypt
+                                                    your photos.
+
+
+
+
+3����ȫɨ�롢��������Ż�
+3. Secure QR Code
+                                                    Scanning and Caller ID
+                                                    Optimization
+
+
+�û���¼�ֻ��ܼң���ʹ�á���ȫɨ�롱������������Ż������ܣ�����������˽����Ϣ��ȫ��
+WeSecure App users can use ��Secure QR Code
+                                                    Scanning�� and ��Caller ID Optimization��
+                                                    settings to protect their privacy.
+
+
+
+
+
+
+
+
+
+
+
+��Ѷ��ƵTencent
+                                            Video
+
+
+
+
+
+
+
+������Ϣ
+Information Management
+
+
+
+
+��ѯ���޸�Review and Edit
+
+
+
+
+
+��Ѷ��Ƶ��¼����������·��С���ҳ�������ȵ㡱����VIP��Ա������doki���͡��ҵġ������ť��ͨ�������ĸ���ť��ָ�����Բ�ѯ�����Ϣ��
+After logging into Tencent Video, users can find
+                                                    five buttons at the bottom of the
+                                                    Homepage, which are ��Homepage��, ��Popular��, ��VIP Member��, ��doki�� and
+                                                    ��Me��. You can review your personal
+                                                    information by using four of the five buttons.
+
+
+
+
+1����ѯ���߻��桢�����ۿ���ȫ����ʷ
+1. Search
+                                                            Offline Cache, Resume Watching and View
+                                                            All History
+
+
+�û�����ͨ���������ҳ�����ͼ�꣬��ѯ���߻��桢�����ۿ���ȫ����ʷ��
+Users can search offline cache, resume
+                                                            watching and view all history by tapping
+                                                            option ��Homepage��.
+
+
+
+
+2����ѯ��Ա��Ϣ����Ϣ�б�
+2. Search
+                                                            Member Messages, and Message List
+
+
+�����VIP��Ա�������Ͻ�ͷ�񣬲�ѯ��Ա��Ϣ����Ϣ�б���
+Tapping ��VIP Members��, and select ��Avatar��
+                                                            on the upper left corner to search
+                                                            membership information and message list.
+
+
+
+
+3����ѯ��Ϣ��˽���Լ���ע������
+3. Search
+                                                            Messages, Private Messages and ��My
+                                                            Stars��
+
+
+�û�����ͨ�������doki������ѯ��Ϣ��˽���Լ���ע�����ǣ�
+Users can search messages, private
+                                                            messages and the ��stars�� by tapping ��doki��.
+
+
+
+
+4����ѯ���˻�����Ϣ
+4. Search
+                                                            Personal Information
+
+
+������ҵġ�����ѯ���˻�����Ϣ���ǳơ������doki����ע����˿����Ա��Ϣ�����¡���̬����Ƶ��С��Ƶ���ҵ�doki�������߻��桢�ۿ���ʷ���ҵĿ������ҵĶ����Լ���Ϣ��˽�š�
+Tapping button ��Me��, to search personal
+                                                            information (nickname, subscribed doki,
+                                                            subscriptions, fans, membership information, badges, trends,
+                                                            videos, short videos, my doki), offline
+                                                            cache, view history, my view list, my subscription, messages
+                                                            and private messages.
+
+
+
+
+
+
+����Share
+
+
+�û�����ͨ��ת����������̬�����ַ�ʽʵ�ָ�����Ϣ�ķ�����
+Users can share personal information by forwarding
+                                                    it to a friend or by posting
+                                                    status.
+
+
+������ȵ㡱�е���Ƶ�����ڹۿ�����Ƶ�ɽ���ת��������
+Users can choose a video in option ��Popular �� or
+                                                    any streaming video, and forward it
+                                                    to friends. 
+
+
+�����doki�����ɷ���ͼƬ�����ֵȶ�̬��doki��
+Users can also tap button ��doki�� to post images,
+                                                    words and other status on doki.
+
+
+
+
+ɾ��Delete
+
+
+��Ѷ��ƵΪ�û�ɾ��������Ϣ�ṩ��������Ҫ������ʽ����1�����󻬡���������2�������ɾ������
+Tencent Video provides users two methods to delete
+                                                    personal information: (1) swiping
+                                                    left and (2) tapping ��delete��.
+
+
+
+
+1��ɾ��doki��̬
+1. Delete
+                                                            Doki Status
+
+
+�û�����ͨ�������doki����������ť��ɾ��doki��̬��
+Users can tap button ��doki��, select button
+                                                            ����to
+                                                            delete doki
+                                                            status;
+
+
+
+
+2��ɾ���ۿ���ʷ���ҵĿ�����˽��
+2. Delete
+                                                            View History, My Watch List and Private
+                                                            Messages
+
+
+������ҵġ����Թۿ���ʷ���ҵĿ�����˽��ͨ���󻬻�����ɾ��������ɾ����
+Tapping ��Me��, to delete view history, my
+                                                            watch list and private messages by swiping
+                                                            left or tapping button��delete��.
+
+
+
+
+
+
+��Ѷ��Ƶ��˽����ָ��
+Tencent Video Privacy Protection Guidelines
+
+
+��Ѷ��Ƶͨ������Ѷ��Ƶ��˽����ָ���������û����������ռ�����Ϣ����Ϣ�Ĵ洢����Ϣ�İ�ȫ���������ʹ����Ϣ�������ṩ�����Ȩ���������δ�����˱�������������ϵ���ǵ����ݡ��û�ͨ��������ҵġ�
+                                            �� �����á� �� ����Ѷ��Ƶ��˽����ָ�������˽⡢�鿴������ݡ�
+Tencent Video
+                                                Privacy Protection Guidelines provides users with the information of
+                                            our practices of personal
+                                            information collection, storage, security, using and sharing with third
+                                            parties. This Privacy Guidelines
+                                            also informs users details of their rights, and updates, information of
+                                            minor protection, and our contact
+                                            information. Users can search and review the Privacy Guidelines by Tapping
+                                            option ��Me��, select ��Settings��
+                                            and tap ��Tencent Video Privacy Protection Guidelines��.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+��������
+Frequent Questions
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+������Ѷ | About Tencent | ����Э��
+                    | ��˽���� | ����ƽ̨ | ������ | ��Ѷ��Ƹ | ��Ѷ���� |
+                    ��Ѷ�� |
+                    �ͷ����� | �ٱ�����
+                    | ��վ����
+
+
+About Tencent | Service Agreement | Privacy
+                        Policy | Public Platform | Advertising Services | Tencent
+                        Recruitment | Tencent
+                        Philanthropy | Tencent Cloud | Customer
+                        Service | Report
+                        Center | Website Navigation
+
+Copyright © 1998 -  Tencent. All Rights Reserved
+                
+
+��Ѷ��˾ ��Ȩ����
+
+
+
+
+
+
+
+
+
+
+
+
+��������
+Frequent Questions
+
+
+
+
+
+
+
+��һ��QQ�������������˽��
+1. How to manage privacy setting in QQ?
+
+
+
+
+����QQ��������ϵͳ���á� -> ��Ȩ�����á� -> ���������ϡ� -> ��Ȩ�����á���������������������á�
+Login QQ, click ��System Settings�� -> ��Permission Settings�� -> ��My
+                                    Profile�� -> ��Permission
+                                    Settings�� and adjust privacy settings according to your needs.
+
+
+
+
+
+
+
+
+
+
+
+
+��������ô�޸�/�һ�QQ���룿
+2. How to update/retrieve QQ password?
+
+
+
+
+
+
+1������ܱ���������֤������ͨ����֤�ܱ����ϣ���֤�ʺŰ�����һ���ܱ��������޸�QQ���룻
+1. If password
+                                            authentication feature functions
+                                            normally, a user can authenticate his/her information or link the
+                                            authenticated account with a password
+                                            security tool to update QQ password;
+
+
+
+
+2�����û�п��õ��ܱ����ߣ�������ͨ���ֻ����������QQ��ȫ���Ĺ���aq.qq.com/ss��д�ʺ����ߡ��������߳ɹ��󼴿��������������뼰�����ܱ����ߡ�
+2. If no password
+                                            security tool is available, you can
+                                            log in QQ Security Center official website via a mobile browser at
+                                            aq.qq.com/ss, filing a petition by
+                                            offering account information. Once the petition is approved, you can re-set
+                                            password and link it to a new
+                                            password security tool.
+
+
+
+
+
+
+
+
+
+�������ֻ���ʧ����α����ֻ�QQ�����������Ϣ����й��
+3. How to avoid personal information in QQ and QQmail from leaking
+                                    when your phone is
+                                    lost?
+
+
+
+
+�ֻ����ˣ���Ҫ���ţ���������������ֹ��˽й©��
+Don��t panic if you lost your cellphone. Take following two steps
+                                    to prevent exposing your
+                                    privacy:
+
+
+��һ������������QQ��΢��
+Step 1: Lock QQ and WeChat Accounts
+
+
+������Ѷ110��������QQ��΢���ʺš���Ч�������˵�¼��QQ��΢���ʺŶ��������
+Visit Tencent 110 to emergently lock QQ and WeChat accounts to
+                                    effectively avoid any
+                                    possible malicious actions by a third party. 
+
+
+�ڶ������޸�QQ����
+Step 2: Update QQ password
+
+
+����QQ��ȫ���ģ��޸�QQ���룬����ʹ��QQ��¼�ķ��񶼻��˳���¼��
+Visit QQ Security Center to update QQ password. All related
+                                    services that login via QQ
+                                    account will automatically log out.
+
+
+��ַ��http://aq.qq.com/gm
+Link: http://aq.qq.com/gm
+
+
+��������ڵ����ԣ�ʹ���ֻ����������ַҲ���Ը��ܡ�
+You can also visit QQ Security Center via a mobile browser if
+                                    personal computer is not
+                                    available.
+
+
+����������������QQ��΢�žͰ�ȫ�ˡ�������������ֻ��ϵ�ͨѶ¼�����š���������˽й©������Զ�̲����ֻ����ݡ�
+Your QQ and WeChat accounts will be secured after completing the
+                                    above-mentioned two
+                                    steps. You can also erase cellphone data including contacts, text messages, on-line
+                                    banking and etc. remotely
+                                    to prevent the disclosure of private information on your phone.
+
+
+iPhone�ֻ���ʹ�á������ҵ�iPhone�������ֻ����ݡ�ʹ�÷�����
+                                    http://help.apple.com/icloud/?lang=zh-cn#/mm6b1aa045
+iPhone: use ��Search my iPhone�� function to erase cellphone data.
+                                    Method:
+                                    http://help.apple.com/icloud/?lang=zh-cn#/mm6b1aa045
+
+
+Android�ֻ���ʹ���ֻ��ܼҵȰ�ȫ���������ֻ����ݡ�ʹ�÷�����http://m.qq.com/anti_theft/login.jsp
+Android: use mobile security manager or other security
+                                    applications to erase cellphone
+                                    data. Method: http://m.qq.com/anti_theft/login.jsp
+
+
+����뾡�쵽Ӫҵ������SIM�����������������ֻ��Ž���թƭ���߽������Ķ��š�
+Please apply for a replacement SIM card from your carrier as soon
+                                    as possible to prevent
+                                    others from conducting fraudulent activities using your cellphone number or
+                                    receiving your text messages.
+
+
+
+
+
+
+
+���ġ���������/�ر�QQ��¼������
+4. How to turn on/off QQ login protection?
+
+
+
+
+����������
+Turn on:
+
+
+�ֻ�QQ��
+Mobile QQ:
+
+
+��¼�ֻ�QQ -> ���� -> �豸�����ʺŰ�ȫ -> �豸�� -> �������� ->
+                                    ȷ�Ͽ�����ȷ���ֻ��������Լ����ú����ѡ��ȷ���ֻ����� -> ������֤�� -> 
+Login mobile QQ -> Settings -> Device Lock and Account Security ->
+                                    Device Lock -> Turn
+                                    on-> Confirm it has been turned on and confirm the mobile number after verifying
+                                    that it is your common phone
+                                    number -> Type in verification code -> Turn on successfully.
+
+
+�ɹ�����������
+
+
+��֤�ɹ���QQ��¼�����Ϳ����ɹ��ˣ�����̨�ֻ��ϵ�¼ֻ����֤���룬�������ֻ��ϵ�¼����Ҫ��֤����Ͷ�����֤���ˣ�
+After verification, QQ login protection is successfully turned on.
+                                    You only need to type
+                                    in verification code while logging in QQ on this phone, but you need to type in both
+                                    password and text message
+                                    verification code if logging in on another portable device.
+
+
+
+
+
+QQ��ȫ�����ֻ�APP��
+QQ Security Center Mobile App:
+
+
+QQ��ȫ�����ֻ�APP -> �ܱ����� -> QQ������
+QQ Security Center Mobile App -> Password Protection Tool -> QQ
+                                    Protection;
+
+
+
+
+
+
+
+
+
+
+���塿��α����Լ���QQ���밲ȫ��
+5. How to protect your QQ ID?
+
+
+
+
+�򵥵Ľ���QQʹ�ð�ȫ = ʹ�ð�ȫ�ĵ��� + ��ȫ������ϰ�� + ����QQ���뱣����
+Briefly speaking, the QQ security = using secured personal
+                                    computer + good online surfing
+                                    habit + setting QQ password protection.
+
+
+
+
+1��ʹ�ð�ȫ�ĵ��ԣ�
+1. Using Secured Personal
+                                            Computer:
+
+
+1����ȫ��ʹ��QQ�����������������û���һ̨��ȫ�ĵ���������
+1) First thing first, a user needs to use a secured
+                                            personal computer to go online for
+                                            using QQ safely.
+
+
+2���������˻򹫹����ԣ���Ӧ����ѯ�ʵ����Ƿ��㹻��ȫ������Ƿ�װ��ɱ��������ʹ�����µĲ��������⣬ȷ�ϵ��԰�ȫ����ʹ�á�
+2) If you are using others�� or public computer: before
+                                            using the computer, verify that
+                                            whether the computer is secured, whether it has installed antivirus software
+                                            and updated most recent virus
+                                            database.
+
+
+
+
+2�����ɰ�ȫ������ϰ�ߣ�
+2. Good Online Surfing
+                                            Habit: 
+
+
+�������õ�����ϰ�߽���������Զ���������в�����������թ����ȸ���Σ������Щϰ����Ҫ������
+Good online surfing habit will benefit you to stay away
+                                            from computer virus, Internet
+                                            fraud and etc. Good online surfing habit includes:
+
+
+1����Ҫʹ�÷ǹٷ�������QQ�汾������ʹ�����°汾��QQ������
+1) Avoid using unauthorized version QQ, and use the most
+                                            recently updated version QQ
+                                            software;
+
+
+2�����ڷ���Ѷ�ٷ�����վ����������������QQ�ʺź����룻���ʶ����Ѷ�ٷ���վ��ַ��
+2) Avoid entering QQ ID and QQ password on websites and in
+                                            software other than
+                                            Tencent��s official website/software; how to recognize the Tencent official
+                                            website URLs��
+
+
+3����Ҫ���״��������ػ����Ѵ��͵��ļ���ȷ���ǰӦ���в���ɨ�裻
+3) Doing a virus scan before opening any files downloaded
+                                            from the Internet or received
+                                            from others on the Internet;
+
+
+4����Ҫ����İ���˷����İ�ȫ��δ֪����ַ��
+4) Avoid visiting links with unknown security status which
+                                            is shared by a stranger;
+
+
+5�������޸�QQ���롣
+5) Regularly update QQ password.
+
+
+
+
+3������QQ���뱣����
+3. Set QQ Password
+                                            Protection:
+
+
+���뱣���������û�ӵ��QQ�ʺŵ���Ҫƾ֤�����ܹ�����������ݵ��һ�QQ���룬��֧���ڽ�����Ҫ���������޸����룩ǰ��֤�û����ݣ���ˣ����뱣���ܹ��ܴ�̶ȵ�����QQ�ʺŵİ�ȫ�ԡ�
+Password protection files is the important evident to
+                                            prove the ownership of users�� QQ
+                                            account. You can use it to retrieve QQ password conveniently, and process
+                                            user ID verification before
+                                            conducting important changes (such as updating a password). Thus, password
+                                            protection can greatly enhance
+                                            the security of your QQ account.
+
+
+Ϊ��ȷ��QQ��ʹ�ð�ȫ���û�Ӧ��Ϊ�ʺ��������������뱣�����ϣ��ɵ�¼QQ��ȫ���������ܱ������⣬QQ��ȫ���Ľ�ʹ�ø��ְ�ȫ���Ժͼ����ֶ�ʵʱ�����û����ʺŰ�ȫ��
+For the security of using QQ, a user should create a
+                                            complete password protection file
+                                            by logging into QQ Security Center. QQ Security Center also provides various
+                                            security protection strategies
+                                            and technical solutions for real-time protection of your QQ ID
+                                            security.
+
+
+��¼QQʱ���������������������̡���ɱľ�������������������İ�ȫ�ԣ���¼QQ��QQ��ʵʱ��ȫ���������ļ���������ַ��ȫ��ʾ�ȿ�Ϊ���ṩ�޴����ڵı�����
+Password-entering anti-theft technology, soft keyboard and
+                                            trojan detecting can be used
+                                            to improve the security level of password entering while logging into QQ.
+                                            Real-time security protection,
+                                            file transferring protection, URL security reminder and other features will
+                                            offer you a comprehensive
+                                            protection.
+
+
+
+
+4�����ذ�ȫQQ��ȫ�����ֻ��棺
+4. Download and Install
+                                            QQ Security Center Mobile
+                                            Version:
+
+
+������������ֻ����������ֻ������ذ�װQQ��ȫ�����ֻ��档����������Ϸ��¼������QQ��¼������Q�ұ������޸�����ȹ��ܡ�
+It is advised to download and install QQ Security Center
+                                            Mobile Version into your
+                                            smartphone. It offers you game login protection, QQ login protection, Q coin
+                                            protection, password resetting
+                                            assistance and other features.
+
+
+
+
+
+
+
+
+
+����������Ȧ��ν�����˽���ã�
+6. How to manage privacy setting in WeChat Moments?
+
+
+
+
+
+
+1��İ���˲鿴ʮ����Ƭ��
+1. Make Last 10 Posts
+                                            Public:
+
+
+���÷���������ȦĬ������Ϊ������İ���˲鿴ʮ����Ƭ����������İ���˲鿴�������Խ���΢���ᴥ���ҡ� -> �����á�
+                                            -> ����˽�� -> �رա�����İ���˲鿴ʮ����Ƭ����
+Instruction: The default setting in Moments is ��make last
+                                            10 posts public��. To change
+                                            the default setting, you can log into WeChat, click ��Me�� -> ��Settings�� ->
+                                            ��Privacy�� -> Turn off ��Make Last
+                                            10 Posts Public��
+
+
+
+
+2��������������������Ȧ�����κ��ѵ�����Ȧ����
+2. Do not want to see
+                                            his/her Moments (Hide Their
+                                            Posts)
+
+
+���÷���������΢���ᴥ���ҡ� -> �����á� -> ����˽�� -> ��������������������Ȧ�� ->
+                                            �����+��������Ҫ���ε����ѡ����óɹ�������������Ȧ�в�����ʾ�Է����͵�����Ȧ��Ϣ��
+Instruction: Log into WeChat, click ��Me�� -> ��Settings�� ->
+                                            ��Privacy�� -> ��Hide Their
+                                            Posts�� -> Click��+�� to add WeChat friends whose Moments you want to hide.
+                                            Once completed, his/her Moments
+                                            posts will not appear in your Moments.
+
+
+ȡ������������΢���ᴥ���ҡ� -> �����á� -> ����˽�� -> ��������������������Ȧ�� ->
+                                            �����-��ɾ����Ҫȡ�������ѡ����óɹ��������������͵�����Ȧ���ݣ�������������Ȧ������ʾ��
+Cancellation Instruction: Log into WeChat, click ��Me�� ->
+                                            ��Settings�� -> ��Privacy�� ->
+                                            ��Hide Their Posts�� -> Click��-��to remove friends. Once completed, his/her
+                                            Moments posts will appear in your
+                                            Moments normally.
+
+
+
+
+3�����������������ҵ�����Ȧ�����ݲ����¸����ѣ���
+3. Do not want him/her to
+                                            see my Moments (Hide My
+                                            Posts)
+
+
+���÷���������΢���ᴥ���ҡ� -> �����á� -> ����˽�� -> �����������������ҵ�����Ȧ�� ->
+                                            �����+��������Ҫ���ε����ѡ����óɹ��󣬶Է��鿴��������Ȧ��ʾ�ǿհ׵ģ�������ʾ�����͹����κ�����Ȧ��Ϣ��
+Instruction: Log into WeChat, click ��Me�� -> ��Settings�� ->
+                                            ��Privacy�� -> ��Hide My Posts��
+                                            -> Click��+�� to add WeChat friends that you would like to hide. Once
+                                            completed, your Moments will appear as
+                                            blank page in his/her searching result, he/she cannot see any of your
+                                            Moments posts.
+
+
+ȡ������������΢���ᴥ���ҡ� -> �����á� -> ����˽�� -> �����������������ҵ�����Ȧ�� ->
+                                            �����-��ɾ����Ҫȡ�������ѡ����óɹ��������͵�����Ȧ���ݣ����ɻָ������鿴��
+Cancellation Instruction: Log into WeChat, click ��Me�� ->
+                                            ��Settings�� -> ��Privacy�� ->
+                                            ��Hide My Posts�� -> Click ��-��to remove friends. Once completed, he/she can
+                                            review your Moments posts
+                                            normally.
+
+
+
+
+
+
+
+
+
+���ߡ�΢��������������ô�һأ�
+7. How to recover forgotten WeChat password?
+
+
+
+
+���һ���а��ֻ�
+If you have a linked cellphone:
+
+
+����΢�ŵ�¼����ѡ�񡾸��ࡿ -> ����¼�����ʺš� -> �������ֻ����롿 -> ����һ���� -> �����������֤���¼�� ->
+                                    ��¼�ɹ��󼴿�����΢�����롣
+Select ��More�� on WeChat login page -> ��Login Other Accounts�� ->
+                                    ��Enter Cellphone Number��
+                                    -> ��Next�� -> ��Enter Text Message Verification Code�� -> reset password after logging
+                                    in.
+
+
+������� �а�QQ
+If you have a linked QQ ID:
+
+
+����΢�ŵ�¼����ѡ�񡾸��ࡿ -> ����¼�����ʺš� -> ����΢�ź�/QQ��/�����¼�� ->
+                                    ������QQ��+QQ�����¼������QQ�������ǣ����¼QQ��ȫ�����޸�QQ���롣
+Select ��More�� on WeChat login page -> ��Login Other Accounts�� ->
+                                    ��Enter WeChat ID/ QQ ID/
+                                    Email�� -> ��Enter QQ ID and QQ Login Password��. If you have forgotten your QQ
+                                    password, please reset a new one
+                                    by logging into QQ Security Center.
+
+
+��������а�����
+If you have a linked Email:
+
+
+���¼��΢�Ű�ȫ����ѡ���һ��ʺ����롿 -> ���Ѱ����䡿 -> ����΢�Ű󶨵������ַ ->
+                                    �󶨵�������յ��޸���������ӣ�����������޸ġ�
+Log into WeChat Security Center and select ��Account Recovery�� ->
+                                    ��Email Linked�� -> Enter
+                                    linked email address -> log into your email to reset your WeChat password, follow
+                                    the instruction and click
+                                    the link in the email to reset password.
+
+
+����ģ��󶨵��ֻ�/QQ/���������ǻ��޷�ʹ��
+If you have forgotten your linked cellphone, QQ ID, email or none
+                                    of these is available:
+
+
+����΢�ŵ�¼ҳ��ѡ�񡾸��ࡿ -> ΢�Ű�ȫ����ѡ���һ��ʺ����롿 -> �������һ�΢���ʺ����롿 ->
+                                    ������ʾ�ύ�������ϣ����߳ɹ�ʹ���������¼���ɡ�
+Select ��More�� on WeChat login page -> tap ��Account Recovery�� in
+                                    WeChat Security Center ->
+                                    ��Request Password Retrieval�� and submit supporting materials according to the
+                                    instruction. Once the request is
+                                    approved, you can log into WeChat using a new password.
+
+
+
+
+
+
+
+���ˡ�΢���ʺű���������������
+8. Remedial actions when your WeChat account has been
+                                    hacked
+
+
+
+
+����΢�ŵ�¼ҳ���������ࡿ -> ��΢�Ű�ȫ���ġ� -> �������ʺš� -> ������Ҫ�����΢�źŻ��ֻ����롿 ->
+                                    ͨ�����ֻ���/QQ��/���п����ж��ᡣ
+Select ��More�� on WeChat login page -> ��WeChat Security Center�� ->
+                                    ��Freeze Account�� ->
+                                    ��Enter the WeChat ID or cellphone number for the WeChat account that is about to be
+                                    frozen�� -> freeze the
+                                    account using linked cellphone, linked QQ ID or linked bank cards.
+
+
+
+
+
+
+������ڳ����豸�������ֱ��һ�����ᡣ
+If it is deemed as a frequently used log in device by WeChat, you
+                                    can use ��One Click
+                                    Freeze�� feature.
+
+
+
+
+
+
+
+
+
+
+���š�΢�ź���������ô�һأ�
+9. How to retrieve forgotten WeChat ID?
+
+
+
+
+
+
+1����ϵ���Ѳ鿴΢�ź�
+1. Reach Out to Your
+                                            WeChat Friend for Your WeChat ID
+
+
+���������Ե绰�������ϵ֮ǰ��΢�ź��ѣ��ú��Ѳ鿴��΢�ŵĸ�����ϸ���Ͻ��棬���ɲ鿴����΢�źš�
+You can reach out to your WeChat friend via phone or text
+                                            message to ask him/her to
+                                            search and review your WeChat ID in your personal profile.
+
+
+
+
+2��ʹ�ð󶨷�ʽ��¼��鿴΢�ź�
+2. Review Your WeChat ID
+                                            using Your Linked Login
+                                            Methods
+
+
+������ǵ�΢�Ű󶨵��ֻ���/QQ��/���䣬������ͨ��΢�Ű󶨷�ʽֱ�ӵ�¼΢�ţ�Ȼ���ڸ��������м��ɲ鿴������΢�źš�
+If you have a WeChat linked cellphone number, QQ ID or
+                                            email address, you can log in
+                                            WeChat using these linked accounts and search your profile for your WeChat
+                                            ID.
+
+
+�л���¼������΢�ŵ�¼ҳ���������ࡿ -> ����¼�����ʺš� ->
+                                            ���ֻ��š�����΢�ź�/QQ��/�����¼����
+Switch Login Method: Select ��More�� on WeChat login page ->
+                                            ��Log in with Other Accounts��
+                                            -> Choose ��Cellphone Number�� or ��WeChat/QQ ID/Email��.
+
+
+
+
+3�����߷�ʽ�һ�΢�ź�
+3. Retrieve Your WeChat
+                                            ID by Submitting a Request
+
+
+����΢�ŵ�¼���棬ѡ�񡰸��ࡱ -> ΢�Ű�ȫ���� -> ���һ��ʺ����롿 -> ѡ�������һ�΢���ʺ����롿 ->
+                                            ������ʾ�ύ�������ϡ����߳ɹ����ֻ����Ż���յ�΢�źż������롣�������ʧ�ܣ���������Ѷ�ͷ���С���� -> �����ѯ�ͷ� -> ѡ��΢���ʺŰ�ȫ��
+                                            -> �ʺ������һء�
+Select ��More�� on WeChat login page -> ��WeChat Security
+                                            Center�� -> ��Account Recovery�� ->
+                                            ��Request Password Retrieval�� -> Submit supporting materials according to the
+                                            instruction. Once the request
+                                            is approved, you will receive a text message with your WeChat ID and new
+                                            password. If your request is
+                                            rejected, search ��Tencent Customer Service�� mini program, click ��Ask
+                                            Customer Service�� -> select ��WeChat
+                                            Account Security�� -> ��Retrieve WeChat ID and Password��.
+
+
+ע�������߳ɹ���ͨ���ֻ������յ���΢�ź�+�������¼΢�ź�֮ǰ���а󶨹�ϵ�����Զ���󣬿������ٰ��µ��ֻ���/QQ��/���䡣
+Notice: if you log into WeChat with WeChat ID and new
+                                            password that is offered in the
+                                            text message after your request is approved, all previously linked cellphone
+                                            number, QQ ID, Email will be
+                                            unlinked. You may have to reset your linked cellphone, QQ ID and
+                                            email.
+
+
+
+
+
+
+
+
+
+��ʮ�������������Ȧ��Ƭ�鿴Ȩ�ޣ�
+10. How to manage the permission of viewing the WeChat Moments
+                                    photos?
+
+
+
+
+��������Ȧ�鿴Ȩ�ޣ������¼��������
+The followings are permissions that you can manage to set for
+                                    WeChat Moments:
+
+
+
+
+δ�����κ�Ȩ��
+No Restrictions
+
+
+Ĭ�Ϲ���������������ѣ����Բ鿴����������Ȧ������������Ƭ��
+The Default setting is public to all: all of your WeChat
+                                            friends can review your posts
+                                            in Moments.
+
+
+
+
+���ûرܵ���
+Set ��Share to��
+
+
+������Ƭʱ�������á�˭���Կ�����
+You can set ��Share to�� before posting anything on
+                                            Moments
+
+
+�������������ѿɼ���
+All: all contacts can see;
+
+
+˽�ܣ����Լ��ɼ���
+Private: just you can see;
+
+
+���ֿɼ����ɸ���ͨѶ¼���飬ѡ��ɼ��ķ������ѣ�
+Share to Just selected contacts: select groups in contacts
+                                            and only the selected
+                                            contacts can see;
+
+
+����˭�����ɸ���ͨѶ¼���飬ѡ�񲻿ɼ��ķ������ѡ�
+Don��t Share: select groups in contacts and the selected
+                                            contacts will be excluded from
+                                            reviewing your Moments posts.
+
+
+
+
+����İ���˲鿴ʮ����Ƭ
+Make Last 10 Posts Public
+
+
+İ���ˣ��������ˡ�ҡһҡ���ѳ�����ֻ�ܿ���10�����������Ƭ��
+A stranger (people nearby or friends by shaking) can only
+                                            review the last 10 posts.
+
+
+
+
+����Ȧ�鿴��Χ��
+Moments View Permission:
+
+
+��ѡ���������Ѳ鿴����Ȧ������졢����������ȫ�������ݡ�
+You can select ��Last 3 days��, ��Last 6 months�� or ��All�� to
+                                            be viewable by friends.
+
+
+
+
+�ر�����Ȧ���
+Disable Moments
+
+
+֮ǰͨ������Ȧ��������Ƭ�����ڸ��������鿴��
+You can still find your photos posted on Moments in your
+                                            album after you disable
+                                            Moments.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

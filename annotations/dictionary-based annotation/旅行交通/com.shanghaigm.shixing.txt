@@ -1,0 +1,708 @@
+
+
+
+
+
+
+隐私政策
+
+
+
+
+
+
+上汽通用汽车有限公司、上汽通用汽车销售有限公司、上汽通用东岳汽车有限公司、上汽通用东岳动力总成有限公司、上汽通用（沈阳）北盛汽车有限公司、泛亚汽车技术中心有限公司（以下简称“上汽通用汽车”
+            或者“我们”）向您提供车辆、配件及其他附属产品（统称为“产品”）及与产品相关的众多网上和线下服务，包括但不限于我们的网站、车载信息系统和其他车载技术、商品展览交流及其他服务（统称为“服务”）。当您与我们和/或我们的关联公司就产品和服务取得联系时，都可能会被要求提供您的个人信息。我们非常重视您的个人信息保护与个人隐私，也理解您可能关心您的个人信息是如何被使用和共享的，因此我们制订了本隐私政策，阐述了我们如何收集、使用、披露、共享以及储存您的个人信息。
+        
+
+SAIC General Motors Corporation Limited，SAIC General Motors Sales Company Limited, SAIC GM
+            Dong Yue Motors Company Limited，SAIC GM Dong Yue Powertrain Company Limited，SAIC GM (ShenYang) NorSom Motors
+            Company Limited，Pan Asia Technical Automotive
+            Center Company Limited (hereinafter “SGM” or “we”, “our” or “us”) offers your our vehicles, parts and other
+            products（collectively, the “Products”） and various services in connection with Products, both online and
+            offline, including but not
+            limited to, our websites, our in-vehicle telematics system and other in-vehicle technologies, trade show
+            communications, and other services (collectively, the “Services”). You may be asked to provide your personal
+            information while communicating
+            with us and/or with one of our affiliated companies. We highly values the protection of your personal
+            information and personal privacy, and we also understand you may be concerned with how your personal
+            information is used or shared. As such,
+            this Privacy Policy is prepared to inform you on how we collect, use, disclose, share or store your personal
+            information.
+
+请您仔细阅读本隐私政策。通过使用我们的产品和/或服务，您同意：您已满十八周岁且已完全理解并接受本隐私政策的全部条款和内容。如果您不同意本隐私政策，您可以不使用我们的产品和/或服务。
+        
+
+Please read this Privacy Policy carefully. By using our Products and/or Services, you are
+            agreeing that you are at least eighteen (18) years of age and that you have fully understood and accepted
+            all the terms and content of this Privacy Policy.
+            If you do not agree with this Privacy Policy, you may not use our Products and/or Services.
+
+个人信息范围
+
+Scope of Personal Information
+
+本隐私政策所称“个人信息”，是指我们从个人收集的可用于识别特定个人身份的信息，其中又可分为能够单独使用的个人信息（如姓名、身份证信息）和不能单独使用而必须与其他信息结合使用的个人信息（如位置信息、车辆状况）。我们所收集的个人信息可能同时包括这两类信息。对于能够单独使用的个人信息，我们只会在事先告知并取得您同意的情况下收集；对于不能单独使用的个人信息，在非结合使用的情况下，我们可出于任何目的收集、使用、转让和披露该等信息。
+        
+
+“Personal Information” under this Privacy Policy refers to information we collects from
+            individuals that can be used either independently (for example, such as name or personal identification
+            number data) or if not, jointly with other information
+            (for example, such as position or vehicle status data) to identify a particular individual. It is possible
+            that the information we collect include both types of the aforementioned information. Regarding Personal
+            Information that can be used
+            independently, we will only collect such information after having notified you and acquired your consent.
+            Regarding Personal Information that cannot be used independently, we may collect, use, transfer or disclose
+            such information for any
+            purposes provided the information is not used jointly with other information.
+
+我们可能向您收集的“个人信息”包括但不限于您的姓名、邮寄地址、电话号码、电子邮件地址、其他联系方式、年龄、出生日期、性别、学历、职业、语言、邮编、区号、个人图像、兴趣偏好、身份证信息、驾照信息、信用卡信息、唯一设备标识符、地理位置信息、车辆状态、行为信息等。
+        
+
+Personal Information we may collect from you include but are not limited to your name,
+            mailing address, telephone number, electronic mail address, other contact method, age, date of birth, sex,
+            educational history, occupation history, postal code,
+            zone number, personal images, hobbies or preferences, personal identification card information, driving
+            license information, credit card information, unique device identifier, geo-locational information, vehicle
+            status, or behavioural information.
+
+个人信息的收集途径
+
+Means of Personal Information Collection
+
+我们会通过多种方式收集并存储您的个人信息
+
+We may collect and store your PersonalInformation in a variety of ways, including, but not
+            limited to, the following：
+
+当您访问或者参与我们的官网或者其他网上服务时（例如您通过我们的网站或者电子邮件联系我们提出问题、进行评论或者参与在线调查时），您自愿向我们提供的信息；
+
+When you voluntarily provide to us when visiting our official website or participating in our
+            online services, for example, when you contact us on our website or via email with a question or comment or
+            participate in an online survey;
+
+当您为了获得我们的线下服务而进行注册时（例如您申请试驾或者参加我们的品牌俱乐部）；
+
+When you sign up or register for one of our offline services, for example, when you apply for
+            a test drive or join one of our brand clubs;
+
+当您使用我们的车载信息系统或其他车载技术时；
+
+When you use our in-vehicle telematics system and other in-vehicle technologies;
+
+当您下载或使用我们或我们指定的公司开发的应用（如车载系统）
+        
+
+
+When you download or use an application developed by us or our designated companies;
+
+
+当您关注我们的社交媒体（如微博、微信）时；
+
+When you subscribe to us on social varies media platforms (such as Weibo or Wechat);
+
+当您通过公众可接触的方式（例如您在社交媒体网站如BBS、微博和微信上发布信息）发布个人信息时；
+
+When you make Personal Information available through publicly accessible means, such as your
+            postings on social media networks like BBS, Weibo, and WeChat；
+
+当您向我们呼叫中心的代表提供信息时；
+
+1When you provide your information to one of our call center representatives;
+
+我们从独立的授权经销商处收集，例如当您通过我们的授权经销商进行试乘试驾车、购买上汽通用汽车的产品、进行车辆维修时进行收集；
+
+From independent authorized dealers, for example,when you purchase ourProducts or repair
+            Products through one of our dealers;
+
+我们从金融性公司就您与他们的交易进行收集，比如申请购车贷款；
+
+From financing companies in connection with their transactions and other business dealings
+            with you;
+        
+
+从我们的商业合作伙伴和/或服务提供商（关联公司和非关联公司）处收集，例如我们可能处于获取潜在客户之目的，从车展主办方和其他第三方处获取有关您的个人信息；
+
+From our other business partners and/or service providers (both affiliates and
+            non-affiliates), for example,we may obtain Personal Information about you from auto trade show participants
+            and other third parties for sales leads purposes;
+
+我们还可能从其他途径收集到关于您的信息并加入我们的客户信息库。
+
+Other methods from which we may collect and add your Personal Information to our customer
+            database.
+        
+
+
+            通过Cookies收集信息：我们会通过Cookies和其他追踪技术了解客户使用我们网站的情况。Cookies是一种能够识别您设备的特定识别符号，通过识别您的设备，我们可以为您推荐个性化商品和广告（包括由本网站提供广告内容的联盟网站）。我们将通过Cookies收集的信息分类汇总，用于向不同群体客户提供更有针对性、更有价值的产品信息和服务。通过Cookies收集的信息属于不能单独使用的个人信息，您理解并同意我们将通过Cookies收集的信息与您的其他信息结合使用。大部分网页浏览器会自动打开Cookies，但您可以随时调整您的浏览器设置，选择关闭Cookies。然而，Cookies能让您享受我们更优质、更个性化的服务，如果您关闭了Cookies，可能无法完全体验或者我们网站上提供的所有服务，所以我们建议您将其设置为打开状态。
+        
+
+Collection of Information Through Cookies: Cookies and other tracing technologies may be used
+            to better help us understand how customers use our website. Cookies are a type of unique identifiers for
+            your device. Through identifying your
+            device, we are able to recommend to you personalized products and advertisements (including advertisement
+            contents of affiliated websites provided by our websites). We filter and analyze the information collected
+            through cookies to
+            allow us to provide more tailored and valued product information and services to different customers groups.
+            Information collected through cookies are Personal Information that cannot be used independently. You
+            acknowledge and consent
+            that we may use the information collected through cookies jointly with other information. Most web browser
+            applications have cookies automatically turned on. However, you may adjust your web browser application
+            settings to turn off
+            cookies. However, we recommend you to turn on cookies functions to be able to enjoy our better-quality and
+            more personalized services.
+
+
+            通过监控摄像头收集信息：当您进入并停留于我们授权经销商的门店或任何我们的场所，我们可能会通过店内或场所内的视频监控摄像头收集您的个人图像。您同意并准许我们通过位于店内或场所内的视频监控摄像头收集您的个人图像。我们只会依照防盗用途、安全监控用途或本隐私政策内所列的个人信息收集目的（在下文中定义）而收集、使用及处理该图像。
+        
+
+Collection of Information Through Video Surveillance Cameras: We may collect your personal
+            images through video surveillance cameras located within the stores of our authorized distributors or any
+            other our premises when you enter and
+            remain on scene in such stores or premises. You consent to and permit us to collect your personal images
+            through video surveillance cameras located within our stores or premises. We will only collect, use or
+            process the images for
+            theft-prevention purpose, security surveillance purpose or any other Personal Information Collection
+            Purposes (see definition below) listed in this Privacy Policy.
+
+
+            通过呼叫中心收集信息：当您拨打我们的服务热线，为了提高服务质量以及跟进您的请求，我们可能会在通话期间向您收集个人信息，或者通过电子媒介手段进行电话录音。您理解并同意我们在语音通话的过程中收集您的个人信息并进行电话录音。
+        
+
+Collection of Information Through Call Centers: When you call our service hotlines, to
+            provide better quality services and to allow us to follow up to your requests, we may collect your Personal
+            Information during the phone conversation
+            or record the phone conversation through electronic media means. You acknowledge and consent to us
+            collecting your personal information during the phone conversation as well as to record the phone
+            conversation.
+
+通过移动设备或车载系统收集信息：当您下载或使用我们或我们指定的公司开发的应用（如车载系统）时，我们将可能收到关于您地理位置、车辆状况以及您的移动设备的信息（如包含识别您的移动设备的特定号码）。
+            这些数据将被用于确定您、您设备或者您车辆的大致位置，以便我们能提供并完善我们的定位服务或其他个性化服务。您理解并同意我们收集上述地理位置、车辆状况、移动设备特定标识码等的个人信息。
+        
+
+Collection of Information Through Mobile Devices or Vehicle Mounted Systems: When you
+            download or use applications (such as vehicle mounted systems) developed by us or by our designated
+            companies, we may receive information such as your
+            geo-location, vehicle status or mobile devices (such as including the unique number used to identify your
+            mobile devices). Such information is used to determine your, your devices or your vehicle’s approximate
+            location so that we can
+            provide or improve upon our location-based Services or other personalized Services. You acknowledge and
+            consent to us collecting the aforementioned personal information such as geo-location, vehicle status or
+            mobile device unique identifier.
+
+
+            通过免费WIFI系统收集信息：当您在我们授权经销商场所内使用免费WIFI时，该免费WIFI系统将可能会收集您的手机号码、相关设备编号、地理位置信息、互联网及移动互联网应用浏览记录等个人信息，我们可能在业务活动中单独使用该等信息或者将该等信息与我们收起的您的其他个人信息相结合，从而使我们更好地为您提供个性化的服务。您理解并同意我们收集上述手机编号、相关设备编号、地理位置信息、浏览记录等个人信息。
+        
+
+Collection of Information Through WIFI：When you use Free WIFI in the location of our
+            Authorized Dealer, such WIFI system may collect your cell phone number, related device number, geo-location
+            information, internet and mobile app browsing
+            record. We will use independently use such Information or combine such information with other information we
+            collected so that we can provide personalized Services to you. You acknowledge and consent to us collecting
+            the aforementioned
+            personal information such as cell phone number, mobile device unique identifier, geo-location, and internet
+            browsing record.
+
+拒绝提供个人信息的后果
+
+Consequences of Not Providing Personal Information
+
+
+            您可以不提供您的个人信息，如果您选择不提供您的个人信息，我们将可能无法为您提供我们的产品或服务，也可能无法回应您在使用我们的产品或服务时所遇到的问题。对于您可能因此遭受的损失，我们将不承担责任。
+
+You may elect to not provide your Personal Information. If you choose not to provide your
+            Personal Information, we may not be able to provide our Products or Services to you and we may not be able
+            to respond to your questions encountered.
+            For any loss you may suffer arising thereof, we shall bear no liability.
+
+我们如何使用您的个人信息
+
+How We Use Your Personal Information
+
+我们会将收集到的个人信息用于以下目的（以下简称“个人信息收集目的”）：
+
+We may use the Personal Information we collect for the following purposes (the “Personal
+            Information Collection Purposes”):
+        
+
+管理我们的产品和服务，向您提供我们的产品及服务，并就您使用我们产品与服务的情况进行及时沟通；
+
+To administer and offer you our Products and Services, and to promptly communicate with you
+            regarding the usage of our Products and Services;
+
+将我们向您提供的产品及服务进行个性化定制（包括地区化定制以及个人化定制），使得您在使用我们的产品与服务时有更好的个性化体验；
+
+To provide to you personally customized Products and Services (including regional
+            customization and personal customization),so as to allow you to have a better personal experience in using
+            our Products and Services;
+        
+
+支持我们服务的履行与运作，回应您的咨询及请求，处理您的交易；
+
+To support the technical performance and functioning of our Services, and respond to your
+            inquiries and requests and to process your transactions;
+
+向您提供售后服务及支持，接收您的反馈；
+
+To provide to you aftersales services and support and to receive your feedbacks;
+
+将我们的最新产品、服务、衍生产品及服务、活动预告、抽奖、竞赛或促销推广活动等及时告知您。
+
+To promptly notify you of our newest Products, Services, derivative Products and Services,
+            event preview, lottery draw, competition or other promotional activities;
+
+将您的个人信息用于数据分析和研究等内部目的，以改进我们的产品、服务和与客户之间的沟通，及时解决客户的问题;
+        
+
+To use your Personal Information for internal purposes such as data analysis and research, to
+            improve our products,Services, and communication with customers and to resolve customer inquiries;
+
+使用个人信息向您发送产品/服务安全的重要通知，例如召回及市场行动等信息。由于这些信息对您的人身安全至关重要，我们强烈建议您不要拒绝接收此类信息;
+
+To use the Personal Information to issue important notifications in relation to the safety of
+            Products and Services,such as those relating to recalls and field actions. As the information can be
+            critical to your safety,we strongly recommend
+            you to not reject the acceptance of such information.
+
+调查已经发生的或者可以的欺诈情形或者防止欺诈或者其他潜在的非法活动；以及您同意的其他方式。
+
+To investigate actual or suspected instances of fraud or to prevent fraud or other
+            potentially illegal activities; and In any other manner in which you consent
+
+您同意的其他方式
+
+In any other manner in which you consent.
+
+在某些情况下，为了提供并完善我们的产品、服务、内容和广告，我们也可能会将您的个人信息和非个人信息结合在一起进行分析研究。
+
+In some circumstances, we may also combine your Personal Information with your Non-Personal
+            Information for analytics and research purposes and to provide and improve our Products, Services, content,
+            and advertising.
+        
+
+我们不会在违背上述个人信息收集目的的情况下，或超出本隐私政策的范围外使用您的个人信息。 
+
+We will not use your Personal Information in contravention of the above Personal Information
+            Collection Purposes or outside the scope of this Privacy Policy.
+
+向第三方披露和共享您的个人信息 
+
+Disclosure and Sharing of Your Personal Information to Third Partie
+
+
+            我们尊重您的个人隐私并遵守相关的法律和法规，我们承诺严格保密所收集的您的个人信息，并且不会将您的个人信息出售给他人。我们仅会为达到个人信息收集目的，与遵守本隐私政策或至少提供与本隐私政策同样保护性惯例的以下第三方分享您的个人信息。除非另有声明，这些第三方并不代表上汽通用汽车收集、使用或转移个人信息等。因此，上汽通用汽车并不对这些第三方收集、使用或转移个人信息等行为负责。
+        
+
+We respect your personal privacy and we comply with the relevant laws and regulations. We
+            promise to keep in strict confidence your Personal Information we have collected and we will not sell your
+            personal information to others. We will
+            only share your Personal Information with the below third parties that comply with this Privacy Policy or
+            that which at least have in place the same protection standard as this Privacy Policy, to fulfill the
+            Personal Information Collection
+            Purposes. Unless otherwise stated, these third parties do not represent us in the context of collecting,
+            processing or transferring personal information, and SGM is therefore not responsible for the collecting,
+            processing or transferring
+            personal information by these third parties.
+        
+
+我们的关联公司及附属公司： 为确保本公司集团成员向您提供大致相当的服务质量，我们可能会与我们的关联公司以及附属公司共享您的个人信息。 
+
+Our Affiliated Companies and Subsidiaries: to ensure the members of our company corporate
+            group can provide to you a consistent level of service quality, we may share your personal information with
+            our affiliated companies and subsidiaries.
+
+ 我们的授权经销商：授权经销商是我们的销售渠道，他们负责向您介绍、销售我们的产品及服务。 为更好地提供售前和售后服务，我们会与授权经销商共享与个人信息收集目的有关的您的个人信息。
+
+Our Authorized Distributors: Authorized dealersare our sales channels responsible for
+            introducing and selling to you our Products and Services. To better provide pre-sale and aftersales
+            services, we share your Personal Information related
+            to Personal Information Collection Purposes with the authorized dealers.
+
+金融性公司、车辆保险相关的公司、二手车公司、产品延长保修期运作公司： 我们会同他们共享您的车辆融资相关的个人信息、二手车评估及销售相关的个人信息、产品延长保修期相关的个人信息。 
+
+Financing Companies, Auto Insurance related Company, Used Car Company, Extended Warranty
+            Operation Company: We may share your Personal Information with these companies in connection with the
+            Personal Information of auto financing, used
+            car evaluation and sales, extended warranty.
+
+商业合作伙伴：我们与众多第三方有业务上的合作往来，为促进合作、推出优质及更新的产品及服务，我们可能会与第三方合作伙伴共享您的个人信息。 
+
+Business Partners: Our businesses involve working with various third party partners. To
+            better promote cooperation and to enable better quality and updated Products and Services, we may share your
+            Personal Information with the third party
+            partners;
+
+第三方服务提供者：我们聘请第三方公司（如供应商、服务外包商等）为我们的客户提供相关服务，
+            包括但不限于购车贷款、车辆保险、车载信息、路边救援、电话回访、发送信函、电子邮件或短信、清理客户信息、分析数据、提供市场营销帮助、客户满意度调查、接受客户咨询以及处理客户请求等等。
+            此类第三方仅能为履行其职责或协助我们达到个人信息收集目的而访问、使用、处理或保留您的个人信息。除此以外，他们不能将您的个人信息用于任何其他目的。 
+
+Third Party Service Providers:we engagethird party companies (such as suppliers, service
+            outsourcing providers) to provide to our customers the relevant services, including but not limited to
+            vehicle purchase loan, vehicle insurance, vehicle-mount
+            information, roadside assistances, call return, mail delivery, e-mail or text messages, customer information
+            clearing, data analysis, marketing sales support, customer satisfaction survey, customer inquiries
+            acceptance and customer
+            request processing. Such third party companies may only access, use, process or retain your Personal
+            Information to fulfill their obligations or to assist us in fulfilling the Personal Information Collection
+            Purposes. The third party
+            companies may not use your Personal Information for any other purposes.
+
+呼叫中心：我们会设置呼叫中心，以统一接收您的请求与反馈，提高我们的服务质量。为有效地为您提供服务，我们可能会向呼叫中心提供您的个人信息。 
+
+Call Center: We maintain a call center to centrally accept and respond to your requests so as
+            to improve our Service qualities. To effectively provide to you the Services, we may need to provide your
+            Personal Informationto the call center
+
+业务转让：为持续发展我们的业务，我们可能会进行重组、合并或出售某些业务。当我们的资产因此被转移至相关第三方时，我们收集的一切个人信息也会随之转让给相关第三方。 
+
+Business Transfer: To maintain our businesses, we may restructure, merge or sell certain
+            businesses. Where our assets are therefore transferred to the relevant third parties, the Personal
+            Information we have collected are also transferred
+            to the relevant third parties.
+
+调查或审计：受适用的法律法规，我们可能会受到相关政府机构或监管部门不时的调查或审计。在相关调查或审计程序中，
+            如果我们被要求披露您的个人信息而无法立即告知您该等披露，您同意我们在这些调查或审计程序中向相关第三方披露您的个人信息而无须获得您的额外同意。
+        
+
+Investigation or Audit:: In accordance with the applicable laws and regulations, We may be
+            subject to investigation or audit by the relevant government agencies or regulatory departments from time to
+            time. During the process of such investigation
+            or audit, if we are required to disclose your Personal Information and such disclosure cannot be timely
+            notified to you, you consent to us disclosing your Personal Information to the relevant third parties during
+            the investigation
+            or audit process without us having to acquire your additional consent.
+        
+
+其他：应其他法律和法规、法律程序、法院命令、诉讼和/或公共机构和政府部门的要求，或者就国家安全、执法活动或具有公众重要性的其他事宜，或者为了执行我们的条款和条件或保护我们的经营或用户，
+            披露您的个人信息是必须的或适当的，我们也可能会向相关第三方披露您的个人信息。 
+
+Others: If under other laws, regulations, legal procedures, court orders, litigation and/or
+            request by public institutions or government departments, or due to national security, enforcement
+            activities or other matters of public importance,
+            or to enforce our terms and conditions or to protect our operations or users, disclosure of your Personal
+            Information is appropriate or necessary, we may disclose your Personal Information with relevant third
+            parties.
+
+当您另行同意时：当您另行同意或者给与我们指示时，我们可以向第三方披露您的个人信息。 
+
+When Your Otherwise Consent:We may otherwise disclose your Personal Information with third
+            parties where you otherwise give us your consent or direct us to do so
+        
+
+个人信息的处理及储存 
+
+Processing and Storage of Personal Information
+
+在我们存储您的个人数据时，我们设置了合理且足够的安保措施来保护您的个人信息免受未经授权的访问、泄露和丢失，包括但不限于电子安全措施和物理安全措施。 
+
+When we store your Personal Information, we implement reasonable and sufficient security
+            measures to ensure that your Personal Information is safe from unauthorized access, disclosure or loss. Such
+            security measures include but are not
+            limited to electronic security measures and physical security measures.
+        
+
+个人信息的完整性及更新 
+
+Integrity and Update of Personal Information
+
+我们提供了一些便捷的方法，让你能够确保你的个人信息准确、完整并及时更新。我们将在实现本隐私政策中所述目的所必需的期间内保留你的个人信息，除非法律要求或允许在更长的期间内保留这些信息。
+        
+
+We makes it easy for you to keep your key Personal Information accurate, complete, and up to
+            date. We will retain your Personal Information for the period necessary to fulfill the purposes outlined in
+            this Privacy Policy unless a longer
+            retention period is required or permitted by law
+
+您个人信息的准确性、完整性很重要，你可以访问 https://www.saic-gm.com登录你的帐户，帮助我们确保你的个人信息准确、完整并及时更新。 
+
+The Accuracy and completeness of your Personal Information is very important. You can help
+            ensure that your contact information and preferences are accurate, complete, and up to date by logging in to
+            your account atwww.saic-gm.com.
+
+选择 
+
+Choices
+
+我们可能会通过电子邮件、电话、手机/文本消息（包括 SMS 和
+            MMS）或信函等方式向您发送营销类信息，包括但不限于：告知我们的产品或服务的最新信息、邀请您参加我们的市场活动、或者发出关于产品或服务的公告。
+        
+
+We may send you marketing information through E-mail, telephone, SMS or MMS, letter or any
+            other means, including, but not limited to, notifying you of latest information of our Products and
+            Services，inviting you to attend our marketing
+            activities, or issuing notice of our Products or Services.
+
+如果您选择不要从上汽通用汽车收取营销类信息，您可以根据我们提供的退订方式进行退订操作。敬请注意，可能需要几天时间处理您的此等退订要求，您可能在该期间仍然收到促销或营销信息。
+
+If you wish to opt out of receiving marketing informationfrom us，you may choose opt-out in
+            accordance with our “opting-out approach”. Please note that it may take a few days to process your opt-out
+            request and you may continue to receive
+            promotional or marketing messages during this time.
+
+儿童 
+
+Children
+
+我们不会在明知对方为年龄不满 18周岁的儿童的情况下收集其个人信息。如果我们发现我们在未经家长同意的情况下收集了年龄不满 18 周岁的儿童的个人信息，我们将采取措施尽快删除此等信息。
+        
+
+We do not intentionally collect Personal Information of children below the age of 18. If we
+            discover that we have collected Personal Information of children below the age of 18 without the consent of
+            the child’s parents, we shall take
+            prompt measures to delete such information.
+
+第三方通过我们的产品和服务向您收集个人信息 
+
+Collection of Your Personal Information by Third Parties Through Our Products or Services
+
+我们的产品和服务中可能含有第三方网站、产品和服务的链接。我们的产品和服务也可能使用或提供来自第三方的产品或服务 —
+            例如，车载信息系统。第三方通过我们的系统、产品和服务收集的此类个人信息（其中可能含有位置数据或联系方式等），
+            其使用、处理、保存、转移、保留及销毁等须遵守第三方关于隐私的政策规定。如果在这个过程中，我们并未因此而抓取或收集到您的个人信息，
+            则我们不承担相关责任，且我们希望您能了解这些第三方的隐私政策规定；但如果在这个过程中，我们因此抓取或收集到您的个人信息，则我们会严格遵守本隐私政策的条款。
+        
+
+Our Products or Services may contain link to third party websites, products or services. Our
+            Products and Services may also use or provide third party products or services – for example, vehicle mount
+            information system. The use, processing,
+            storage, transfer, retention, and destruction of such Personal Information collected by the third parties
+            through our system, products or services are governed by the third parties’ policies and rules regarding
+            privacy. If during the
+            process, we do not capture or receive your Personal Information, we do not bear any relevant liability. We
+            hope you take time to understand the privacy policies and rules of such third parties. However, if during
+            the process, We capture
+            or receive your Personal Information, we shall strictly comply with the terms of this Privacy Policy.
+
+更新 
+
+Updates
+
+我们有权随时对本隐私政策加以修订及更新。如果我们对隐私政策作出重大变更，我们将于我们的网站http://www.saic-gm.com即时发布最新的隐私政策。
+            我们亦将向我们的经销商传达最新的隐私政策，您可以向我们的经销商查询详情。除另有声明外，最新有效的隐私政策适用于我们关于您和您的所有个人信息。 
+
+We shall have the right to amend and update this Privacy Policy at any time. If we have made
+            a material change to the Privacy Policy, we shall promptly publish the most updated Privacy Policy on our
+            website http://www.saic-gm.com. We shall
+            also disclose the most updated Privacy Policy to our authorized dealersfor you to inquire for. Unless
+            otherwise stated, the most updated Privacy Policy shall be applicable to you and all your Personal
+            Information.
+
+联系我们 
+
+Contact Us
+
+如果您对上述政策内容或对您的个人信息保护有任何咨询或疑问，或您希望查阅我们所持有的您的个人信息的内容，或要求对您所提供的个人信息做出更正，请通过以下方式与我们联系：[
+            privacy@saic-gm.com ]。 我们将于收到您的询问/要求后尽快给予答复。该答复是免费的，除非提供该答复的成本或要求提供该答复的频率是不合理的。 
+
+If you have any questions or require consultation in regards to the above policy content or
+            to the protection of your Personal Information, or if you would like to access your Personal Information
+            held by SGM, or if you would like to amend
+            the Personal Information you have provided, please contact us at the following: [please insert name/job
+            title, email address, postal address]. We shall provide you with a response as soon as possible after we
+            have received your inquiry
+            or request. Such response shall be free, unless the cost or the frequency of providing the response is
+            unreasonable.
+
+请您仔细阅读本隐私政策，当您阅读完毕并继续提供您的个人信息，或购买我们的产品或使用我们的服务，表示您已完全理解并接受本隐私政策的全部条款和内容。 
+
+Please read this Privacy Policy carefully. When you have finished reading and provided your
+            Personal Information, or when you have purchased our Products or used our Services, you fully acknowledge
+            and accept all terms and content of this
+            Privacy Policy.
+
+为了向您提供服务，时行 APP可能在必要范围您向您申请获取您设备的下列权限。时行 APP不会默认开启这些权限，只有在您主动确认开启权限后，时行
+            APP才会通过这些权限收集个人信息。您可以在您的设备中逐项查看您上述权限的开启状态，并可以决定将这些权限随时开启或关闭。请您注意，您开启这些权限即代表您授权上汽通用收集和使用这些个人信息，您关闭权限即代表您取消了授权，上汽通用将不再继续收集和使用这些个人信息，也无法为您提供与这些权限所对应的服务。您关闭权限的决定不会影响此前基于您的授权所进行的个人信息的处理。
+        
+
+（一）iOS系统权限调用说明
+
+
+
+设备权限
+使用目的
+是否询问
+
+
+相机（摄像头）
+用于证件（行驶证等）识别
+用到相关功能时弹出
+
+
+相册
+用于证件（行驶证等）识别
+用到相关功能时弹出
+
+
+定位
+获取用户当前位置，便于查找取还车点
+打开APP时弹出
+
+
+网络
+连接网络
+首次使用APP弹出
+
+
+蓝牙
+车辆蓝牙钥匙
+用到相关功能时弹出
+
+
+
+（二）Android系统权限调用说明
+
+
+
+设备权限
+使用目的
+是否询问
+
+
+相机（摄像头）
+用于证件（行驶证等）识别
+用到相关功能时弹出
+
+
+相册
+用于证件（行驶证等）识别
+用到相关功能时弹出
+
+
+定位
+获取用户当前位置，便于查找取还车点
+打开APP时弹出
+
+
+网络
+连接网络
+首次使用APP弹出
+
+
+蓝牙
+车辆蓝牙钥匙
+用到相关功能时弹出
+
+
+
+时行 APP接入的第三方服务
+
+为了向您提供更多的服务和更好的使用体验，时行
+            APP包含第三方的服务，包括第三方SDK（软件工具开发包）和第三方API（应用程序编程接口）。若您使用第三方服务，您同意由第三方直接收集和处理您的个人信息，第三方将根据其自己的个人信息保护政策收集和使用您的个人信息，而非上汽通用的《个人隐私政策》和本《个人信息说明》。上汽通用将要求第三方以合法合规的方式收集和使用您的个人信息。上汽通用不对第三方收集和使用您的个人信息负责，也无法控制第三方收集和使用您的个人信息，上汽通用建议您在使用第三方服务前仔细阅读第三方的个人信息保护政策，若您对第三方收集和使用您的个人信息有疑问，请咨询该第三方。
+        
+
+时行 APP包含的第三方服务列举如下：
+
+
+
+第三方服务形式
+使用目的
+涉及的个人信息
+第三方名称
+
+
+SDK
+订单支付
+订单信息、支付金额
+支付宝
+
+
+SDK
+提供地图服务
+位置信息
+百度
+
+SDK
+QQ、微信信息分享
+设备标识符，相机、位置信息、Wi-Fi地址、设备MAC地址、软件安装列表、运营商信息
+腾讯
+
+
+SDK
+判断用户信息真实性
+设备标识符，相机、位置信息、Wi-Fi地址、设备MAC地址、软件安装列表
+百度云
+
+
+SDK
+实时获取应用推送消息
+软件安装列表，获取uuid，
+极光推送
+
+
+SDK
+帮助用户完成付款及保障支付安全
+设备标识符，相机、位置信息、Wi-Fi地址、设备MAC地址、软件安装列表
+云闪付
+
+
+
+您的权利
+
+您有权访问、更新、删除您的个人信息，但法律法规规定的例外情形除外。您可以访问、更新您账户中的个人资料和账号信息、账号绑定、密码等。您可以通过时行
+            APP进行前述操作，或拨打客服热线操作。
+
+改变您授权同意的范围或撤回授权。您可以在时行
+            APP中删除您的个人信息、更改隐私设置或在您的设备中更改设备权限等方式改变同意范围或撤回您的授权。当您执行前述操作后，我们将无法为您提供撤回同意或授权所对应的服务，但不会影响此前基于您的授权已经开展的个人信息处理。
+        
+
+您有权注销您的账户，关于注销账户，请注意：
+
+1.您可通过如下路径注销账户：
+打开时行 APP，我的-设置-注销账号，进行注销操作。
+
+2.注销账户需满足以下条件
+（1）账号处于安全状态
+（2）服务/商城订单完成
+
+3.停止注销的情形：
+在注销期间，若您的账户涉及争议纠纷，包括但不限于投诉、举报、诉讼、仲裁、国家有权机关调查等，上汽通用有权自行终止账户的注销而无需另行得到您的同意。
+
+4.注销账户的影响
+（1）请您充分知悉，您注销时行
+            APP账户的行为将导致上汽通用无法继续为您提供服务。注销成功后账户将不可恢复，您应在注销前自行备份账户所涉信息和数据。注销成功后将无法找回时行
+            APP账户与您有关的任何信息（即使您用同样的手机号再次注册），相关的影响包括但不限于：
+i.您将无法继续使用时行 APP账户；
+ii.时行 APP账户的账户信息和历史信息，包括但不限于姓名、昵称、头像、积分、交易记录都将无法找回；
+iii.PP以及通过时行 APP登陆的上汽通用旗下其他APP和账户的所有记录都将无法找回，您将无法再使用这些APP和账户；
+iv.注销时行 APP账户视为您放弃时行 APP账户以及通过时行 APP登陆的上汽通用旗下其他APP和账户中的所有资产，包括但不限于优惠券、积分或其他卡券；
+        
+v.您理解并同意，上汽通用无义务也无法帮您恢复时行 APP账户及相关账户资产或权限。
+（2）根据相关法律法规的要求，即使成功注销了时行
+            APP账户，上汽通用也需要保留法律法规要求保存的信息，直至法律法规要求的保存期限届满，届满后上汽通用将会彻底删除这些信息。对于这些信息，上汽通用仅会在法律法规允许的范围内使用，不会用于其他目的。
+
+
+自主管理控制营销信息及定向推送
+
+1. 消息推送。若您不希望收到时行 APP的消息通知，您可以在首次安装时行 APP时拒绝消息通知，或在您的设备中关闭时行 APP的通知功能。
+2. 回访。若您不希望收到我们的电话回访，您可以在电话回访中明确拒绝。
+
+更新 Updates
+
+
+            我们有权随时对本隐私政策加以修订及更新。如果我们对隐私政策作出重大变更，我们将于我们的网站http://www.saic-gm.com即时发布最新的隐私政策。我们亦将向我们的经销商传达最新的隐私政策，您可以向我们的经销商查询详情。除另有声明外，最新有效的隐私政策适用于我们关于您和您的所有个人信息。
+        
+
+We shall have the right to amend and update this Privacy Policy at any time. If we have made
+            a material change to the Privacy Policy, we shall promptly publish the most updated Privacy Policy on our
+            website http://www.saic-gm.com. We shall also disclose the most updated Privacy Policy to our authorized
+            dealers for you to inquire for. Unless otherwise stated, the most updated Privacy Policy shall be applicable
+            to you and all your Personal Information.
+
+联系我们 Contact Us
+
+
+            如果您对上述政策内容或对您的个人信息保护有任何咨询或疑问，或您希望查阅我们所持有的您的个人信息的内容，或要求对您所提供的个人信息做出更正，请通过以下方式与我们联系：[privacy@saic-gm.com]。我们将于收到您的询问/要求后尽快给予答复。该答复是免费的，除非提供该答复的成本或要求提供该答复的频率是不合理的。
+        
+
+If you have any questions or require consultation in regards to the above policy content or
+            to the protection of your Personal Information, or if you would like to access your Personal Information
+            held by SGM, or if you would like to amend the Personal Information you have provided, please contact us at
+            the following: [ privacy@saic-gm.com ]. We shall provide you with a response as soon as possible after we
+            have received your inquiry or request. Such response shall be free, unless the cost or the frequency of
+            providing the response is unreasonable.
+请您仔细阅读本隐私政策，当您阅读完毕并继续提供您的个人信息，或购买我们的产品或使用我们的服务，表示您已完全理解并接受本隐私政策的全部条款和内容。 
+
+Please read this Privacy Policy carefully. When you have finished reading and provided your
+            Personal Information, or when you have purchased our Products or used our Services, you fully acknowledge
+            and accept all terms and content of this Privacy Policy. 
+
+

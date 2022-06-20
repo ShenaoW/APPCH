@@ -1,0 +1,259 @@
+
+
+
+
+
+隐私政策
+
+
+
+
+1、概述
+        《房在线》是由厦门房在线科技有限公司（注册地址/常用地址：福建省厦门市软件园望海路17号楼6层，联系方式：400-8080-590，以下简称"房在线"或"我们"）开发，维护，运营的一款软件应用产品，我们坚信并非常重视用户的隐私权。房在线致力于保护我们用户的隐私权。本隐私政策旨在向你说明，在使用我们的产品和我们的服务时，我们如何收集、存储、使用、管理和保护你的用户信息（包括个人信息）。收集途径主要包括：移动设备上（如：苹果设备和安卓设备）提供的房在线ERP应用程序产品(“我们的服务”)。
+        
+2、使用须知
+        请注意，本政策范围仅限于你使用我们的应用软件服务时向房在线提交或者房在线收集的用户信息（包括个人信息）；本政策下“个人信息”指信息本身或与房在线能够访问的个人的其他信息联系后能够识别特定个人的数据，包括你的姓名、地址、电话号码等。
+        使用我们的应用软件服务就意味着你同意本政策，并同意根据本政策中规定的方式对你的用户信息（包括你的个人信息）进行收集、处理、披露和分享。
+        
+3、信息的收集和使用
+        为了向你更好的提供我们的服务，当你使用房在线时，我们将在法律允许的范围内和当且仅当你使用某些功能或者服务时，根据本政策规定收集你的个人信息和用户信息。如果你不提供这些信息，我们可能无法向你提供我们的产品或服务。
+        在你使用我们的公众号和我们的服务时，我们可能会建议你注册一个房在线帐号或关注公众号，以方便你充分利用我们的应用、我们的服务及其优势。当你注册房在线帐号时，我们会收集你所提供的可识别你身份的信息，这些信息包括你的帐号名称、移动电话号码等是《房在线》注册帐号所必须的信息。具体收集的信息有（包括但不限于）：
+        
+        A、设备信息：当你在移动设备上使用我们的服务时，我们收集与你设备相关的信息。包括如下：国际移动电话设备识别码（“IMEI”）、国际移动用户识别码(“IMSI”)、广告标识符（“IDFA”与“IDFV”）、集成电路卡识别码（“ICCID”）和介质访问控制（“MAC”）地址、设备型号与设备分辨率，方便我们统计使用我们产品与服务的设备数量并进行设备机型数据分析与图形适配分析。
+        
+        SDK及用途说明如下：
+        
+
+
+
+SDK名称
+包名信息
+使用目的
+使用的权限
+涉及个人信息
+
+
+应用信息
+
+                  io.dcloud.common、
+                  io.dcloud.feature、
+                  io.dcloud.WebAppActivity
+                
+用于业务设备锁，业务功能限制设备异地登录
+READ_PHONE_STATE
+设备信息（IMEI、ANDROID_ID、DEVICE_ID、IMSI）、应用已安装列表、网络信息
+
+
+
+
+
+        B、位置信息：我们收集你的位置信息，如国家代码、经纬度信息、网络位置、IP地址和系统设置国家及时区信息。这些信息有助于我们了解用户分布和用户使用场景，使我们可以为其提供正确的应用程序版本及更优质的服务。除本政策另有约定外，我们不会与任何第三方分享这些信息。如果你不再希望我们跟踪或使用具体位置信息，你可以在选择在设备上关闭网络、GPS功能或者禁用我们获取你网络、GPS、设备信息权限。
+        
+        C、软件日志信息：软件的运行信息，如错误崩溃日志等。这些信息用于在程序发生问题的时候，便于我们找出问题的原因，提升软件的稳定性。广告信息：我们可能在服务中放映广告并且可能出于追踪广告目的收集并使用有关你的信息，例如你的设备标识符、MAC地址、IMEI、地理位置及IP地址。这些信息是为了用于创建内部用户编号以帮助我们更好地计数和追踪基于语言、地理位置和其他细节的广告。我们不会将这些信息出售给任何第三方。
+        
+        D、相册信息：为了正常使用如下服务我们将访问你的设备相册，服务包括但不限于：上传房源图片、房源视频、带看单、委托单、房源证件、公告图片等。如果你不再希望我们访问相册信息，你可以在选择在设备上禁用我们获取你的相册/相机权限。
+        
+        E、授权合作伙伴共享: 仅为实现本政策中声明的目的，我们的某些服务将由授权合作伙伴提供。我们可能会与合作伙伴共享您的某些个人信息，以提供更好的客户服务和用户体验。我们仅会出于合法、正当、必要、特定、明确的目的共享您的个人信息，并且只会共享提供服务所必要的个人信息。我们的合作伙伴无权将共享的个人信息用于任何其他用途。
+        
+        以下列举了具体的授权合作伙伴，并提供了该第三方的隐私政策链接，其中明示了收集个人信息等的目的、方式、范围，我们建议您阅读该第三方的隐私政策：
+        
+
+
+
+SDK名称
+包名信息
+使用目的
+使用的权限
+涉及个人信息
+隐私权政策链接
+
+
+个推·消息推送
+com.igexin
+推送系统消息业务消息
+
+                android.permission.ACCESS_NETWORK_STATE
+                android.permission.ACCESS_WIFI_STATE
+                android.permission.READ_PHONE_STATE
+                android.permission.VIBRATE
+                android.permission.GET_TASKS
+
+设备信息（IMEI、ANDROID_ID、DEVICE_ID、IMSI）、应用已安装列表、网络信息
+http://docs.getui.com/privacy
+
+
+微信开放平台
+com.tencent.mm
+分享房源到微信
+
+                android.permission.ACCESS_NETWORK_STATE
+                android.permission.ACCESS_WIFI_STATE
+
+存储的个人文件、网络信息
+微信隐私协议
+
+
+个验一键登录
+com.g.elogin、com.g.gysdk
+一键登录
+
+                android.permission.READ_PHONE_STATE
+                android.permission.READ_EXTERNAL_STORAGE
+                android.permission.WRITE_EXTERNAL_STORAGE
+                android.permission.ACCESS_NETWORK_STATE
+                android.permission.ACCESS_WIFI_STATE
+                android.permission.CHANGE_NETWORK_STATE
+
+存储的个人文件、读取手机状态和身份、网络信息
+https://docs.getui.com/privacy/
+
+
+高德开放平台
+com.amap.api, com.loc, com.autonavi
+实现展现地图，小区位置地图展示
+
+                android.permission.ACCESS_COARSE_LOCATION
+                android.permission.ACCESS_FINE_LOCATION
+                android.permission.ACCESS_NETWORK_STATE
+                android.permission.ACCESS_WIFI_STATE
+                android.permission.CHANGE_WIFI_STATE
+                android.permission.READ_PHONE_STATE
+                android.permission.WRITE_EXTERNAL_STORAGE
+                android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+
+存储的个人文件、位置信息、读取手机状态和身份、网络信息
+https://lbs.amap.com/agreement/compliance
+
+
+腾讯浏览服务SDK
+com.tencent.tbs、com.tencent.smtt
+加载隐私政策网址
+
+                android.permission.WRITE_EXTERNAL_STORAGE
+                android.permission.ACCESS_NETWORK_STATE
+                android.permission.ACCESS_WIFI_STATE
+                android.permission.READ_PHONE_STATE
+
+存储的个人文件、读取手机状态和身份、网络信息
+https://x5.tencent.com/docs/privacy.html
+
+
+阿里weexSDK
+com.taobao
+uni-app基础模块默认集成，用于渲染uniapp的nvue页面引擎
+
+                  android.permission.WRITE_EXTERNAL_STORAGE
+                  android.permission.READ_EXTERNAL_STORAG
+              
+存储文件
+http://doc.weex.io/zh
+
+
+Fresco图库
+com.facebook.fresco
+用于nvue页面加载图片使用
+
+                    android.permission.WRITE_EXTERNAL_STORAGE
+                    android.permission.READ_EXTERNAL_STORAG
+                
+存储文件
+https://www.fresco-cn.org/
+
+
+glide图库
+com.bumptech.glide
+用于图片预览使用
+
+                    android.permission.WRITE_EXTERNAL_STORAGE
+                    android.permission.READ_EXTERNAL_STORAG
+                
+存储文件
+http://bumptech.github.io/glide/
+
+
+gif-drawable
+pl.droidsonroids.gif
+加载gif图
+
+                    android.permission.WRITE_EXTERNAL_STORAGE
+                    android.permission.READ_EXTERNAL_STORAG
+                
+存储文件
+https://github.com/alibaba/fastjson
+
+
+fastjson
+com.alibaba.fastjson
+JSON解析
+
+                无
+              
+无
+https://github.com/alibaba/fastjson
+
+
+移动安全联盟 OAID
+com.bun.miitmdid、com.zui.opendeviceidlibrary
+获取oaid
+
+                无
+              
+设备信息
+http://www.msa-alliance.cn/col.jsp?id=105
+
+
+
+
+
+        F、其他信息：我们还可能收集其他各类与个人没有关联的信息。例如，操作系统类型与版本号以了解系统升级情况、系统语言以用于语言适配、应用列表以了解用户的兴趣偏好等。这些信息用于我们的统计分析，以便优化我们的服务。
+        
+4、信息的使用与保护
+        收集用户信息和个人信息的目的在于向你提供我们的产品和服务，并且保证我们遵守适用法律。我们将你的用户信息与个人信息用于下列目的：
+        
+        A、产品服务。提供、处理、维护、改善、开发我们的应用和提供给你的我们的服务，包括客户支持，以及通过设备或网站提供的其他服务。
+        
+        B、统计分析。分析和开发与我们产品及我们的服务的使用相关的统计信息，以更好地改进我们的产品和服务。
+        
+        C、创建你的房在线账号。在通过我们的应用或我们的服务创建房在线账号时收集的个人信息用于建立用户的个人房在线账户。
+        
+        D、提供基于位置的服务。在使用我们的服务时，我们或第三方服务供应商可能会使用位置信息以为你提供正确版本的服务，并且提供准确的位置，以获得尽可能好的用户体验。
+        
+        E、收集用户反馈。你的反馈意见对帮助我们改进服务而言极为珍贵。为了跟踪你的反馈，我们可能会使用你所提供的个人信息与你联系，并保留记录。
+        
+        F、其他。储存并维护与你相关的信息，用于我们运营业务或履行法律义务。
+        
+5、信息分享与披露
+        我们不会将任何个人信息出售给第三方。除非下列情形发生时，我们无权向第三方共享和/或披露你的全部或部分个人信息：
+        
+        A、为保护他人的人身或财产安全；
+        
+        B、为防止或解决网络欺诈；
+        
+        C、维护房在线的合法权利及权益；
+        
+        D、实现“信息的收集与使用”部分所述目的，前提条件为该等披露接收方应同等接受本政策约束并可以提供信息充分保护；
+        
+        E、根据法律、法规的规定，或遵从政府部门、司法机关的要求；通常前述要求都是为了保护网络安全和保护我们、我们的用户和第三方的权利、财产和安全。
+        
+6、信息数据安全保障
+        我们使用合理措施，以防信息的丢失、不当使用、未经授权阅览或披露。例如，在某些服务中，我们将利用加密技术（例如SSL）来保护你的个人信息。但请你理解（在互联网行业）即便竭尽所能加强安全措施，也不可能始终保证信息百分之百的安全。你需要了解，你接入我们的服务所用的系统和通讯网络，有可能因我们可控范围外的因素而出现问题。
+        我们会使用各种安全加密手段（如SSL,TLS）来包含你的数据安全。但是即使我们使用了各种加密安全措施，也不能保证你的数据绝对的安全。所以请你理解和知晓这个风险的存在。
+        我们将采取一切合理适当的技术手段，保证你可以访问、更新和更正自己的个人信息或使用我们的服务时提供的其他个人信息。在访问、更新、更正和删除前述个人信息时，我们可能会要求你进行身份验证，以保障你的帐号安全。
+        
+7、数据的保留与删除
+        受限于法律法规要求，我们将按照上述章节或者为你提供服务的时间范围内保留你的信息（包括个人信息）。如果你希望撤销同意收集、使用披露我们收集的你的个人信息，希望我们删除你的个人信息，请致电400-8080-590，我们将会在收到你的来电后的合理时间内处理你的请求，并且会根据你的请求，在此之后不再收集、使用、披露你的个人信息。
+请注意，你撤销同意或删除你的个人信息后，可能会影响你使用某些我们的服务。
+        
+8、注销账号
+        如你需要注销账号请致电400-8080-590，我们将会在5个工作日内核实身份后注销账号。注销账号后15天内无登录行为，账号将被彻底注销。彻底注销后此账号内的数据无法恢复，我们将停止为你提供服务，根据你的要求删除你的个人信息或做匿名化处理，但法律法规另有规定的除外。
+        
+9、适用法律
+        本政策，包括但不限于本政策的订立、效力、解释、履行和争议解决，均应适用中华人民共和国法律（不包括香港特别行政区与澳门特别行政区法律）。我们并未表示或者保证本政策符合任何司法管辖区的隐私权法律，因此，你不应当按照该等法律来解释本政策。
+        
+10、政策的更新
+        我们根据法律法规或者房在线商业决策相应更新本政策，如果政策有任何的变动，我们会在明显的地方显示更新日期。我们建议你每次都检查我们更新的内容；在更新之后，如果你继续使用我们的产品和服务，则表示你同意了我们的使用条款和所有的隐私政策条款。
+      
+
+      更新时间：2022年4月13日
+    
+

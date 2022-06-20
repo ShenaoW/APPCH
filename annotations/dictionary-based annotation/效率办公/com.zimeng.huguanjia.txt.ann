@@ -1,0 +1,99 @@
+
+
+
+
+紫盟平台用户隐私政策
+
+
+
+
+
+紫盟平台用户隐私协议
+
+
+
+紫盟平台用户隐私政策
+
+发布日期：2022年1月1日
+生效日期：2022年1月1日
+当您使用壶管家APP服务时，您会向宜兴市万人帮网络科技有限公司（以下简称“万人帮科技”）主动提供一些信息，您同意并许可万人帮科技收集您的一些信息，以向您提供服务。
+
+一、收集您隐私信息、获取的收集权限及用途：
+（1）壶管家APP基于DClouduni-app开发，应用运行期间需要收集您的[@设备唯一识别码#敏感权限类型 PHONE*]（[@IMEI#敏感权限类型 PHONE*]/[@android ID#敏感权限类型 PHONE*]/[@DEVICE_ID#敏感权限类型 PHONE*]、[@SIM 卡 IMSI 信息#敏感权限类型 PHONE*]、[@OAID#敏感权限类型 PHONE*]、[@MAC#敏感权限类型 PHONE*]）以提供统计分析服务，并通过应用启动数据及异常错误日志分析改进性能和您体验，为您提供更好的服务。
+（2）获取写入删除[@存储空间权限#敏感权限类型 STORAGE*]，安卓手机提示为“允许壶管家访问您设备上的[@照片#敏感权限类型 STORAGE*]、媒体和文件”，用于应用保存运行状态登录状态等信息（启动本应用就需要此权限）、读取[@照片#敏感权限类型 STORAGE*]以上传商品图片信息和保存商品图片到本地存储；
+（3）[@拨打电话权限#敏感权限类型 PHONE*]（显示为：要允许壶管家[@拨打电话#敏感权限类型 PHONE*]和管理通话吗），用于快速发起拨打客服电话；
+（4）获取WiFi[@定位#敏感权限类型 LOCATION*]和获取[@GPS定位#敏感权限类型 LOCATION*]用于协助您快速填写地址信息和连接蓝牙设备时使用；
+（5）读取手机识别码用于为您提供您自身业务信息推送服务；
+（6）[@读取存储空间#敏感权限类型 STORAGE*]用于您主动选择并上传商品图片；
+（7）获取[@相机权限#敏感权限类型 CAMERA*]用于您拍照并上传商品图片；
+（8）获取蓝牙权限用于连接蓝牙标签打印机和蓝牙小票打印机；
+
+二、第三方收集数据信息
+（1）为了保障壶管家APP相关功能的实现与应用安全稳定的运行，我们会接入由第三方提供的软件工具开发包（以下称：SDK）以实现相关目的
+（2）万人帮科技会对合作方获取信息的SDK进行严格的安全数据监测，以保障您的数据安全；
+（3）万人帮科技对第三方SDK列明如下：
+
+阿里weexSDK
+包名：com.taobao
+使用目的：uni-app基础模块默认集成，用于渲染uniapp的nvue页面引擎
+使用的权限：android.permission.[@WRITE_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]、android.permission.READ_EXTERNAL_STORAG
+数据类型：[@存储文件#敏感权限类型 STORAGE*]
+隐私权政策链接：http://doc.weex.io/zh
+
+Fresco图库
+包名：com.facebook.fresco
+使用目的：用于nvue页面加载图片使用
+使用的权限：android.permission.[@WRITE_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]、android.permission.READ_EXTERNAL_STORAG
+数据类型：[@存储文件#敏感权限类型 STORAGE*]
+隐私权政策链接：https://www.fresco-cn.org/
+
+glide图库
+包名：com.bumptech.glide
+使用目的：用于图片预览使用
+使用的权限：android.permission.[@WRITE_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]、android.permission.READ_EXTERNAL_STORAG
+数据类型：[@存储文件#敏感权限类型 STORAGE*]
+隐私权政策链接：http://bumptech.github.io/glide/
+
+gif-drawable
+包名：pl.droidsonroids.gif
+使用目的：加载gif图
+使用的权限：android.permission.[@WRITE_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]、android.permission.READ_EXTERNAL_STORAG
+数据类型：[@存储文件#敏感权限类型 STORAGE*]
+隐私权政策链接：https://github.com/alibaba/fastjson
+
+fastjson
+包名：com.alibaba.fastjson
+使用目的：JSON解析
+隐私权政策链接：https://github.com/alibaba/fastjson
+
+移动安全联盟[@OAID#敏感权限类型 PHONE*]
+包名：com.bun.miitmdid、com.zui.opendeviceidlibrary
+使用目的：获取[@oaid#敏感权限类型 PHONE*]
+数据类型：[@设备信息#敏感权限类型 PHONE*]
+隐私权政策链接：http://www.msa-alliance.cn/col.jsp?id=105
+
+高德开放平台
+包名：com.amap.api,com.loc,com.autonavi
+使用目的：实现[@定位#敏感权限类型 LOCATION*]/展现地图，协助用户填写地址信息
+使用的权限：android.permission.[@ACCESS_COARSE_LOCATION#敏感权限类型 LOCATION*]、android.permission.[@ACCESS_FINE_LOCATION#敏感权限类型 LOCATION*]、android.permission.ACCESS_NETWORK_STATE、android.permission.ACCESS_WIFI_STATE、android.permission.CHANGE_WIFI_STATE、android.permission.[@READ_PHONE_STATE#敏感权限类型 PHONE*]、android.permission.[@WRITE_EXTERNAL_STORAGE#敏感权限类型 STORAGE*]、android.permission.[@ACCESS_LOCATION_EXTRA_COMMANDS#敏感权限类型 LOCATION*]
+数据类型：存储的个人文件、[@位置信息#敏感权限类型 LOCATION*]、[@读取手机状态和身份#敏感权限类型 PHONE*]、网络信息
+隐私权政策链接：https://lbs.amap.com/agreement/compliance
+
+三、保护和存储个人信息
+
+为确保个人资料的正确使用，万人帮科技采取了适当的管理措施以保障APP收集个人资料的保密性。万人帮科技采用了安全技术措施来保护数据，建立严格的信息存储和使用制度规范，并对可能接触到您的信息的人员也采取了严格管理，您的信息按照法定义务万人帮科技存储将不低于三年。
+
+四、个人信息的共享及披露
+
+在共享您的个人信息之前以及共享的过程中，我们将充分评估该等共享的合法性、正当性、必要性，并采用适当的管理措施与技术措施，以保障您的个人信息安全。我们对您的信息承担保密义务，未经您允许的情况下不公开您的个人信息。您同意，我们在下列情况下将您的信息与第三方共享：
+（1）经您同意，向您授权的第三方披露
+（2）根据法律的有关规定，或者行政或司法机构的要求，向第三方或者行政、司法机构披露；
+（3）如果您出现违反中国有关法律或者网站政策的情况，需要向第三方披露；
+（4）您需要使用第三方产品和服务时,为给提供您所要求的产品和服务，而必须和第三方分享您的个人信息；
+（5）其它紫盟平台根据法律、政策认为合适的披露；
+（6）您使用紫盟平台时提供的银行[@账户信息#敏感权限类型 CONTACTS*]，紫盟平台将严格履行相关保密约定。
+
+如有疑问，可通过平安一账通的客户服务邮箱寻求帮助
+电子邮箱：zimengyixing@163.com
+
+
