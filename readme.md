@@ -1,4 +1,4 @@
-The **APPCH Corpus** (**A**pplication **P**rivacy **P**olicies in **Ch**inese) is a collection of application privacy policies (i.e., in natural language) with annotations, which reveals privacy information collection practice through **nine dangerous Android PERMISSIONs**. 
+The **APPCH Corpus** (**A**pplication **P**rivacy **P**olicies in **Ch**inese) is a collection of application privacy policies (i.e., in natural language) with annotations, which reveals privacy information collection practice through **nine dangerous Android PERMISSIONs**.
 
 | PERMISSION Group | PERMSSIONs                                                   | LABEL |
 | ---------------- | ------------------------------------------------------------ | ----- |
